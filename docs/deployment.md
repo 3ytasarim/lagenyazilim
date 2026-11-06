@@ -35,7 +35,7 @@ sudo -u lagen git clone git@github.com:<hesap>/<repo>.git /var/www/lagen/repo
 | `DATABASE_URL_DIRECT` | Migration ve yedek için **pooler olmayan** bağlantı |
 | `SESSION_SECRET` | ≥32 karakter rastgele; değişirse oturumlar ve şifreli SMTP/2FA sırları geçersizleşir |
 | `NEXT_PUBLIC_SITE_URL` | `https://www.lagenyazilim.com.tr` (robots.txt yalnızca bu host'ta taramaya açılır) |
-| `STORAGE_DIR` | `/var/www/lagen/shared/storage` — release klasörünün DIŞINDA |
+| `STORAGE_DIR` | Mutlak yol, release klasörünün DIŞINDA (ör. `/var/www/lagenyazilim/shared/storage`). Uygulama üretimde göreli/boş değerle çalışmaz |
 | `PORT` | `3490` (varsayılan) |
 | `SMTP_*`, `NOTIFY_TO` | İsteğe bağlı; boşsa admin panelinden girilir |
 | `UMAMI_ORIGIN` | Umami kullanılacaksa (CSP'ye eklenir) |
