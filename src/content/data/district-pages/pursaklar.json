@@ -1,0 +1,52 @@
+{
+  "slug": "pursaklar",
+  "name": "Pursaklar",
+  "h1": "Büyüyen Pursaklar'da Yeni Açılan İşletmeler İçin İlk Dijital Adımlar",
+  "seoTitle": "Pursaklar Sosyal Medya ve Web Sitesi | Lagen Yazılım",
+  "seoDescription": "Pursaklar'da yeni açılan mağaza, emlak ofisi ve hizmet işletmeleri için web sitesi, sosyal medya yönetimi ve yerel aramada görünürlük çalışması.",
+  "intro": "Pursaklar'ın nüfusu son iki yılda düzenli olarak arttı ve ilçeye yeni taşınan aileler, çevredeki dükkânları çoğunlukla internetten keşfediyor. Yeni açılan bir fırın, kuaför, emlak ofisi ya da spor salonu için bu, doğru kurulmuş bir dijital varlıkla hızlı tanınma fırsatı demek. Lagen Yazılım, işletmenizin ilk web sitesini, sosyal medya hesaplarını ve harita kaydını tutarlı bir kimlikle hazırlıyor. Site yönetim paneliyle teslim edildiği için açılış kampanyası veya yeni hizmet duyurusunu siz yayınlarsınız.",
+  "localNeeds": "Yeni yerleşim alanlarında insanlar mahalleyi tanımaya çalışırken \"en yakın\" aramalarını sık kullanır. Bu nedenle açılış döneminde Google İşletme Profili, net adres tarifi ve güncel fotoğraflar ilk sırada gelir. Konut projelerinin arttığı bir ilçede emlak ve inşaat firmaları için ilan ve proje sayfalarını kolayca güncelleyebilecekleri bir site önemlidir. Sosyal medyada açılış, indirim ve etkinlik paylaşımları, yeni gelen sakinlere ulaşmanın pratik yoludur. İlçedeki sanayi bölgesinde faaliyet gösteren firmalar ise personel ilanı ve kurumsal tanıtım için sade bir siteye ihtiyaç duyabilir.",
+  "localSectors": "Pursaklar, 2008'de çıkarılan bir kanunla Keçiören'den ayrılmış ve Altındağ ile Çubuk'tan aldığı mahallelerle ilçe statüsü kazanmıştır. İlçede 21 mahalle bulunur; Merkez, Saray Cumhuriyet, Saray Fatih, Saray Gümüşoluk, Sirkeli Yeşilova ve Yunus Emre bunlar arasındadır. TÜİK verilerine dayanan yerel habere göre nüfus 2025'te 168.881 kişiye ulaşmıştır; habere göre artışta yeni konut projeleri ve merkeze yakınlık etkilidir. Yerel basında ilçedeki sanayi bölgesinde faaliyet gösteren işletmelerin personel ilanlarına da yer verilmektedir.",
+  "serviceModel": "Pursaklar'da çalıştığımız işletmelerin çoğu açılış ya da büyüme aşamasında olduğu için takvimi açılış tarihinize göre geriye doğru planlıyoruz. Tanışma görüşmesini dükkânınızda, çevrim içi ya da Çankaya Harbiye'deki ofisimizde yapabiliriz. Logo, renk ve dil gibi temel kimlik unsurlarını önce netleştiriyor, ardından site ve sosyal medya hesaplarını aynı görünümle hazırlıyoruz. Mekân ve ürün fotoğraflarınızı panelden yükleyebilir, açılıştan önce hangi karelerin profilde ve paylaşımlarda yer alacağına birlikte karar verebiliriz. Açılıştan sonraki ilk aylarda paylaşım planını sizinle birlikte yürütüyoruz.",
+  "faqs": [
+    {
+      "q": "Dükkânımızı önümüzdeki ay açıyoruz, dijital hazırlığa ne zaman başlamalıyız?",
+      "a": "Mümkün olduğunca erken. Google İşletme Profili doğrulaması ve sosyal medya hesaplarının hazırlanması zaman alabildiği için açılıştan birkaç hafta önce başlamak, ilk günden görünür olmanızı kolaylaştırır."
+    },
+    {
+      "q": "Emlak ofisimizin ilanlarını sitede kendimiz yayınlayabilir miyiz?",
+      "a": "Evet. İlan ekleme, fotoğraf yükleme ve satıldı olarak işaretleme gibi işlemleri yönetim panelinden yapabileceğiniz bir yapı kuruyoruz."
+    },
+    {
+      "q": "Henüz logomuz yok, sosyal medya hesaplarını yine de açabilir miyiz?",
+      "a": "Açabilirsiniz ama önce basit bir görsel kimlik belirlemenizi öneririz. Böylece site, tabela ve paylaşımlar aynı görünümde olur ve akılda kalmanız kolaylaşır."
+    },
+    {
+      "q": "Saray tarafındaki mahallelerde de müşteri bulmak istiyoruz, bunu nasıl hedefleriz?",
+      "a": "Hizmet bölgenizi sayfalarda Saray Cumhuriyet, Saray Fatih gibi mahalle adlarıyla açıkça yazmak ve işletme profilinde hizmet alanını tanımlamak iyi bir başlangıçtır. Sosyal medya reklamlarında da hedeflemeyi bu bölgelerle sınırlayabilirsiniz."
+    },
+    {
+      "q": "İnşaat firmamızın konut projesi için ayrı bir tanıtım sitesi gerekir mi?",
+      "a": "Proje büyükse ayrı bir tanıtım sayfası, kat planlarını ve satış ofisi iletişimini öne çıkarmak için daha etkili olur. Bunu ana sitenizin altında ya da ayrı bir alan adıyla kurabiliriz. İnşaat ilerledikçe kendi ekibinizin hazırladığı güncel fotoğrafları panelden ekleyebilirsiniz."
+    }
+  ],
+  "relatedServices": [
+    "ankara-sosyal-medya-yonetimi",
+    "ankara-web-tasarim",
+    "ankara-seo-hizmeti"
+  ],
+  "sources": [
+    {
+      "title": "Pursaklar – Vikipedi",
+      "url": "https://tr.wikipedia.org/wiki/Pursaklar"
+    },
+    {
+      "title": "Pursaklar'ın nüfusu rekor kırdı – Yeni Ankara (2026)",
+      "url": "https://www.yeniankara.com.tr/pursaklar/pursaklarin-nufusu-rekor-kirdi-akin-akin-goc-aliyor-170410"
+    },
+    {
+      "title": "Pursaklar'da iş arayanlara müjde: Farklı sektörlerden personel alımı başladı – Yeni Ankara",
+      "url": "https://www.yeniankara.com.tr/pursaklar/pursaklarda-is-arayanlara-mujde-farkli-sektorlerden-personel-alimi-basladi-113441"
+    }
+  ]
+}

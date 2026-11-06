@@ -1,0 +1,53 @@
+{
+  "slug": "konya",
+  "name": "Konya",
+  "h1": "Konya Makine ve Yan Sanayi Üreticilerine Web Tasarım ve Katalog",
+  "seoTitle": "Konya Web Tasarım ve Kurumsal Katalog | Lagen Yazılım",
+  "seoDescription": "Konya'daki makine, tarım makinesi ve yan sanayi üreticileri için çok dilli kurumsal site, ürün kataloğu ve bayi portalı. Uzaktan çalışıyoruz, teklif alın.",
+  "intro": "Konya, döküm atölyelerinden tarım makinesi fabrikalarına uzanan geniş bir üretim tabanına sahip bir sanayi kenti. Mevlana Kalkınma Ajansı'nın yatırım ofisi; ana metal döküm, otomotiv yan sanayi, tarım alet ve makineleri, makine imalatı ve plastik ambalajı ilin öne çıkan sektörleri arasında sayıyor. Böyle bir şehirde alıcıların çoğu, bir üreticiyle telefonla konuşmadan önce web sitesine ve kataloğuna bakıyor. Lagen Yazılım, Ankara Çankaya Harbiye'deki ofisinden Konya'daki işletmelerle uzaktan çalışarak bu ilk izlenimi güçlendiren kurumsal siteler, ürün katalogları ve özel yazılımlar geliştiriyor.",
+  "localNeeds": "Konya'da üretim yapan bir firmanın sitesi, teknik bilgiyi düzenli biçimde sunabilmeli. Pulluk, ekim makinesi ya da bir otomotiv parçası satan işletme için ölçü tabloları, malzeme bilgileri ve uyumluluk notları ürün sayfasında net görünmelidir. Yurt dışından teklif isteyen bir distribütör, aynı bilgiyi İngilizce veya Arapça gibi farklı dillerde okuyabilmeli; bu nedenle çok dilli yapı burada bir tercih değil, ihtiyaçtır. Bayi ağıyla çalışan üreticiler, fiyat listelerini ve yedek parça kodlarını yalnızca yetkili bayilerin gördüğü kapalı bir portalda tutmak isteyebilir. Fuar öncesi güncellenen PDF katalog ile web sitesinin aynı veriden beslenmesi de iki ayrı iş yapmayı ortadan kaldırır.",
+  "localSectors": "Konya'nın ekonomisi tarım ile sanayinin iç içe geçtiği bir yapıya dayanıyor. Geniş ovası nedeniyle uzun süredir tahıl üretimiyle bilinen il, bu birikimi tarım makineleri imalatına taşımış durumda. Konya İl Sanayi Durum Raporu, Konya OSB'de makine, otomotiv yedek parçası ve dökümün ağırlıkta olduğunu, ilçelerdeki bazı OSB'lerde ise tarım makinelerinin öne çıktığını belirtiyor. Yatırım ofisi gıda, ayakkabı, savunma sanayi, enerji ve lojistiği de ilin sektörleri arasında gösteriyor. Mevlana Müzesi ise şehri her yıl ziyaret eden yerli ve yabancı turistlerin ana durağı; bu da otel, restoran ve hediyelik ürün satan işletmeler için ayrı bir dijital pazar demek.",
+  "serviceModel": "Konya ile Ankara arasındaki yakın bağlantıya rağmen projelerin büyük kısmını uzaktan yürütüyoruz. İlk görüşmede ürün gruplarınızı, bayi yapınızı ve hedef pazarlarınızı video toplantıda konuşuyoruz. Ardından site haritası ve katalog şablonu paylaşılan bir belgede onayınıza sunuluyor; ürün verilerini bir tablo üzerinden birlikte topluyoruz. Kapsamlı bir keşif çalıştayı gerektiren projelerde fabrikanızda yüz yüze bir toplantı da planlanabilir. Teslimden sonra yeni ürünleri, belgeleri ve haberleri yönetim panelinden kendi ekibiniz ekliyor.",
+  "faqs": [
+    {
+      "q": "Tarım makinesi kataloğumuzdaki teknik tabloları siteye nasıl aktarırsınız?",
+      "a": "Mevcut tablolarınız ürün kartlarına alan alan dönüştürülüyor. Böylece ziyaretçi bir modeli seçtiğinde çalışma genişliği, güç ihtiyacı gibi değerleri düzenli bir tabloda görüyor; aynı veri PDF kataloğa da aktarılabiliyor."
+    },
+    {
+      "q": "Otomotiv yan sanayi için parça kodu araması yapılabilir mi?",
+      "a": "Evet. Özel yazılım kapsamında OEM ya da kendi parça kodlarınızla arama yapılan bir ürün listesi kurulabiliyor. Kod listesi büyükse toplu içe aktarma için bir yükleme ekranı da eklenebiliyor."
+    },
+    {
+      "q": "Yurt dışındaki distribütörlere yönelik dil seçenekleri nasıl yönetiliyor?",
+      "a": "Site çok dilli kurgulanıyor ve her dil için ayrı URL üretiliyor. Çeviri metinlerini sizden ya da çevirmeninizden alıyoruz; yönetim panelinde her ürünün dil karşılıklarını yan yana düzenleyebiliyorsunuz."
+    },
+    {
+      "q": "Mevlana Müzesi çevresindeki bir otel veya restoran için de çalışıyor musunuz?",
+      "a": "Evet. Turizm işletmeleri için rezervasyon yönlendirmesi olan, çok dilli ve mobil uyumlu siteler hazırlıyoruz. Google İşletme Profili bilgilerinin site ile tutarlı olmasına da dikkat ediyoruz."
+    }
+  ],
+  "relatedServices": [
+    "ankara-web-tasarim",
+    "ankara-katalog-tasarimi",
+    "ankara-ozel-yazilim",
+    "ankara-seo-hizmeti"
+  ],
+  "sources": [
+    {
+      "title": "Konya Yatırım Destek Ofisi - Mevlana Kalkınma Ajansı",
+      "url": "https://www.konyadayatirim.gov.tr"
+    },
+    {
+      "title": "Konya İl Sanayi Durum Raporu - Konya Yatırım Destek Ofisi",
+      "url": "https://www.konyadayatirim.gov.tr/assets/upload/dosyalar/konya-il-sanayi-durum-raporu.pdf"
+    },
+    {
+      "title": "Konya Tarım Makineleri Sektörü Tanıtım Kitabı - Konya Yatırım Destek Ofisi",
+      "url": "https://www.konyadayatirim.gov.tr/assets/upload/dosyalar/konya-tarim-makineleri-sektoru-tanitim-kitabi.pdf"
+    },
+    {
+      "title": "Konya - Vikipedi",
+      "url": "https://tr.wikipedia.org/wiki/Konya"
+    }
+  ]
+}

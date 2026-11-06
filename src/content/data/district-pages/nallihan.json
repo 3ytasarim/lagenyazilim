@@ -1,0 +1,34 @@
+{
+  "slug": "nallihan",
+  "name": "Nallıhan",
+  "h1": "Nallıhan İçin Kuş Cenneti'nden Domates Tarlasına Uzanan Dijital Tanıtım",
+  "seoTitle": "Nallıhan Sosyal Medya ve Web Sitesi | Lagen Yazılım",
+  "seoDescription": "Nallıhan'daki doğa turizmi, konaklama, iğne oyası ve tarım işletmeleri için sosyal medya yönetimi, sade web siteleri ve ürün kataloğu tasarımı.",
+  "intro": "Nallıhan, Ankara'nın batısında, sınırları içinde Sarıyar Barajı'nı barındıran bir ilçe. Barajın kuzeyindeki Kuş Cenneti kuş gözlemcilerini ve fotoğrafçıları çekiyor, ilçe ise iğne oyası ile domates ve biber üretimiyle de biliniyor. Görsel açıdan bu kadar zengin bir bölgede, işletmelerin internetteki görüntüsü çoğu zaman sahip oldukları potansiyelin gerisinde kalıyor. Lagen Yazılım bu açığı düzenli sosyal medya, sade bir web sitesi ve doğru kurulmuş bir harita kaydıyla kapatmaya odaklanıyor.",
+  "localNeeds": "Kuş gözlemi ya da doğa gezisi için gelen ziyaretçiler, yola çıkmadan önce konaklama, yemek ve rehberlik seçeneklerini internette araştırır. Pansiyon, restoran ya da tur hizmeti veren bir işletme için güncel fotoğraflarla dolu bir Instagram hesabı ve harita kaydı burada en hızlı sonuç veren adımdır. İğne oyası gibi el emeği ürünlerde ise ilmek detayını gösteren yakın plan fotoğraflar ve ürün hikâyesini anlatan kısa bir sayfa, şehirdeki alıcıyla güven kurmanın yoludur. Sebze üreten çiftçiler ve aracılar içinse iletişim bilgisi, ürün dönemleri ve kapasiteyi gösteren tek sayfalık bir tanıtım çoğu zaman yeterlidir.",
+  "localSectors": "Vikipedi'deki ilçe maddesine göre domates ve biber Nallıhan'ın başlıca geçim kaynaklarındandır; ilçede bor madeni çıkarılır, Çayırhan Termik Santrali ile bir sodyum sülfat tesisi bulunur ve bazı köylerde yün ayıklama ve yıkama tesisleri vardır. Aynı kaynak ilçenin iğne oyalarıyla ünlü olduğunu, Sarıyar ve Yenice hidroelektrik santrallerinin de ilçe sınırlarında yer aldığını belirtir. Kure Ansiklopedisi'ne göre Nallıhan Kuş Cenneti, Sarıyar Barajı'nın kuzeyinde Aladağ Çayı'nın barajla birleştiği noktadadır, 2005'te Yaban Hayatı Geliştirme Sahası olarak tescil edilmiştir ve kara leyleğin Türkiye'de en yoğun ürediği alan olarak anılır. Tarihi Nasuh Paşa Hanı da ilçenin simgeleri arasındadır.",
+  "serviceModel": "Nallıhan'daki işletmelerle ilk görüşmeyi çoğunlukla çevrim içi yapıyoruz; Ankara merkezde işi olanlar Çankaya Harbiye'deki ofisimize de uğrayabiliyor. Görüşmede işletmenin kime satış yaptığını ve hangi mevsimde yoğunlaştığını konuşup önceliği birlikte seçiyoruz: bazen önce sosyal medya, bazen önce web sitesi. Sosyal medya yönetiminde işletmenin kendi çektiği oda, ürün ve manzara fotoğraflarından yola çıkarak paylaşım takvimini, gönderi tasarımlarını ve metinleri biz hazırlıyoruz. Web sitesi kurulduğunda yönetim paneliyle teslim ediliyor, böylece yeni ürün ya da oda fotoğraflarını kendiniz ekleyebiliyorsunuz.",
+  "faqs": [
+    {
+      "q": "Pansiyonumuz için önce site mi, önce Instagram mı?",
+      "a": "Misafirleriniz sizi daha çok sosyal medyadan buluyorsa önce düzenli bir Instagram akışı ve harita kaydı daha hızlı sonuç verir. Rezervasyon talebi ve ayrıntılı bilgi için ardından sade bir site eklemek mantıklıdır."
+    },
+    {
+      "q": "Kuş gözlemcilerine hitap eden bir pansiyonun sitesinde neler olmalı?",
+      "a": "Kuş Cenneti'ne uzaklık, erken çıkışa uygun kahvaltı saati gibi pratik bilgiler, oda seçenekleri ve iletişim yolu temel başlıklardır. Bu bilgileri sitede ve harita kaydında aynı şekilde tutmak ziyaretçinin güvenini artırır."
+    },
+    {
+      "q": "İğne oyası ürünlerimizi internette nasıl tanıtabiliriz?",
+      "a": "Sizin paylaştığınız ilmek detayı ve kullanım fotoğraflarını kısa ürün açıklamalarıyla bir galeri ya da katalog sayfasında bir araya getiriyoruz. Bu içerikler sosyal medyada da kullanılabiliyor."
+    },
+    {
+      "q": "Domates ve biber üreticileri için web sitesi gerçekten gerekli mi?",
+      "a": "Her üretici için şart değil. Toptancı ve marketlerle düzenli çalışmak isteyen üreticiler için ürün dönemlerini, kapasiteyi ve iletişim bilgisini gösteren kısa bir tanıtım sayfası güven oluşturur ve telefonla anlatılan bilgileri tek bağlantıda toplar."
+    }
+  ],
+  "relatedServices": ["ankara-sosyal-medya-yonetimi", "ankara-web-tasarim", "ankara-katalog-tasarimi"],
+  "sources": [
+    { "title": "Nallıhan – Vikipedi", "url": "https://tr.wikipedia.org/wiki/Nall%C4%B1han" },
+    { "title": "Nallıhan Kuş Cenneti – Kure Ansiklopedisi", "url": "https://kureansiklopedi.com/tr/detay/nallihan-kus-cenneti-ce202" }
+  ]
+}

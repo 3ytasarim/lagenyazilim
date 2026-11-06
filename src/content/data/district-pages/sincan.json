@@ -1,0 +1,34 @@
+{
+  "slug": "sincan",
+  "name": "Sincan",
+  "h1": "Sincan OSB Firmalarına Kurumsal Site, Ürün Kataloğu ve Talep Takip Yazılımı",
+  "seoTitle": "Sincan OSB Kurumsal Web Sitesi ve Katalog | Lagen Yazılım",
+  "seoDescription": "Sincan'daki ASO 1. OSB, 2. ve 3. OSB ile Başkent OSB firmaları için kurumsal web sitesi, ürün kataloğu, kariyer sayfası ve özel yazılım.",
+  "intro": "Sincan, Ankara'nın fabrika yoğunluğu en yüksek ilçelerinden biri ve ilçedeki üretici firmaların büyük bölümü organize sanayi bölgelerinde çalışıyor. Bu firmalar için web sitesi, yeni bir müşterinin ya da tedarikçi denetçisinin tesise gelmeden önce baktığı ilk belge gibidir. Lagen Yazılım, kurumsal site, katalog ve ihtiyaç hâlinde özel yazılımı tek bir proje olarak ele alıyor. Teslim ettiğimiz yönetim paneliyle sertifika, ürün ve haber içeriklerini kendi ekibiniz yayınlar.",
+  "localNeeds": "Fabrikası olan bir işletme için kapasiteyi ve kaliteyi görünür kılmak satışın yarısıdır. Üretim hattı, makine parkı ve depo görüntüleri; kalite belgeleri ve referans sektör bilgisiyle birleştiğinde güven veren bir kurumsal anlatım ortaya çıkar. Ürün çeşidi geniş firmalar için basılı ve dijital katalog, fuar ve ziyaretlerde elde tutulan en pratik araçtır. Ayrıca insan kaynakları sayfası, OSB'deki işletmelerin aday başvurusu toplaması için sık kullanılan bir bölümdür. Tedarikçi ya da sipariş süreçlerini e-posta zincirinden çıkarmak isteyen firmalar için bir talep takip paneli de düşünülebilir. Yurt dışı müşterisi olan üreticilerde ise en azından ürün ve tesis sayfalarının İngilizce versiyonu, ilk temasın kurulmasını kolaylaştırır.",
+  "localSectors": "Sincan'daki Ankara Sanayi Odası 1. Organize Sanayi Bölgesi 1990'da tamamlanmıştır ve Ankara'nın en büyük OSB'si olarak tanımlanır; bölgede yurt içi ve yurt dışı merkezli çok sayıda fabrika bulunur. Temelli beldesinin Sincan'a bağlanmasıyla ASO 2. ve 3. OSB ile Başkent OSB kurulmuş, ilçedeki fabrika sayısı önemli ölçüde artmıştır. Sincan, mobilya, dayanıklı ev eşyası, giyim, tekstil, eğitim ve gıda alanlarında çevre ilçeler için bir alışveriş merkezi konumundadır. İlçede iki Başkentray istasyonu ve OSB-Törekent dahil dört metro durağı vardır.",
+  "serviceModel": "Sanayi firmalarıyla çalışırken ilk adım genellikle tesis turudur; üretimi yerinde görmek, sitede neyin anlatılacağını netleştiriyor. Fabrikanıza gelemediğimiz durumlarda planlama görüşmesini çevrim içi ya da Çankaya Harbiye'deki ofisimizde yapıyoruz. Ardından içerik başlıklarını, ürün gruplarını ve hangi bölümde hangi görselin yer alacağını sizinle birlikte çıkarıyoruz. Tesis ve ürün fotoğraflarını kendi arşivinizden ya da çalıştığınız fotoğrafçıdan panele yüklemeniz yeterli; görseli eksik kalan bölümleri size önceden bir liste olarak iletiyoruz. Site ve katalog aynı görsel ve metin altyapısından üretildiği için ikisi birbiriyle tutarlı kalıyor. Talep takip paneli gibi özel yazılım işlerini ise site yayına girdikten sonra ayrı bir aşama olarak ele alıyor, önce kullanıcılarınızın mevcut iş akışını dinliyoruz.",
+  "faqs": [
+    {
+      "q": "1. OSB'deki fabrikamızın yurt dışı müşterileri için İngilizce sayfalar hazırlıyor musunuz?",
+      "a": "Hazırlıyoruz. Ürün, tesis ve kalite sayfalarının İngilizce sürümünü Türkçe içerikle aynı panelden yönetilecek şekilde kuruyoruz. Teknik terimlerin sektörünüzde doğru karşılığı bulması için çevirileri yayından önce kendi mühendislerinizin kontrol etmesini öneriyoruz."
+    },
+    {
+      "q": "Kalite belgelerimizi ve sertifikalarımızı sitede nasıl gösterirsiniz?",
+      "a": "Belgeler için ayrı bir bölüm kuruyoruz. Her belgeyi panelden PDF olarak yükleyebilir, geçerlilik tarihi değiştiğinde yenisiyle değiştirebilirsiniz."
+    },
+    {
+      "q": "Fuarlar için basılı katalog ile web sitesini birlikte hazırlatmak mantıklı mı?",
+      "a": "Çoğu zaman öyle. Elinizdeki ürün fotoğrafları ve teknik metinler bir kez toplanıp iki kanalda kullanılır, böylece hem bütçe hem süre açısından tekrar yapılan iş azalır."
+    },
+    {
+      "q": "İş başvurularını site üzerinden toplayabilir miyiz?",
+      "a": "Evet. Pozisyon ilanlarını panelden yayınlayabileceğiniz, adayların CV yükleyebileceği bir kariyer bölümü ekleyebiliyoruz. Başvurular panelde listelenir ve kişisel verilerin saklanması için gerekli aydınlatma metni alanı forma eklenir."
+    }
+  ],
+  "relatedServices": ["ankara-web-tasarim", "ankara-katalog-tasarimi", "ankara-ozel-yazilim"],
+  "sources": [
+    { "title": "Sincan, Ankara – Vikipedi", "url": "https://tr.wikipedia.org/wiki/Sincan,_Ankara" },
+    { "title": "Sincan, Ankara – Wikipedia (ASO 1. OSB)", "url": "https://en.wikipedia.org/wiki/Sincan,_Ankara" }
+  ]
+}

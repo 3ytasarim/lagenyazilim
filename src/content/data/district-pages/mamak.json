@@ -1,0 +1,38 @@
+{
+  "slug": "mamak",
+  "name": "Mamak",
+  "h1": "Mamak'taki Küçük Üreticiler ve Esnaf İçin Sade, Bulunabilir Web Siteleri",
+  "seoTitle": "Mamak Web Sitesi ve Google Görünürlüğü | Lagen Yazılım",
+  "seoDescription": "Mamak'taki atölye, imalathane ve mahalle esnafı için anlaşılır web sitesi, Google İşletme Profili düzenlemesi ve yerel arama optimizasyonu.",
+  "intro": "Mamak'ta pek çok işletme yıllardır kulaktan kulağa büyüdü. Bugün ise müşteri, ustayı ya da dükkânı önce arama motorunda, sonra haritada kontrol ediyor. Lagen Yazılım, ilçedeki atölye, imalathane ve esnaf için bütçeyi zorlamayan, anlaşılır ve telefonla kolay gezilen web siteleri hazırlıyor. Bunu Google İşletme Profili düzenlemesi ve yerel arama çalışmasıyla tamamlıyoruz.",
+  "localNeeds": "Küçük bir üretim atölyesi için iyi bir web sitesi, ne ürettiğini, hangi işleri kabul ettiğini ve nasıl sipariş alındığını üç dört sayfada anlatır. Sanayi bölgesinde parsel sahibi olan firmalar, kredi veya iş ortaklığı görüşmelerinde ciddi görünmek için kurumsal bir tanıtım sayfasına ve düzgün e-posta adreslerine ihtiyaç duyar. Kayaş, Kızılca ya da Nenek gibi mahalle adlarıyla arama yapan müşteriye ulaşmak için hizmet bölgesini açıkça yazan sayfalar işe yarar. Mahalle esnafında ise yorumlara yanıt vermek ve güncel fotoğraf eklemek, ilk izlenimi doğrudan etkiler. Telefon numarasına tek dokunuşla ulaşılabilmesi ve yol tarifinin haritaya bağlanması da küçük ama sonuç getiren ayrıntılardır. Ürettiği işi fotoğraflarla gösteren bir usta, fiyat sorulmadan önce güven kazanır.",
+  "localSectors": "Mamak 65 mahalleden oluşan bir ilçedir; Kayaş, Nenek, Kızılca, Bayındır, Ortaköy ve Gökçeyurt bu mahalleler arasındadır. Bayındır ve Kutludüğün 2008'de ilçeye katılmıştır. Gökçeyurt (Nenek) Mahallesi'ndeki sanayi bölgesinde, imar uygulamasının ardından 214 bin metrekarelik alanda fabrika ve işletmelere ait sanayi parselleri tamamlanmış ve tapuları 2015'te hak sahiplerine verilmiştir. Belediye, bu bölgenin istihdam açısından stratejik önemde olduğunu açıklamıştır. İlçe tarihsel olarak askeri birliği ve cezaevi ile de anılır.",
+  "serviceModel": "Mamak'taki işletmelerle genellikle tek bir planlama toplantısıyla başlıyoruz. Bu toplantıyı atölyenizde, dükkânınızda, çevrim içi ya da Harbiye'deki ofisimizde yapabiliriz. Hangi işlerin size en çok kazandırdığını konuşup siteyi o işlere göre kurguluyoruz. Metinleri sizin anlattıklarınızdan yola çıkarak sade bir dille yazıyoruz; atölye ve ürün fotoğraflarını ise elinizdekilerden seçip panelden yüklemeniz yeterli. Yayından sonra yönetim panelini kısa bir eğitimle teslim ediyoruz. Yeni ürün ya da iş fotoğrafı eklemek, eğitimden sonra birkaç dakikalık bir iş hâline gelir.",
+  "faqs": [
+    {
+      "q": "Gökçeyurt'taki imalathanemiz için birkaç sayfalık basit bir site yeterli olur mu?",
+      "a": "Çoğu küçük üretici için yeterli olur. Hakkımızda, ürünler veya hizmetler, iletişim ve harita sayfasından oluşan bir yapı, ihtiyaç arttıkça yeni bölümlerle büyütülebilir."
+    },
+    {
+      "q": "Google haritalarda işletmemiz yanlış adreste görünüyor, düzeltebilir misiniz?",
+      "a": "İşletme profilinizin sahipliğini doğrulama, adres ve çalışma saatlerini güncelleme sürecinde size yol gösteriyor, profili sitenizle tutarlı hâle getiriyoruz."
+    },
+    {
+      "q": "Site metinlerini kendimiz yazmak zorunda mıyız?",
+      "a": "Hayır. Görüşmede işinizi bize anlatmanız yeterli; metinleri biz hazırlayıp onayınıza sunuyoruz. Sonradan değişiklik yapmak isterseniz panelden kendiniz düzenleyebilirsiniz."
+    },
+    {
+      "q": "Sadece belirli mahallelere servis veriyoruz, bunu sitede nasıl göstermeliyiz?",
+      "a": "Hizmet verdiğiniz mahalleleri iletişim ve hizmet sayfalarında açıkça listelemenizi öneriyoruz. Bu, hem müşterinin boşuna aramasını önler hem de o mahalle adıyla yapılan aramalarda sayfanızın konuyla ilgisini güçlendirir."
+    },
+    {
+      "q": "Sosyal medya hesabımız var ama düzenli paylaşım yapamıyoruz. Ne önerirsiniz?",
+      "a": "Küçük işletmeler için haftada birkaç paylaşımlık gerçekçi bir plan yeterli olabilir. Biz ay başında içerikleri ve gönderi tasarımlarını hazırlıyoruz, siz onaylıyorsunuz; paylaşımı ister biz yapalım ister siz."
+    }
+  ],
+  "relatedServices": ["ankara-web-tasarim", "ankara-seo-hizmeti", "ankara-sosyal-medya-yonetimi"],
+  "sources": [
+    { "title": "Mamak, Ankara – Vikipedi", "url": "https://tr.wikipedia.org/wiki/Mamak,_Ankara" },
+    { "title": "Mamak Sanayileşmede Atağa Kalktı – İhlas Haber Ajansı / haberler.com (6 Ekim 2015)", "url": "https://www.haberler.com/mamak-sanayilesmede-ataga-kalkti-7749427-haberi/" }
+  ]
+}

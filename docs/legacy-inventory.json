@@ -1,0 +1,2453 @@
+[
+  {
+    "url": "https://www.lagenyazilim.com.tr/blog-2/",
+    "status": 200,
+    "title": "Blog - Lagen Yazılım | Ankara Web Tasarım",
+    "description": "August 2, 2020John1 comment",
+    "canonical": "https://www.lagenyazilim.com.tr/blog-2/",
+    "h1": [
+      "Blog"
+    ],
+    "wordCount": 109,
+    "jsonLdTypes": [
+      "Organization",
+      "ImageObject",
+      "WebSite",
+      "CollectionPage"
+    ],
+    "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+    "images": 4,
+    "imagesEmptyAlt": 4,
+    "type": "page",
+    "inSitemap": true
+  },
+  {
+    "url": "https://www.lagenyazilim.com.tr/",
+    "status": 200,
+    "title": "- Lagen Yazılım | Ankara Web Tasarım",
+    "description": "Lagen Yazılım olarak 10 yılı aşkın tecrübemiz ve gerçekleştirdiğimiz binden fazla proje ile her alanda iş çözümleri sunuyoruz.",
+    "canonical": "https://www.lagenyazilim.com.tr/",
+    "h1": [
+      "Her Zaman Zirveye Oyna"
+    ],
+    "wordCount": 474,
+    "jsonLdTypes": [
+      "Organization",
+      "ImageObject",
+      "WebSite",
+      "SearchAction",
+      "WebPage",
+      "Person",
+      "Article"
+    ],
+    "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+    "images": 63,
+    "imagesEmptyAlt": 63,
+    "type": "page",
+    "inSitemap": true
+  },
+  {
+    "url": "https://www.lagenyazilim.com.tr/iletisim/",
+    "status": 200,
+    "title": "İletişim - Lagen Yazılım | Ankara Web Tasarım",
+    "description": "Aklınıza takılan her türlü sorular için bizimle iletişime geçiniz!",
+    "canonical": "https://www.lagenyazilim.com.tr/iletisim/",
+    "h1": [
+      "İletişim"
+    ],
+    "wordCount": 150,
+    "jsonLdTypes": [
+      "Organization",
+      "ImageObject",
+      "WebSite",
+      "WebPage",
+      "Person",
+      "Article"
+    ],
+    "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+    "images": 5,
+    "imagesEmptyAlt": 5,
+    "type": "page",
+    "inSitemap": true
+  },
+  {
+    "url": "https://www.lagenyazilim.com.tr/hakkimizda/",
+    "status": 200,
+    "title": "Hakkımızda - Lagen Yazılım | Ankara Web Tasarım",
+    "description": "Lagen Yazılım olarak 10 yılı aşkın tecrübemiz ve gerçekleştirdiğimiz binden fazla proje ile firmanızın dijital dünyada ihtiyaç duyduğu, her alanda iş",
+    "canonical": "https://www.lagenyazilim.com.tr/hakkimizda/",
+    "h1": [
+      "Hakkımızda",
+      "Her Zaman Zirveye Oyna"
+    ],
+    "wordCount": 325,
+    "jsonLdTypes": [
+      "Organization",
+      "ImageObject",
+      "WebSite",
+      "WebPage",
+      "Person",
+      "Article"
+    ],
+    "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+    "images": 15,
+    "imagesEmptyAlt": 15,
+    "type": "page",
+    "inSitemap": true
+  },
+  {
+    "url": "https://www.lagenyazilim.com.tr/ankara-seo-hizmeti/",
+    "status": 200,
+    "title": "Ankara Seo Hizmeti - 2023 - Lagen Yazılım | Ankara Web Tasarım",
+    "description": "Ankara SEO hizmeti, arama motorları içerisinde yer alan web sitesinin optimize edilerek organik sıralamalarda görünürlüğünün artması anlamına gelmektedir.",
+    "canonical": "https://www.lagenyazilim.com.tr/ankara-seo-hizmeti/",
+    "h1": [
+      "Ankara Seo Hizmeti – 2023"
+    ],
+    "wordCount": 1646,
+    "jsonLdTypes": [
+      "Organization",
+      "ImageObject",
+      "WebSite",
+      "WebPage",
+      "Person",
+      "Article"
+    ],
+    "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+    "images": 17,
+    "imagesEmptyAlt": 16,
+    "type": "service",
+    "inSitemap": true
+  },
+  {
+    "url": "https://www.lagenyazilim.com.tr/ankara-web-tasarim/",
+    "status": 200,
+    "title": "Ankara Web Tasarım - 2023 - Lagen Yazılım | Ankara Web Tasarım",
+    "description": "Ankara web tasarım hizmetimiz ile işletmenizin dijital varlığını güçlendirin. Profesyonel ekibimiz ile özel tasarımlar ile markanızı en iyi şekilde temsil edin.",
+    "canonical": "https://www.lagenyazilim.com.tr/ankara-web-tasarim/",
+    "h1": [
+      "Ankara Web Tasarım – 2023",
+      "Web Sitesi Tasarım Aşamalarımız"
+    ],
+    "wordCount": 2165,
+    "jsonLdTypes": [
+      "Organization",
+      "ImageObject",
+      "WebSite",
+      "WebPage",
+      "Person",
+      "Article"
+    ],
+    "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+    "images": 15,
+    "imagesEmptyAlt": 14,
+    "type": "service",
+    "inSitemap": true
+  },
+  {
+    "url": "https://www.lagenyazilim.com.tr/ankara-sosyal-medya-yonetimi/",
+    "status": 200,
+    "title": "Ankara Sosyal Medya Yönetimi - 2023 - Lagen Yazılım | Ankara Web Tasarım",
+    "description": "Ankara sosyal medya yönetimi,işletmenizin sosyal medya platformlarını etkili bir şekilde kullanarak marka bilinirliğini artırmanız geliştirmeniz anlamına gelir.",
+    "canonical": "https://www.lagenyazilim.com.tr/ankara-sosyal-medya-yonetimi/",
+    "h1": [
+      "Ankara Sosyal Medya Yönetimi – 2023"
+    ],
+    "wordCount": 481,
+    "jsonLdTypes": [
+      "Organization",
+      "ImageObject",
+      "WebSite",
+      "WebPage",
+      "Person",
+      "Article"
+    ],
+    "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+    "images": 7,
+    "imagesEmptyAlt": 6,
+    "type": "service",
+    "inSitemap": true
+  },
+  {
+    "url": "https://www.lagenyazilim.com.tr/ankara-ozel-yazilim/",
+    "status": 200,
+    "title": "Ankara Özel Yazılım- 2023 - Lagen Yazılım | Ankara Web Tasarım",
+    "description": "Ankara özel yazılım çözümleriyle işletmenizin potansiyelini artırabilir, verimliliği yükseltebilir ve rekabet avantajı elde edebilirsiniz.",
+    "canonical": "https://www.lagenyazilim.com.tr/ankara-ozel-yazilim/",
+    "h1": [
+      "Ankara Özel Yazılım- 2023"
+    ],
+    "wordCount": 486,
+    "jsonLdTypes": [
+      "Organization",
+      "ImageObject",
+      "WebSite",
+      "WebPage",
+      "Person",
+      "Article"
+    ],
+    "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+    "images": 8,
+    "imagesEmptyAlt": 7,
+    "type": "service",
+    "inSitemap": true
+  },
+  {
+    "url": "https://www.lagenyazilim.com.tr/ankara-katalog-tasarimi/",
+    "status": 200,
+    "title": "Ankara Katalog Tasarımı-2023 - Lagen Yazılım | Ankara Web Tasarım",
+    "description": "Ankara katalog tasarımı olarak, firmanızın tanıtımını yapmak ve kendiniz hakkında bilgi vermek istiyorsanız en uygun reklam alanıdır.",
+    "canonical": "https://www.lagenyazilim.com.tr/ankara-katalog-tasarimi/",
+    "h1": [
+      "Ankara Katalog Tasarımı-2023"
+    ],
+    "wordCount": 930,
+    "jsonLdTypes": [
+      "Organization",
+      "ImageObject",
+      "WebSite",
+      "WebPage",
+      "Person",
+      "Article"
+    ],
+    "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+    "images": 7,
+    "imagesEmptyAlt": 6,
+    "type": "service",
+    "inSitemap": true
+  },
+  {
+    "url": "https://www.lagenyazilim.com.tr/ankara-fotograf-cekimi/",
+    "status": 200,
+    "title": "Ankara Fotoğraf Çekimi 2023 - Lagen Yazılım | Ankara Web Tasarım",
+    "description": "Ankara fotoğraf çekimi hizmetleriyle görsel anlatımınızı güçlendirin. Fotoğrafçılarımız ve drone operatörlerimizle özel çekimler yaparak firmanıza hava katın.",
+    "canonical": "https://www.lagenyazilim.com.tr/ankara-fotograf-cekimi/",
+    "h1": [
+      "Ankara Fotoğraf Çekimi 2023"
+    ],
+    "wordCount": 840,
+    "jsonLdTypes": [
+      "Organization",
+      "ImageObject",
+      "WebSite",
+      "WebPage",
+      "Person",
+      "Article"
+    ],
+    "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+    "images": 6,
+    "imagesEmptyAlt": 4,
+    "type": "service",
+    "inSitemap": true
+  },
+  {
+    "url": "https://www.lagenyazilim.com.tr/checkout/",
+    "status": 302,
+    "redirectTo": "https://www.lagenyazilim.com.tr",
+    "title": null,
+    "description": null,
+    "canonical": null,
+    "h1": [],
+    "wordCount": 0,
+    "jsonLdTypes": [],
+    "robots": null,
+    "images": 0,
+    "imagesEmptyAlt": 0,
+    "type": "page",
+    "inSitemap": true
+  },
+  {
+    "url": "https://www.lagenyazilim.com.tr/product/turn-stool-with-felt-2/",
+    "status": 200,
+    "title": "Turn Stool With Felt - Lagen Yazılım | Ankara Web Tasarım",
+    "description": "Proin consequat eros a aliquet sollicitudin. Fusce cursus tortor in consequat convallis. Proin ac euismod felis. Duis consectetur felis quis tincidunt tempus.",
+    "canonical": "https://www.lagenyazilim.com.tr/product/turn-stool-with-felt-2/",
+    "h1": [
+      "Turn Stool With Felt"
+    ],
+    "wordCount": 625,
+    "jsonLdTypes": [
+      "Organization",
+      "ImageObject",
+      "WebSite",
+      "ItemPage",
+      "Product",
+      "QuantitativeValue",
+      "Offer"
+    ],
+    "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+    "images": 10,
+    "imagesEmptyAlt": 9,
+    "type": "other",
+    "note": "woocommerce-demo-product",
+    "inSitemap": true
+  },
+  {
+    "url": "https://www.lagenyazilim.com.tr/product/menu-knitting-lounge-chair-2/",
+    "status": 200,
+    "title": "Menu Knitting Lounge Chair - Lagen Yazılım | Ankara Web Tasarım",
+    "description": "Aliquam tempor lobortis molestie. Cras quis viverra justo, non venenatis felis. Sed non euismod odio. Praesent eget turpis vel velit congue vehicula sit amet sed leonorm.",
+    "canonical": "https://www.lagenyazilim.com.tr/product/menu-knitting-lounge-chair-2/",
+    "h1": [
+      "Menu Knitting Lounge Chair"
+    ],
+    "wordCount": 738,
+    "jsonLdTypes": [
+      "Organization",
+      "ImageObject",
+      "WebSite",
+      "ItemPage",
+      "Product",
+      "QuantitativeValue",
+      "Offer"
+    ],
+    "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+    "images": 13,
+    "imagesEmptyAlt": 12,
+    "type": "other",
+    "note": "woocommerce-demo-product",
+    "inSitemap": true
+  },
+  {
+    "url": "https://www.lagenyazilim.com.tr/product/genesis-2/",
+    "status": 200,
+    "title": "Genesis - Lagen Yazılım | Ankara Web Tasarım",
+    "description": "Maecenas varius id metus eu rutrum. Ut porta eu sapien sed finibus. Vivamus facilisis, diam in mollis finibus, tortor orci egestas sapien, id egestas sapien leo et mi.",
+    "canonical": "https://www.lagenyazilim.com.tr/product/genesis-2/",
+    "h1": [
+      "Genesis"
+    ],
+    "wordCount": 632,
+    "jsonLdTypes": [
+      "Organization",
+      "ImageObject",
+      "WebSite",
+      "ItemPage",
+      "Product",
+      "QuantitativeValue",
+      "Offer"
+    ],
+    "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+    "images": 8,
+    "imagesEmptyAlt": 7,
+    "type": "other",
+    "note": "woocommerce-demo-product",
+    "inSitemap": true
+  },
+  {
+    "url": "https://www.lagenyazilim.com.tr/product/start-doing-4th-edition-2/",
+    "status": 200,
+    "title": "Start Doing 4th Edition - Lagen Yazılım | Ankara Web Tasarım",
+    "description": "Maecenas varius id metus eu rutrum. Ut porta eu sapien sed finibus. Vivamus facilisis, diam in mollis finibus, tortor orci egestas sapien, id egestas sapien leo et mi.",
+    "canonical": "https://www.lagenyazilim.com.tr/product/start-doing-4th-edition-2/",
+    "h1": [
+      "Start Doing 4th Edition"
+    ],
+    "wordCount": 640,
+    "jsonLdTypes": [
+      "Organization",
+      "ImageObject",
+      "WebSite",
+      "ItemPage",
+      "Product",
+      "QuantitativeValue",
+      "Offer"
+    ],
+    "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+    "images": 8,
+    "imagesEmptyAlt": 7,
+    "type": "other",
+    "note": "woocommerce-demo-product",
+    "inSitemap": true
+  },
+  {
+    "url": "https://www.lagenyazilim.com.tr/product/spirit-hard-cover-2/",
+    "status": 200,
+    "title": "Spirit Hard Cover - Lagen Yazılım | Ankara Web Tasarım",
+    "description": "Maecenas varius id metus eu rutrum. Ut porta eu sapien sed finibus. Vivamus facilisis, diam in mollis finibus, tortor orci egestas sapien, id egestas sapien leo et mi.",
+    "canonical": "https://www.lagenyazilim.com.tr/product/spirit-hard-cover-2/",
+    "h1": [
+      "Spirit Hard Cover"
+    ],
+    "wordCount": 638,
+    "jsonLdTypes": [
+      "Organization",
+      "ImageObject",
+      "WebSite",
+      "ItemPage",
+      "Product",
+      "QuantitativeValue",
+      "Offer"
+    ],
+    "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+    "images": 8,
+    "imagesEmptyAlt": 7,
+    "type": "other",
+    "note": "woocommerce-demo-product",
+    "inSitemap": true
+  },
+  {
+    "url": "https://www.lagenyazilim.com.tr/product/power-to-be-peaceful-2/",
+    "status": 200,
+    "title": "Power to Be Peaceful - Lagen Yazılım | Ankara Web Tasarım",
+    "description": "Maecenas varius id metus eu rutrum. Ut porta eu sapien sed finibus. Vivamus facilisis, diam in mollis finibus, tortor orci egestas sapien, id egestas sapien leo et mi.",
+    "canonical": "https://www.lagenyazilim.com.tr/product/power-to-be-peaceful-2/",
+    "h1": [
+      "Power to Be Peaceful"
+    ],
+    "wordCount": 648,
+    "jsonLdTypes": [
+      "Organization",
+      "ImageObject",
+      "WebSite",
+      "ItemPage",
+      "Product",
+      "QuantitativeValue",
+      "Offer"
+    ],
+    "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+    "images": 8,
+    "imagesEmptyAlt": 7,
+    "type": "other",
+    "note": "woocommerce-demo-product",
+    "inSitemap": true
+  },
+  {
+    "url": "https://www.lagenyazilim.com.tr/product/beat-fat-pendant-light-brass-2/",
+    "status": 200,
+    "title": "Beat Fat Pendant Light Brass - Lagen Yazılım | Ankara Web Tasarım",
+    "description": "Etiam sodales, lectus sit amet fermentum ullamcorper, ligula tellus bibendum tortor, non pretium erat erat nec nisl. Etiam quis urna id nibh feugiat lobortis.Nullam pharetra nisi ut metus blandit, at rutrum magna dapibus. Duis fringilla vestibulum metus quis sagittis.",
+    "canonical": "https://www.lagenyazilim.com.tr/product/beat-fat-pendant-light-brass-2/",
+    "h1": [
+      "Beat Fat Pendant Light Brass"
+    ],
+    "wordCount": 650,
+    "jsonLdTypes": [
+      "Organization",
+      "ImageObject",
+      "WebSite",
+      "ItemPage",
+      "Product",
+      "QuantitativeValue",
+      "Offer"
+    ],
+    "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+    "images": 10,
+    "imagesEmptyAlt": 9,
+    "type": "other",
+    "note": "woocommerce-demo-product",
+    "inSitemap": true
+  },
+  {
+    "url": "https://www.lagenyazilim.com.tr/product/tone-wall-clock-2/",
+    "status": 200,
+    "title": "Tone Wall Clock - Lagen Yazılım | Ankara Web Tasarım",
+    "description": "Vivamus ut erat ut est finibus suscipit. Sed pulvinar tellus sed porta eleifend. Praesent ac metus id odio tristique egestas. Suspendisse ut fringilla urna. Vestibulum ultrices ipsum lacus, non blandit quam consequat eu. Suspendisse lobortis in elit eget dignissim.",
+    "canonical": "https://www.lagenyazilim.com.tr/product/tone-wall-clock-2/",
+    "h1": [
+      "Tone Wall Clock"
+    ],
+    "wordCount": 617,
+    "jsonLdTypes": [
+      "Organization",
+      "ImageObject",
+      "WebSite",
+      "ItemPage",
+      "Product",
+      "QuantitativeValue",
+      "Offer"
+    ],
+    "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+    "images": 9,
+    "imagesEmptyAlt": 8,
+    "type": "other",
+    "note": "woocommerce-demo-product",
+    "inSitemap": true
+  },
+  {
+    "url": "https://www.lagenyazilim.com.tr/product/beat-fat-pendant-black-2/",
+    "status": 200,
+    "title": "Beat Fat Pendant Black - Lagen Yazılım | Ankara Web Tasarım",
+    "description": "Suspendisse non elementum tellus, sit amet malesuada purus. Maecenas sagittis eros eget auctor convallis. Praesent at nisi laoreet, convallis purus in, luctus dui. Nullam dignissim convallis lacinia. Nunc pulvinar eleifend finibus. Curabitur id malesuada lorem.",
+    "canonical": "https://www.lagenyazilim.com.tr/product/beat-fat-pendant-black-2/",
+    "h1": [
+      "Beat Fat Pendant Black"
+    ],
+    "wordCount": 644,
+    "jsonLdTypes": [
+      "Organization",
+      "ImageObject",
+      "WebSite",
+      "ItemPage",
+      "Product",
+      "QuantitativeValue",
+      "Offer"
+    ],
+    "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+    "images": 12,
+    "imagesEmptyAlt": 11,
+    "type": "other",
+    "note": "woocommerce-demo-product",
+    "inSitemap": true
+  },
+  {
+    "url": "https://www.lagenyazilim.com.tr/product/copenhagen-ad-floor-lamp-2/",
+    "status": 200,
+    "title": "Copenhagen AD Floor Lamp - Lagen Yazılım | Ankara Web Tasarım",
+    "description": "Nulla eu laoreet arcu. Nam pulvinar semper odio, et auctor urna porttitor ac. Nulla facilisi. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas porta lobortis ullamcorper. Suspendisse a metus velit.",
+    "canonical": "https://www.lagenyazilim.com.tr/product/copenhagen-ad-floor-lamp-2/",
+    "h1": [
+      "Copenhagen AD Floor Lamp"
+    ],
+    "wordCount": 620,
+    "jsonLdTypes": [
+      "Organization",
+      "ImageObject",
+      "WebSite",
+      "ItemPage",
+      "Product",
+      "QuantitativeValue",
+      "Offer"
+    ],
+    "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+    "images": 11,
+    "imagesEmptyAlt": 10,
+    "type": "other",
+    "note": "woocommerce-demo-product",
+    "inSitemap": true
+  },
+  {
+    "url": "https://www.lagenyazilim.com.tr/product/modway-nutshell-lounge-chair-2/",
+    "status": 200,
+    "title": "Modway Nutshell Lounge Chair - Lagen Yazılım | Ankara Web Tasarım",
+    "description": "Nulla eu laoreet arcu. Nam pulvinar semper odio, et auctor urna porttitor ac. Nulla facilisi. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas porta lobortis ullamcorper. Suspendisse a metus velit.",
+    "canonical": "https://www.lagenyazilim.com.tr/product/modway-nutshell-lounge-chair-2/",
+    "h1": [
+      "Modway Nutshell Lounge Chair"
+    ],
+    "wordCount": 615,
+    "jsonLdTypes": [
+      "Organization",
+      "ImageObject",
+      "WebSite",
+      "ItemPage",
+      "Product",
+      "QuantitativeValue",
+      "Offer"
+    ],
+    "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+    "images": 10,
+    "imagesEmptyAlt": 9,
+    "type": "other",
+    "note": "woocommerce-demo-product",
+    "inSitemap": true
+  },
+  {
+    "url": "https://www.lagenyazilim.com.tr/product/brew-stove-coffee-maker-2/",
+    "status": 200,
+    "title": "Brew Stove Coffee Maker - Lagen Yazılım | Ankara Web Tasarım",
+    "description": "Morbi non blandit lacus. Aliquam tincidunt tempus mauris consequat varius. Phasellus elementum non ex gravida feugiat. Curabitur ultrices metus eu tincidunt accumsan.",
+    "canonical": "https://www.lagenyazilim.com.tr/product/brew-stove-coffee-maker-2/",
+    "h1": [
+      "Brew Stove Coffee Maker"
+    ],
+    "wordCount": 648,
+    "jsonLdTypes": [
+      "Organization",
+      "ImageObject",
+      "WebSite",
+      "ItemPage",
+      "Product",
+      "QuantitativeValue",
+      "Offer"
+    ],
+    "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+    "images": 10,
+    "imagesEmptyAlt": 9,
+    "type": "other",
+    "note": "woocommerce-demo-product",
+    "inSitemap": true
+  },
+  {
+    "url": "https://www.lagenyazilim.com.tr/product/umanoff-side-table-2/",
+    "status": 200,
+    "title": "Umanoff Side Table - Lagen Yazılım | Ankara Web Tasarım",
+    "description": "Maecenas varius id metus eu rutrum. Ut porta eu sapien sed finibus. Vivamus facilisis, diam in mollis finibus, tortor orci egestas sapien, id egestas sapien leo et mi.",
+    "canonical": "https://www.lagenyazilim.com.tr/product/umanoff-side-table-2/",
+    "h1": [
+      "Umanoff Side Table"
+    ],
+    "wordCount": 688,
+    "jsonLdTypes": [
+      "Organization",
+      "ImageObject",
+      "WebSite",
+      "ItemPage",
+      "Product",
+      "QuantitativeValue",
+      "AggregateOffer"
+    ],
+    "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+    "images": 11,
+    "imagesEmptyAlt": 10,
+    "type": "other",
+    "note": "woocommerce-demo-product",
+    "inSitemap": true
+  },
+  {
+    "url": "https://www.lagenyazilim.com.tr/product/troll-vase-2/",
+    "status": 200,
+    "title": "Troll Vase - Lagen Yazılım | Ankara Web Tasarım",
+    "description": "Aenean aliquam interdum tortor, ut tincidunt turpis rhoncus vitae. Nulla metus mauris, sodales ac malesuada et, finibus quis leo. Aenean vitae velit neque. Nulla imperdiet ultrices mi. Nulla dapibus libero nec arcu pharetra faucibus.",
+    "canonical": "https://www.lagenyazilim.com.tr/product/troll-vase-2/",
+    "h1": [
+      "Troll Vase"
+    ],
+    "wordCount": 625,
+    "jsonLdTypes": [
+      "Organization",
+      "ImageObject",
+      "WebSite",
+      "ItemPage",
+      "Product",
+      "QuantitativeValue",
+      "AggregateOffer"
+    ],
+    "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+    "images": 12,
+    "imagesEmptyAlt": 11,
+    "type": "other",
+    "note": "woocommerce-demo-product",
+    "inSitemap": true
+  },
+  {
+    "url": "https://www.lagenyazilim.com.tr/product/studio-wm-string-lounge-chair-2/",
+    "status": 200,
+    "title": "Studio WM String Lounge Chair - Lagen Yazılım | Ankara Web Tasarım",
+    "description": "Aenean aliquam interdum tortor, ut tincidunt turpis rhoncus vitae. Nulla metus mauris, sodales ac malesuada et, finibus quis leo. Aenean vitae velit neque. Nulla imperdiet ultrices mi. Nulla dapibus libero nec arcu pharetra faucibus.",
+    "canonical": "https://www.lagenyazilim.com.tr/product/studio-wm-string-lounge-chair-2/",
+    "h1": [
+      "Studio WM String Lounge Chair"
+    ],
+    "wordCount": 745,
+    "jsonLdTypes": [
+      "Organization",
+      "ImageObject",
+      "WebSite",
+      "ItemPage",
+      "Product",
+      "QuantitativeValue",
+      "Offer"
+    ],
+    "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+    "images": 12,
+    "imagesEmptyAlt": 11,
+    "type": "other",
+    "note": "woocommerce-demo-product",
+    "inSitemap": true
+  },
+  {
+    "url": "https://www.lagenyazilim.com.tr/product/passage-stool-2/",
+    "status": 200,
+    "title": "Passage Stool - Lagen Yazılım | Ankara Web Tasarım",
+    "description": "Aenean aliquam interdum tortor, ut tincidunt turpis rhoncus vitae. Nulla metus mauris, sodales ac malesuada et, finibus quis leo. Aenean vitae velit neque. Nulla imperdiet ultrices mi. Nulla dapibus libero nec arcu pharetra faucibus.",
+    "canonical": "https://www.lagenyazilim.com.tr/product/passage-stool-2/",
+    "h1": [
+      "Passage Stool"
+    ],
+    "wordCount": 756,
+    "jsonLdTypes": [
+      "Organization",
+      "ImageObject",
+      "WebSite",
+      "ItemPage",
+      "Product",
+      "QuantitativeValue",
+      "Offer"
+    ],
+    "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+    "images": 12,
+    "imagesEmptyAlt": 11,
+    "type": "other",
+    "note": "woocommerce-demo-product",
+    "inSitemap": true
+  },
+  {
+    "url": "https://www.lagenyazilim.com.tr/product/echasse-bowl-2/",
+    "status": 200,
+    "title": "Echasse Bowl - Lagen Yazılım | Ankara Web Tasarım",
+    "description": "Sed non lorem rhoncus, tempus sapien a, vestibulum leo. Praesent et elementum eros, sit amet gravida lacus. Maecenas tempor, nunc at vehicula maximus. Donec pharetra, mi id sodales ornare, eros leo congue urna.",
+    "canonical": "https://www.lagenyazilim.com.tr/product/echasse-bowl-2/",
+    "h1": [
+      "Echasse Bowl"
+    ],
+    "wordCount": 722,
+    "jsonLdTypes": [
+      "Organization",
+      "ImageObject",
+      "WebSite",
+      "ItemPage",
+      "Product",
+      "QuantitativeValue",
+      "AggregateOffer"
+    ],
+    "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+    "images": 11,
+    "imagesEmptyAlt": 10,
+    "type": "other",
+    "note": "woocommerce-demo-product",
+    "inSitemap": true
+  },
+  {
+    "url": "https://www.lagenyazilim.com.tr/product/co-lounge-chair-2/",
+    "status": 200,
+    "title": "Co Lounge Chair - Lagen Yazılım | Ankara Web Tasarım",
+    "description": "Etiam vitae tortor auctor, tempus mauris ut, sagittis est. Vivamus eget mauris quis nisl semper maximus nec non neque. Integer vel odio a risus commodo feugiat id ac arcu. Aliquam euismod, eros quis euismod consectetur.",
+    "canonical": "https://www.lagenyazilim.com.tr/product/co-lounge-chair-2/",
+    "h1": [
+      "Co Lounge Chair"
+    ],
+    "wordCount": 658,
+    "jsonLdTypes": [
+      "Organization",
+      "ImageObject",
+      "WebSite",
+      "ItemPage",
+      "Product",
+      "QuantitativeValue",
+      "Offer"
+    ],
+    "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+    "images": 12,
+    "imagesEmptyAlt": 11,
+    "type": "other",
+    "note": "woocommerce-demo-product",
+    "inSitemap": true
+  },
+  {
+    "url": "https://www.lagenyazilim.com.tr/product/bath-pedal-bin-2/",
+    "status": 200,
+    "title": "Bath Pedal Bin - Lagen Yazılım | Ankara Web Tasarım",
+    "description": "Curabitur dapibus eleifend quam sed posuere. Nunc luctus elit a justo elementum, sed scelerisque nisl mollis. Nullam non rhoncus turpis. Suspendisse eros est, aliquam non felis eget, feugiat blandit enim.",
+    "canonical": "https://www.lagenyazilim.com.tr/product/bath-pedal-bin-2/",
+    "h1": [
+      "Bath Pedal Bin"
+    ],
+    "wordCount": 731,
+    "jsonLdTypes": [
+      "Organization",
+      "ImageObject",
+      "WebSite",
+      "ItemPage",
+      "Product",
+      "QuantitativeValue",
+      "Offer"
+    ],
+    "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+    "images": 11,
+    "imagesEmptyAlt": 10,
+    "type": "other",
+    "note": "woocommerce-demo-product",
+    "inSitemap": true
+  },
+  {
+    "url": "https://www.lagenyazilim.com.tr/product/afteroom-plus-chair-2/",
+    "status": 200,
+    "title": "Afteroom Plus Chair - Lagen Yazılım | Ankara Web Tasarım",
+    "description": "Proin consequat eros a aliquet sollicitudin. Fusce cursus tortor in consequat convallis. Proin ac euismod felis. Duis consectetur felis quis tincidunt tempus. Morbi sodales tincidunt maximus. Nullam at faucibus libero.",
+    "canonical": "https://www.lagenyazilim.com.tr/product/afteroom-plus-chair-2/",
+    "h1": [
+      "Afteroom Plus Chair"
+    ],
+    "wordCount": 670,
+    "jsonLdTypes": [
+      "Organization",
+      "ImageObject",
+      "WebSite",
+      "ItemPage",
+      "Product",
+      "QuantitativeValue",
+      "Offer"
+    ],
+    "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+    "images": 10,
+    "imagesEmptyAlt": 9,
+    "type": "other",
+    "note": "woocommerce-demo-product",
+    "inSitemap": true
+  },
+  {
+    "url": "https://www.lagenyazilim.com.tr/product/pop-stool-2/",
+    "status": 200,
+    "title": "Pop Stool - Lagen Yazılım | Ankara Web Tasarım",
+    "description": "Sed facilisis vestibulum magna, vel feugiat felis auctor non. Duis lacus libero, imperdiet at turpis imperdiet, varius lacinia neque. Sed placerat lobortis odio, sed vehicula turpis.",
+    "canonical": "https://www.lagenyazilim.com.tr/product/pop-stool-2/",
+    "h1": [
+      "Pop Stool"
+    ],
+    "wordCount": 645,
+    "jsonLdTypes": [
+      "Organization",
+      "ImageObject",
+      "WebSite",
+      "ItemPage",
+      "Product",
+      "QuantitativeValue",
+      "Offer"
+    ],
+    "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+    "images": 9,
+    "imagesEmptyAlt": 8,
+    "type": "other",
+    "note": "woocommerce-demo-product",
+    "inSitemap": true
+  },
+  {
+    "url": "https://www.lagenyazilim.com.tr/product/nimbus-mirror-2/",
+    "status": 200,
+    "title": "Nimbus Mirror - Lagen Yazılım | Ankara Web Tasarım",
+    "description": "Nulla congue dui ante, quis feugiat urna dapibus sit amet. Donec id iaculis dolor. Nullam efficitur mattis gravida. Nam vehicula rutrum hendrerit.",
+    "canonical": "https://www.lagenyazilim.com.tr/product/nimbus-mirror-2/",
+    "h1": [
+      "Nimbus Mirror"
+    ],
+    "wordCount": 653,
+    "jsonLdTypes": [
+      "Organization",
+      "ImageObject",
+      "WebSite",
+      "ItemPage",
+      "Product",
+      "QuantitativeValue",
+      "Offer"
+    ],
+    "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+    "images": 11,
+    "imagesEmptyAlt": 10,
+    "type": "other",
+    "note": "woocommerce-demo-product",
+    "inSitemap": true
+  },
+  {
+    "url": "https://www.lagenyazilim.com.tr/product/tr-bulb-2/",
+    "status": 200,
+    "title": "TR Bulb - Lagen Yazılım | Ankara Web Tasarım",
+    "description": "Fusce eu sapien sapien. Nullam non suscipit augue. Mauris a tempor nulla. Nullam consequat magna quis porttitor venenatis. Integer ac metus mi. Vivamus vel diam nisl.",
+    "canonical": "https://www.lagenyazilim.com.tr/product/tr-bulb-2/",
+    "h1": [
+      "TR Bulb"
+    ],
+    "wordCount": 638,
+    "jsonLdTypes": [
+      "Organization",
+      "ImageObject",
+      "WebSite",
+      "ItemPage",
+      "Product",
+      "QuantitativeValue",
+      "Offer"
+    ],
+    "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+    "images": 13,
+    "imagesEmptyAlt": 12,
+    "type": "other",
+    "note": "woocommerce-demo-product",
+    "inSitemap": true
+  },
+  {
+    "url": "https://www.lagenyazilim.com.tr/product/umanoff-planter-2/",
+    "status": 200,
+    "title": "Umanoff Planter - Lagen Yazılım | Ankara Web Tasarım",
+    "description": "Pellentesque ut elit ligula. Phasellus ac odio eu enim aliquet laoreet vel et odio. Cras tellus tellus, molestie tempor tellus vitae, aliquam pretium orci. Aenean et lobortis felis ornuty maker sim.",
+    "canonical": "https://www.lagenyazilim.com.tr/product/umanoff-planter-2/",
+    "h1": [
+      "Umanoff Planter"
+    ],
+    "wordCount": 673,
+    "jsonLdTypes": [
+      "Organization",
+      "ImageObject",
+      "WebSite",
+      "ItemPage",
+      "Product",
+      "QuantitativeValue",
+      "Offer"
+    ],
+    "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+    "images": 12,
+    "imagesEmptyAlt": 11,
+    "type": "other",
+    "note": "woocommerce-demo-product",
+    "inSitemap": true
+  },
+  {
+    "url": "https://www.lagenyazilim.com.tr/product/wine-breather-carafe-2/",
+    "status": 200,
+    "title": "Wine Breather Carafe - Lagen Yazılım | Ankara Web Tasarım",
+    "description": "Maecenas varius id metus eu rutrum. Ut porta eu sapien sed finibus. Vivamus facilisis, diam in mollis finibus, tortor orci egestas sapien, id egestas sapien leo et mi.",
+    "canonical": "https://www.lagenyazilim.com.tr/product/wine-breather-carafe-2/",
+    "h1": [
+      "Wine Breather Carafe"
+    ],
+    "wordCount": 654,
+    "jsonLdTypes": [
+      "Organization",
+      "ImageObject",
+      "WebSite",
+      "ItemPage",
+      "Product",
+      "Offer"
+    ],
+    "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+    "images": 13,
+    "imagesEmptyAlt": 12,
+    "type": "other",
+    "note": "woocommerce-demo-product",
+    "inSitemap": true
+  },
+  {
+    "url": "https://www.lagenyazilim.com.tr/product/menu-knitting-lounge-chair/",
+    "status": 200,
+    "title": "Menu Knitting Lounge Chair - Lagen Yazılım | Ankara Web Tasarım",
+    "description": "Aliquam tempor lobortis molestie. Cras quis viverra justo, non venenatis felis. Sed non euismod odio. Praesent eget turpis vel velit congue vehicula sit amet sed leonorm.",
+    "canonical": "https://www.lagenyazilim.com.tr/product/menu-knitting-lounge-chair/",
+    "h1": [
+      "Menu Knitting Lounge Chair"
+    ],
+    "wordCount": 721,
+    "jsonLdTypes": [
+      "Organization",
+      "ImageObject",
+      "WebSite",
+      "ItemPage",
+      "Product",
+      "QuantitativeValue",
+      "Offer"
+    ],
+    "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+    "images": 13,
+    "imagesEmptyAlt": 12,
+    "type": "other",
+    "note": "woocommerce-demo-product",
+    "inSitemap": true
+  },
+  {
+    "url": "https://www.lagenyazilim.com.tr/product/genesis/",
+    "status": 200,
+    "title": "Genesis - Lagen Yazılım | Ankara Web Tasarım",
+    "description": "Maecenas varius id metus eu rutrum. Ut porta eu sapien sed finibus. Vivamus facilisis, diam in mollis finibus, tortor orci egestas sapien, id egestas sapien leo et mi.",
+    "canonical": "https://www.lagenyazilim.com.tr/product/genesis/",
+    "h1": [
+      "Genesis"
+    ],
+    "wordCount": 640,
+    "jsonLdTypes": [
+      "Organization",
+      "ImageObject",
+      "WebSite",
+      "ItemPage",
+      "Product",
+      "QuantitativeValue",
+      "Offer"
+    ],
+    "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+    "images": 8,
+    "imagesEmptyAlt": 7,
+    "type": "other",
+    "note": "woocommerce-demo-product",
+    "inSitemap": true
+  },
+  {
+    "url": "https://www.lagenyazilim.com.tr/product/power-to-be-peaceful/",
+    "status": 200,
+    "title": "Power to Be Peaceful - Lagen Yazılım | Ankara Web Tasarım",
+    "description": "Maecenas varius id metus eu rutrum. Ut porta eu sapien sed finibus. Vivamus facilisis, diam in mollis finibus, tortor orci egestas sapien, id egestas sapien leo et mi.",
+    "canonical": "https://www.lagenyazilim.com.tr/product/power-to-be-peaceful/",
+    "h1": [
+      "Power to Be Peaceful"
+    ],
+    "wordCount": 646,
+    "jsonLdTypes": [
+      "Organization",
+      "ImageObject",
+      "WebSite",
+      "ItemPage",
+      "Product",
+      "QuantitativeValue",
+      "Offer"
+    ],
+    "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+    "images": 8,
+    "imagesEmptyAlt": 7,
+    "type": "other",
+    "note": "woocommerce-demo-product",
+    "inSitemap": true
+  },
+  {
+    "url": "https://www.lagenyazilim.com.tr/product/spirit-hard-cover/",
+    "status": 200,
+    "title": "Spirit Hard Cover - Lagen Yazılım | Ankara Web Tasarım",
+    "description": "Maecenas varius id metus eu rutrum. Ut porta eu sapien sed finibus. Vivamus facilisis, diam in mollis finibus, tortor orci egestas sapien, id egestas sapien leo et mi.",
+    "canonical": "https://www.lagenyazilim.com.tr/product/spirit-hard-cover/",
+    "h1": [
+      "Spirit Hard Cover"
+    ],
+    "wordCount": 646,
+    "jsonLdTypes": [
+      "Organization",
+      "ImageObject",
+      "WebSite",
+      "ItemPage",
+      "Product",
+      "QuantitativeValue",
+      "Offer"
+    ],
+    "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+    "images": 8,
+    "imagesEmptyAlt": 7,
+    "type": "other",
+    "note": "woocommerce-demo-product",
+    "inSitemap": true
+  },
+  {
+    "url": "https://www.lagenyazilim.com.tr/product/start-doing-4th-edition/",
+    "status": 200,
+    "title": "Start Doing 4th Edition - Lagen Yazılım | Ankara Web Tasarım",
+    "description": "Maecenas varius id metus eu rutrum. Ut porta eu sapien sed finibus. Vivamus facilisis, diam in mollis finibus, tortor orci egestas sapien, id egestas sapien leo et mi.",
+    "canonical": "https://www.lagenyazilim.com.tr/product/start-doing-4th-edition/",
+    "h1": [
+      "Start Doing 4th Edition"
+    ],
+    "wordCount": 646,
+    "jsonLdTypes": [
+      "Organization",
+      "ImageObject",
+      "WebSite",
+      "ItemPage",
+      "Product",
+      "QuantitativeValue",
+      "Offer"
+    ],
+    "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+    "images": 8,
+    "imagesEmptyAlt": 7,
+    "type": "other",
+    "note": "woocommerce-demo-product",
+    "inSitemap": true
+  },
+  {
+    "url": "https://www.lagenyazilim.com.tr/product/beat-fat-pendant-light-brass/",
+    "status": 200,
+    "title": "Beat Fat Pendant Light Brass - Lagen Yazılım | Ankara Web Tasarım",
+    "description": "Etiam sodales, lectus sit amet fermentum ullamcorper, ligula tellus bibendum tortor, non pretium erat erat nec nisl. Etiam quis urna id nibh feugiat lobortis.Nullam pharetra nisi ut metus blandit, at rutrum magna dapibus. Duis fringilla vestibulum metus quis sagittis.",
+    "canonical": "https://www.lagenyazilim.com.tr/product/beat-fat-pendant-light-brass/",
+    "h1": [
+      "Beat Fat Pendant Light Brass"
+    ],
+    "wordCount": 671,
+    "jsonLdTypes": [
+      "Organization",
+      "ImageObject",
+      "WebSite",
+      "ItemPage",
+      "Product",
+      "QuantitativeValue",
+      "Offer"
+    ],
+    "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+    "images": 12,
+    "imagesEmptyAlt": 11,
+    "type": "other",
+    "note": "woocommerce-demo-product",
+    "inSitemap": true
+  },
+  {
+    "url": "https://www.lagenyazilim.com.tr/product/turn-stool-with-felt/",
+    "status": 200,
+    "title": "Turn Stool With Felt - Lagen Yazılım | Ankara Web Tasarım",
+    "description": "Proin consequat eros a aliquet sollicitudin. Fusce cursus tortor in consequat convallis. Proin ac euismod felis. Duis consectetur felis quis tincidunt tempus.",
+    "canonical": "https://www.lagenyazilim.com.tr/product/turn-stool-with-felt/",
+    "h1": [
+      "Turn Stool With Felt"
+    ],
+    "wordCount": 622,
+    "jsonLdTypes": [
+      "Organization",
+      "ImageObject",
+      "WebSite",
+      "ItemPage",
+      "Product",
+      "QuantitativeValue",
+      "Offer"
+    ],
+    "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+    "images": 10,
+    "imagesEmptyAlt": 9,
+    "type": "other",
+    "note": "woocommerce-demo-product",
+    "inSitemap": true
+  },
+  {
+    "url": "https://www.lagenyazilim.com.tr/product/brew-stove-coffee-maker/",
+    "status": 200,
+    "title": "Brew Stove Coffee Maker - Lagen Yazılım | Ankara Web Tasarım",
+    "description": "Morbi non blandit lacus. Aliquam tincidunt tempus mauris consequat varius. Phasellus elementum non ex gravida feugiat. Curabitur ultrices metus eu tincidunt accumsan.",
+    "canonical": "https://www.lagenyazilim.com.tr/product/brew-stove-coffee-maker/",
+    "h1": [
+      "Brew Stove Coffee Maker"
+    ],
+    "wordCount": 648,
+    "jsonLdTypes": [
+      "Organization",
+      "ImageObject",
+      "WebSite",
+      "ItemPage",
+      "Product",
+      "QuantitativeValue",
+      "Offer"
+    ],
+    "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+    "images": 10,
+    "imagesEmptyAlt": 9,
+    "type": "other",
+    "note": "woocommerce-demo-product",
+    "inSitemap": true
+  },
+  {
+    "url": "https://www.lagenyazilim.com.tr/product/modway-nutshell-lounge-chair/",
+    "status": 200,
+    "title": "Modway Nutshell Lounge Chair - Lagen Yazılım | Ankara Web Tasarım",
+    "description": "Nulla eu laoreet arcu. Nam pulvinar semper odio, et auctor urna porttitor ac. Nulla facilisi. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas porta lobortis ullamcorper. Suspendisse a metus velit.",
+    "canonical": "https://www.lagenyazilim.com.tr/product/modway-nutshell-lounge-chair/",
+    "h1": [
+      "Modway Nutshell Lounge Chair"
+    ],
+    "wordCount": 612,
+    "jsonLdTypes": [
+      "Organization",
+      "ImageObject",
+      "WebSite",
+      "ItemPage",
+      "Product",
+      "QuantitativeValue",
+      "Offer"
+    ],
+    "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+    "images": 10,
+    "imagesEmptyAlt": 9,
+    "type": "other",
+    "note": "woocommerce-demo-product",
+    "inSitemap": true
+  },
+  {
+    "url": "https://www.lagenyazilim.com.tr/product/copenhagen-ad-floor-lamp/",
+    "status": 200,
+    "title": "Copenhagen AD Floor Lamp - Lagen Yazılım | Ankara Web Tasarım",
+    "description": "Nulla eu laoreet arcu. Nam pulvinar semper odio, et auctor urna porttitor ac. Nulla facilisi. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas porta lobortis ullamcorper. Suspendisse a metus velit.",
+    "canonical": "https://www.lagenyazilim.com.tr/product/copenhagen-ad-floor-lamp/",
+    "h1": [
+      "Copenhagen AD Floor Lamp"
+    ],
+    "wordCount": 631,
+    "jsonLdTypes": [
+      "Organization",
+      "ImageObject",
+      "WebSite",
+      "ItemPage",
+      "Product",
+      "QuantitativeValue",
+      "Offer"
+    ],
+    "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+    "images": 11,
+    "imagesEmptyAlt": 10,
+    "type": "other",
+    "note": "woocommerce-demo-product",
+    "inSitemap": true
+  },
+  {
+    "url": "https://www.lagenyazilim.com.tr/product/beat-fat-pendant-black/",
+    "status": 200,
+    "title": "Beat Fat Pendant Black - Lagen Yazılım | Ankara Web Tasarım",
+    "description": "Suspendisse non elementum tellus, sit amet malesuada purus. Maecenas sagittis eros eget auctor convallis. Praesent at nisi laoreet, convallis purus in, luctus dui. Nullam dignissim convallis lacinia. Nunc pulvinar eleifend finibus. Curabitur id malesuada lorem.",
+    "canonical": "https://www.lagenyazilim.com.tr/product/beat-fat-pendant-black/",
+    "h1": [
+      "Beat Fat Pendant Black"
+    ],
+    "wordCount": 625,
+    "jsonLdTypes": [
+      "Organization",
+      "ImageObject",
+      "WebSite",
+      "ItemPage",
+      "Product",
+      "QuantitativeValue",
+      "Offer"
+    ],
+    "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+    "images": 10,
+    "imagesEmptyAlt": 9,
+    "type": "other",
+    "note": "woocommerce-demo-product",
+    "inSitemap": true
+  },
+  {
+    "url": "https://www.lagenyazilim.com.tr/product/tone-wall-clock/",
+    "status": 200,
+    "title": "Tone Wall Clock - Lagen Yazılım | Ankara Web Tasarım",
+    "description": "Vivamus ut erat ut est finibus suscipit. Sed pulvinar tellus sed porta eleifend. Praesent ac metus id odio tristique egestas. Suspendisse ut fringilla urna. Vestibulum ultrices ipsum lacus, non blandit quam consequat eu. Suspendisse lobortis in elit eget dignissim.",
+    "canonical": "https://www.lagenyazilim.com.tr/product/tone-wall-clock/",
+    "h1": [
+      "Tone Wall Clock"
+    ],
+    "wordCount": 605,
+    "jsonLdTypes": [
+      "Organization",
+      "ImageObject",
+      "WebSite",
+      "ItemPage",
+      "Product",
+      "QuantitativeValue",
+      "Offer"
+    ],
+    "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+    "images": 9,
+    "imagesEmptyAlt": 8,
+    "type": "other",
+    "note": "woocommerce-demo-product",
+    "inSitemap": true
+  },
+  {
+    "url": "https://www.lagenyazilim.com.tr/product/pop-stool/",
+    "status": 200,
+    "title": "Pop Stool - Lagen Yazılım | Ankara Web Tasarım",
+    "description": "Sed facilisis vestibulum magna, vel feugiat felis auctor non. Duis lacus libero, imperdiet at turpis imperdiet, varius lacinia neque. Sed placerat lobortis odio, sed vehicula turpis.",
+    "canonical": "https://www.lagenyazilim.com.tr/product/pop-stool/",
+    "h1": [
+      "Pop Stool"
+    ],
+    "wordCount": 644,
+    "jsonLdTypes": [
+      "Organization",
+      "ImageObject",
+      "WebSite",
+      "ItemPage",
+      "Product",
+      "QuantitativeValue",
+      "Offer"
+    ],
+    "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+    "images": 9,
+    "imagesEmptyAlt": 8,
+    "type": "other",
+    "note": "woocommerce-demo-product",
+    "inSitemap": true
+  },
+  {
+    "url": "https://www.lagenyazilim.com.tr/product/bath-pedal-bin/",
+    "status": 200,
+    "title": "Bath Pedal Bin - Lagen Yazılım | Ankara Web Tasarım",
+    "description": "Curabitur dapibus eleifend quam sed posuere. Nunc luctus elit a justo elementum, sed scelerisque nisl mollis. Nullam non rhoncus turpis. Suspendisse eros est, aliquam non felis eget, feugiat blandit enim.",
+    "canonical": "https://www.lagenyazilim.com.tr/product/bath-pedal-bin/",
+    "h1": [
+      "Bath Pedal Bin"
+    ],
+    "wordCount": 750,
+    "jsonLdTypes": [
+      "Organization",
+      "ImageObject",
+      "WebSite",
+      "ItemPage",
+      "Product",
+      "QuantitativeValue",
+      "Offer"
+    ],
+    "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+    "images": 11,
+    "imagesEmptyAlt": 10,
+    "type": "other",
+    "note": "woocommerce-demo-product",
+    "inSitemap": true
+  },
+  {
+    "url": "https://www.lagenyazilim.com.tr/product/studio-wm-string-lounge-chair/",
+    "status": 200,
+    "title": "Studio WM String Lounge Chair - Lagen Yazılım | Ankara Web Tasarım",
+    "description": "Aenean aliquam interdum tortor, ut tincidunt turpis rhoncus vitae. Nulla metus mauris, sodales ac malesuada et, finibus quis leo. Aenean vitae velit neque. Nulla imperdiet ultrices mi. Nulla dapibus libero nec arcu pharetra faucibus.",
+    "canonical": "https://www.lagenyazilim.com.tr/product/studio-wm-string-lounge-chair/",
+    "h1": [
+      "Studio WM String Lounge Chair"
+    ],
+    "wordCount": 756,
+    "jsonLdTypes": [
+      "Organization",
+      "ImageObject",
+      "WebSite",
+      "ItemPage",
+      "Product",
+      "QuantitativeValue",
+      "Offer"
+    ],
+    "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+    "images": 12,
+    "imagesEmptyAlt": 11,
+    "type": "other",
+    "note": "woocommerce-demo-product",
+    "inSitemap": true
+  },
+  {
+    "url": "https://www.lagenyazilim.com.tr/product/passage-stool/",
+    "status": 200,
+    "title": "Passage Stool - Lagen Yazılım | Ankara Web Tasarım",
+    "description": "Aenean aliquam interdum tortor, ut tincidunt turpis rhoncus vitae. Nulla metus mauris, sodales ac malesuada et, finibus quis leo. Aenean vitae velit neque. Nulla imperdiet ultrices mi. Nulla dapibus libero nec arcu pharetra faucibus.",
+    "canonical": "https://www.lagenyazilim.com.tr/product/passage-stool/",
+    "h1": [
+      "Passage Stool"
+    ],
+    "wordCount": 749,
+    "jsonLdTypes": [
+      "Organization",
+      "ImageObject",
+      "WebSite",
+      "ItemPage",
+      "Product",
+      "QuantitativeValue",
+      "Offer"
+    ],
+    "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+    "images": 12,
+    "imagesEmptyAlt": 11,
+    "type": "other",
+    "note": "woocommerce-demo-product",
+    "inSitemap": true
+  },
+  {
+    "url": "https://www.lagenyazilim.com.tr/product/echasse-bowl/",
+    "status": 200,
+    "title": "Echasse Bowl - Lagen Yazılım | Ankara Web Tasarım",
+    "description": "Sed non lorem rhoncus, tempus sapien a, vestibulum leo. Praesent et elementum eros, sit amet gravida lacus. Maecenas tempor, nunc at vehicula maximus. Donec pharetra, mi id sodales ornare, eros leo congue urna.",
+    "canonical": "https://www.lagenyazilim.com.tr/product/echasse-bowl/",
+    "h1": [
+      "Echasse Bowl"
+    ],
+    "wordCount": 724,
+    "jsonLdTypes": [
+      "Organization",
+      "ImageObject",
+      "WebSite",
+      "ItemPage",
+      "Product",
+      "QuantitativeValue",
+      "AggregateOffer"
+    ],
+    "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+    "images": 11,
+    "imagesEmptyAlt": 10,
+    "type": "other",
+    "note": "woocommerce-demo-product",
+    "inSitemap": true
+  },
+  {
+    "url": "https://www.lagenyazilim.com.tr/product/co-lounge-chair/",
+    "status": 200,
+    "title": "Co Lounge Chair - Lagen Yazılım | Ankara Web Tasarım",
+    "description": "Etiam vitae tortor auctor, tempus mauris ut, sagittis est. Vivamus eget mauris quis nisl semper maximus nec non neque. Integer vel odio a risus commodo feugiat id ac arcu. Aliquam euismod, eros quis euismod consectetur.",
+    "canonical": "https://www.lagenyazilim.com.tr/product/co-lounge-chair/",
+    "h1": [
+      "Co Lounge Chair"
+    ],
+    "wordCount": 670,
+    "jsonLdTypes": [
+      "Organization",
+      "ImageObject",
+      "WebSite",
+      "ItemPage",
+      "Product",
+      "QuantitativeValue",
+      "Offer"
+    ],
+    "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+    "images": 12,
+    "imagesEmptyAlt": 11,
+    "type": "other",
+    "note": "woocommerce-demo-product",
+    "inSitemap": true
+  },
+  {
+    "url": "https://www.lagenyazilim.com.tr/product/afteroom-plus-chair/",
+    "status": 200,
+    "title": "Afteroom Plus Chair - Lagen Yazılım | Ankara Web Tasarım",
+    "description": "Proin consequat eros a aliquet sollicitudin. Fusce cursus tortor in consequat convallis. Proin ac euismod felis. Duis consectetur felis quis tincidunt tempus. Morbi sodales tincidunt maximus. Nullam at faucibus libero.",
+    "canonical": "https://www.lagenyazilim.com.tr/product/afteroom-plus-chair/",
+    "h1": [
+      "Afteroom Plus Chair"
+    ],
+    "wordCount": 678,
+    "jsonLdTypes": [
+      "Organization",
+      "ImageObject",
+      "WebSite",
+      "ItemPage",
+      "Product",
+      "QuantitativeValue",
+      "Offer"
+    ],
+    "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+    "images": 10,
+    "imagesEmptyAlt": 9,
+    "type": "other",
+    "note": "woocommerce-demo-product",
+    "inSitemap": true
+  },
+  {
+    "url": "https://www.lagenyazilim.com.tr/product/nimbus-mirror/",
+    "status": 200,
+    "title": "Nimbus Mirror - Lagen Yazılım | Ankara Web Tasarım",
+    "description": "Nulla congue dui ante, quis feugiat urna dapibus sit amet. Donec id iaculis dolor. Nullam efficitur mattis gravida. Nam vehicula rutrum hendrerit.",
+    "canonical": "https://www.lagenyazilim.com.tr/product/nimbus-mirror/",
+    "h1": [
+      "Nimbus Mirror"
+    ],
+    "wordCount": 656,
+    "jsonLdTypes": [
+      "Organization",
+      "ImageObject",
+      "WebSite",
+      "ItemPage",
+      "Product",
+      "QuantitativeValue",
+      "Offer"
+    ],
+    "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+    "images": 11,
+    "imagesEmptyAlt": 10,
+    "type": "other",
+    "note": "woocommerce-demo-product",
+    "inSitemap": true
+  },
+  {
+    "url": "https://www.lagenyazilim.com.tr/product/umanoff-side-table/",
+    "status": 200,
+    "title": "Umanoff Side Table - Lagen Yazılım | Ankara Web Tasarım",
+    "description": "Maecenas varius id metus eu rutrum. Ut porta eu sapien sed finibus. Vivamus facilisis, diam in mollis finibus, tortor orci egestas sapien, id egestas sapien leo et mi.",
+    "canonical": "https://www.lagenyazilim.com.tr/product/umanoff-side-table/",
+    "h1": [
+      "Umanoff Side Table"
+    ],
+    "wordCount": 687,
+    "jsonLdTypes": [
+      "Organization",
+      "ImageObject",
+      "WebSite",
+      "ItemPage",
+      "Product",
+      "QuantitativeValue",
+      "AggregateOffer"
+    ],
+    "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+    "images": 11,
+    "imagesEmptyAlt": 10,
+    "type": "other",
+    "note": "woocommerce-demo-product",
+    "inSitemap": true
+  },
+  {
+    "url": "https://www.lagenyazilim.com.tr/product/troll-vase/",
+    "status": 200,
+    "title": "Troll Vase - Lagen Yazılım | Ankara Web Tasarım",
+    "description": "Aenean aliquam interdum tortor, ut tincidunt turpis rhoncus vitae. Nulla metus mauris, sodales ac malesuada et, finibus quis leo. Aenean vitae velit neque. Nulla imperdiet ultrices mi. Nulla dapibus libero nec arcu pharetra faucibus.",
+    "canonical": "https://www.lagenyazilim.com.tr/product/troll-vase/",
+    "h1": [
+      "Troll Vase"
+    ],
+    "wordCount": 650,
+    "jsonLdTypes": [
+      "Organization",
+      "ImageObject",
+      "WebSite",
+      "ItemPage",
+      "Product",
+      "QuantitativeValue",
+      "AggregateOffer"
+    ],
+    "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+    "images": 12,
+    "imagesEmptyAlt": 11,
+    "type": "other",
+    "note": "woocommerce-demo-product",
+    "inSitemap": true
+  },
+  {
+    "url": "https://www.lagenyazilim.com.tr/product/tr-bulb/",
+    "status": 200,
+    "title": "TR Bulb - Lagen Yazılım | Ankara Web Tasarım",
+    "description": "Fusce eu sapien sapien. Nullam non suscipit augue. Mauris a tempor nulla. Nullam consequat magna quis porttitor venenatis. Integer ac metus mi. Vivamus vel diam nisl.",
+    "canonical": "https://www.lagenyazilim.com.tr/product/tr-bulb/",
+    "h1": [
+      "TR Bulb"
+    ],
+    "wordCount": 619,
+    "jsonLdTypes": [
+      "Organization",
+      "ImageObject",
+      "WebSite",
+      "ItemPage",
+      "Product",
+      "QuantitativeValue",
+      "Offer"
+    ],
+    "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+    "images": 11,
+    "imagesEmptyAlt": 10,
+    "type": "other",
+    "note": "woocommerce-demo-product",
+    "inSitemap": true
+  },
+  {
+    "url": "https://www.lagenyazilim.com.tr/product/umanoff-planter/",
+    "status": 200,
+    "title": "Umanoff Planter - Lagen Yazılım | Ankara Web Tasarım",
+    "description": "Pellentesque ut elit ligula. Phasellus ac odio eu enim aliquet laoreet vel et odio. Cras tellus tellus, molestie tempor tellus vitae, aliquam pretium orci. Aenean et lobortis felis ornuty maker sim.",
+    "canonical": "https://www.lagenyazilim.com.tr/product/umanoff-planter/",
+    "h1": [
+      "Umanoff Planter"
+    ],
+    "wordCount": 650,
+    "jsonLdTypes": [
+      "Organization",
+      "ImageObject",
+      "WebSite",
+      "ItemPage",
+      "Product",
+      "QuantitativeValue",
+      "Offer"
+    ],
+    "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+    "images": 12,
+    "imagesEmptyAlt": 11,
+    "type": "other",
+    "note": "woocommerce-demo-product",
+    "inSitemap": true
+  },
+  {
+    "url": "https://www.lagenyazilim.com.tr/product/wine-breather-carafe/",
+    "status": 200,
+    "title": "Wine Breather Carafe - Lagen Yazılım | Ankara Web Tasarım",
+    "description": "Maecenas varius id metus eu rutrum. Ut porta eu sapien sed finibus. Vivamus facilisis, diam in mollis finibus, tortor orci egestas sapien, id egestas sapien leo et mi.",
+    "canonical": "https://www.lagenyazilim.com.tr/product/wine-breather-carafe/",
+    "h1": [
+      "Wine Breather Carafe"
+    ],
+    "wordCount": 631,
+    "jsonLdTypes": [
+      "Organization",
+      "ImageObject",
+      "WebSite",
+      "ItemPage",
+      "Product",
+      "Offer"
+    ],
+    "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+    "images": 13,
+    "imagesEmptyAlt": 12,
+    "type": "other",
+    "note": "woocommerce-demo-product",
+    "inSitemap": true
+  },
+  {
+    "url": "https://www.lagenyazilim.com.tr/team/",
+    "status": 200,
+    "title": "Team - Lagen Yazılım | Ankara Web Tasarım",
+    "description": "Team Archive - Lagen Yazılım | Ankara Web Tasarım",
+    "canonical": "https://www.lagenyazilim.com.tr/team/",
+    "h1": [
+      "Archive"
+    ],
+    "wordCount": 147,
+    "jsonLdTypes": [
+      "Organization",
+      "ImageObject",
+      "WebSite",
+      "CollectionPage"
+    ],
+    "robots": "index, follow",
+    "images": 12,
+    "imagesEmptyAlt": 12,
+    "type": "other",
+    "note": "theme-demo-team",
+    "inSitemap": true
+  },
+  {
+    "url": "https://www.lagenyazilim.com.tr/team/sandra-willson/",
+    "status": 200,
+    "title": "Sandra Willson - Lagen Yazılım | Ankara Web Tasarım",
+    "description": "Ne summo dictas pertinacia nam. Illum cetero vocent ei vim, case regione signiferumque vim te.",
+    "canonical": "https://www.lagenyazilim.com.tr/team/sandra-willson/",
+    "h1": [
+      "Sandra Willson"
+    ],
+    "wordCount": 289,
+    "jsonLdTypes": [],
+    "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+    "images": 5,
+    "imagesEmptyAlt": 4,
+    "type": "other",
+    "note": "theme-demo-team",
+    "inSitemap": true
+  },
+  {
+    "url": "https://www.lagenyazilim.com.tr/team/dan-brake/",
+    "status": 200,
+    "title": "Dan Brake - Lagen Yazılım | Ankara Web Tasarım",
+    "description": "Ne summo dictas pertinacia nam. Illum cetero vocent ei vim, case regione signiferumque vim te.",
+    "canonical": "https://www.lagenyazilim.com.tr/team/dan-brake/",
+    "h1": [],
+    "wordCount": 285,
+    "jsonLdTypes": [],
+    "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+    "images": 5,
+    "imagesEmptyAlt": 4,
+    "type": "other",
+    "note": "theme-demo-team",
+    "inSitemap": true
+  },
+  {
+    "url": "https://www.lagenyazilim.com.tr/team/angela-long/",
+    "status": 200,
+    "title": "Angela Long - Lagen Yazılım | Ankara Web Tasarım",
+    "description": "Ne summo dictas pertinacia nam. Illum cetero vocent ei vim, case regione signiferumque vim te.",
+    "canonical": "https://www.lagenyazilim.com.tr/team/angela-long/",
+    "h1": [],
+    "wordCount": 284,
+    "jsonLdTypes": [],
+    "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+    "images": 5,
+    "imagesEmptyAlt": 4,
+    "type": "other",
+    "note": "theme-demo-team",
+    "inSitemap": true
+  },
+  {
+    "url": "https://www.lagenyazilim.com.tr/team/sam-jordan/",
+    "status": 200,
+    "title": "Sam Jordan - Lagen Yazılım | Ankara Web Tasarım",
+    "description": "Ne summo dictas pertinacia nam. Illum cetero vocent ei vim, case regione signiferumque vim te.",
+    "canonical": "https://www.lagenyazilim.com.tr/team/sam-jordan/",
+    "h1": [],
+    "wordCount": 284,
+    "jsonLdTypes": [],
+    "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+    "images": 5,
+    "imagesEmptyAlt": 4,
+    "type": "other",
+    "note": "theme-demo-team",
+    "inSitemap": true
+  },
+  {
+    "url": "https://www.lagenyazilim.com.tr/team/anna-red/",
+    "status": 200,
+    "title": "Anna Red - Lagen Yazılım | Ankara Web Tasarım",
+    "description": "Ne summo dictas pertinacia nam. Illum cetero vocent ei vim, case regione signiferumque vim te.",
+    "canonical": "https://www.lagenyazilim.com.tr/team/anna-red/",
+    "h1": [],
+    "wordCount": 285,
+    "jsonLdTypes": [],
+    "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+    "images": 5,
+    "imagesEmptyAlt": 4,
+    "type": "other",
+    "note": "theme-demo-team",
+    "inSitemap": true
+  },
+  {
+    "url": "https://www.lagenyazilim.com.tr/team/andrew-rich/",
+    "status": 200,
+    "title": "Andrew Rich - Lagen Yazılım | Ankara Web Tasarım",
+    "description": "Ne summo dictas pertinacia nam. Illum cetero vocent ei vim, case regione signiferumque vim te.",
+    "canonical": "https://www.lagenyazilim.com.tr/team/andrew-rich/",
+    "h1": [],
+    "wordCount": 285,
+    "jsonLdTypes": [],
+    "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+    "images": 5,
+    "imagesEmptyAlt": 4,
+    "type": "other",
+    "note": "theme-demo-team",
+    "inSitemap": true
+  },
+  {
+    "url": "https://www.lagenyazilim.com.tr/team/vanessa-lucky/",
+    "status": 200,
+    "title": "Vanessa Lucky - Lagen Yazılım | Ankara Web Tasarım",
+    "description": "Ne summo dictas pertinacia nam. Illum cetero vocent ei vim, case regione signiferumque vim te.",
+    "canonical": "https://www.lagenyazilim.com.tr/team/vanessa-lucky/",
+    "h1": [],
+    "wordCount": 284,
+    "jsonLdTypes": [],
+    "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+    "images": 5,
+    "imagesEmptyAlt": 4,
+    "type": "other",
+    "note": "theme-demo-team",
+    "inSitemap": true
+  },
+  {
+    "url": "https://www.lagenyazilim.com.tr/team/victor-liuw/",
+    "status": 200,
+    "title": "Victor Liuw - Lagen Yazılım | Ankara Web Tasarım",
+    "description": "Ne summo dictas pertinacia nam. Illum cetero vocent ei vim, case regione signiferumque vim te.",
+    "canonical": "https://www.lagenyazilim.com.tr/team/victor-liuw/",
+    "h1": [
+      "Victor Liuw"
+    ],
+    "wordCount": 288,
+    "jsonLdTypes": [],
+    "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+    "images": 5,
+    "imagesEmptyAlt": 4,
+    "type": "other",
+    "note": "theme-demo-team",
+    "inSitemap": true
+  },
+  {
+    "url": "https://www.lagenyazilim.com.tr/portfolio/",
+    "status": 200,
+    "title": "Portfolios - Lagen Yazılım | Ankara Web Tasarım",
+    "description": "Portfolios Archive - Lagen Yazılım | Ankara Web Tasarım",
+    "canonical": "https://www.lagenyazilim.com.tr/portfolio/",
+    "h1": [
+      "Archive"
+    ],
+    "wordCount": 172,
+    "jsonLdTypes": [
+      "Organization",
+      "ImageObject",
+      "WebSite",
+      "CollectionPage"
+    ],
+    "robots": "index, follow",
+    "images": 16,
+    "imagesEmptyAlt": 16,
+    "type": "other",
+    "note": "theme-demo-portfolio",
+    "inSitemap": true
+  },
+  {
+    "url": "https://www.lagenyazilim.com.tr/portfolio/man-enjoying-the-wind/",
+    "status": 200,
+    "title": "Man enjoying the wind - Lagen Yazılım | Ankara Web Tasarım",
+    "description": "From the designers and engineers who are creating the next generation of web and mobile experiences, to anyone putting a website together for the first time.",
+    "canonical": "https://www.lagenyazilim.com.tr/portfolio/man-enjoying-the-wind/",
+    "h1": [
+      "Man enjoying the wind"
+    ],
+    "wordCount": 517,
+    "jsonLdTypes": [],
+    "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+    "images": 6,
+    "imagesEmptyAlt": 6,
+    "type": "other",
+    "note": "theme-demo-portfolio",
+    "inSitemap": true
+  },
+  {
+    "url": "https://www.lagenyazilim.com.tr/portfolio/photo-session-with-a-girl/",
+    "status": 200,
+    "title": "Photo session with a girl - Lagen Yazılım | Ankara Web Tasarım",
+    "description": "From the designers and engineers who are creating the next generation of web and mobile experiences, to anyone putting a website together for the first time.",
+    "canonical": "https://www.lagenyazilim.com.tr/portfolio/photo-session-with-a-girl/",
+    "h1": [
+      "Photo session with a girl"
+    ],
+    "wordCount": 520,
+    "jsonLdTypes": [],
+    "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+    "images": 6,
+    "imagesEmptyAlt": 6,
+    "type": "other",
+    "note": "theme-demo-portfolio",
+    "inSitemap": true
+  },
+  {
+    "url": "https://www.lagenyazilim.com.tr/portfolio/urban-girls-between-bars-of-colored-light/",
+    "status": 200,
+    "title": "Urban girls between bars of colored light - Lagen Yazılım | Ankara Web Tasarım",
+    "description": "From the designers and engineers who are creating the next generation of web and mobile experiences, to anyone putting a website together for the first time.",
+    "canonical": "https://www.lagenyazilim.com.tr/portfolio/urban-girls-between-bars-of-colored-light/",
+    "h1": [
+      "Urban girls between bars of colored light"
+    ],
+    "wordCount": 524,
+    "jsonLdTypes": [],
+    "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+    "images": 6,
+    "imagesEmptyAlt": 6,
+    "type": "other",
+    "note": "theme-demo-portfolio",
+    "inSitemap": true
+  },
+  {
+    "url": "https://www.lagenyazilim.com.tr/portfolio/playing-with-a-yellow-smoke-bomb/",
+    "status": 200,
+    "title": "Playing with a yellow smoke bomb - Lagen Yazılım | Ankara Web Tasarım",
+    "description": "From the designers and engineers who are creating the next generation of web and mobile experiences, to anyone putting a website together for the first time.",
+    "canonical": "https://www.lagenyazilim.com.tr/portfolio/playing-with-a-yellow-smoke-bomb/",
+    "h1": [
+      "Playing with a yellow smoke bomb"
+    ],
+    "wordCount": 522,
+    "jsonLdTypes": [],
+    "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+    "images": 6,
+    "imagesEmptyAlt": 6,
+    "type": "other",
+    "note": "theme-demo-portfolio",
+    "inSitemap": true
+  },
+  {
+    "url": "https://www.lagenyazilim.com.tr/portfolio/watching-mobile-phone/",
+    "status": 200,
+    "title": "Watching Mobile Phone - Lagen Yazılım | Ankara Web Tasarım",
+    "description": "From the designers and engineers who are creating the next generation of web and mobile experiences, to anyone putting a website together for the first time.",
+    "canonical": "https://www.lagenyazilim.com.tr/portfolio/watching-mobile-phone/",
+    "h1": [
+      "Watching Mobile Phone"
+    ],
+    "wordCount": 516,
+    "jsonLdTypes": [],
+    "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+    "images": 6,
+    "imagesEmptyAlt": 6,
+    "type": "other",
+    "note": "theme-demo-portfolio",
+    "inSitemap": true
+  },
+  {
+    "url": "https://www.lagenyazilim.com.tr/portfolio/satisfied-hipster-girl/",
+    "status": 200,
+    "title": "Satisfied Hipster Girl - Lagen Yazılım | Ankara Web Tasarım",
+    "description": "From the designers and engineers who are creating the next generation of web and mobile experiences, to anyone putting a website together for the first time.",
+    "canonical": "https://www.lagenyazilim.com.tr/portfolio/satisfied-hipster-girl/",
+    "h1": [
+      "Satisfied Hipster Girl"
+    ],
+    "wordCount": 517,
+    "jsonLdTypes": [],
+    "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+    "images": 6,
+    "imagesEmptyAlt": 6,
+    "type": "other",
+    "note": "theme-demo-portfolio",
+    "inSitemap": true
+  },
+  {
+    "url": "https://www.lagenyazilim.com.tr/portfolio/coworker-resting-comfortable/",
+    "status": 200,
+    "title": "Coworker Resting Comfortable - Lagen Yazılım | Ankara Web Tasarım",
+    "description": "From the designers and engineers who are creating the next generation of web and mobile experiences, to anyone putting a website together for the first time.",
+    "canonical": "https://www.lagenyazilim.com.tr/portfolio/coworker-resting-comfortable/",
+    "h1": [
+      "Coworker Resting Comfortable"
+    ],
+    "wordCount": 516,
+    "jsonLdTypes": [],
+    "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+    "images": 6,
+    "imagesEmptyAlt": 6,
+    "type": "other",
+    "note": "theme-demo-portfolio",
+    "inSitemap": true
+  },
+  {
+    "url": "https://www.lagenyazilim.com.tr/portfolio/online-media-management/",
+    "status": 200,
+    "title": "Online Media Management - Lagen Yazılım | Ankara Web Tasarım",
+    "description": "From the designers and engineers who are creating the next generation of web and mobile experiences, to anyone putting a website together for the first time.",
+    "canonical": "https://www.lagenyazilim.com.tr/portfolio/online-media-management/",
+    "h1": [
+      "Online Media Management"
+    ],
+    "wordCount": 516,
+    "jsonLdTypes": [],
+    "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+    "images": 6,
+    "imagesEmptyAlt": 6,
+    "type": "other",
+    "note": "theme-demo-portfolio",
+    "inSitemap": true
+  },
+  {
+    "url": "https://www.lagenyazilim.com.tr/portfolio/mannix-marketing/",
+    "status": 200,
+    "title": "Mannix Marketing - Lagen Yazılım | Ankara Web Tasarım",
+    "description": "From the designers and engineers who are creating the next generation of web and mobile experiences, to anyone putting a website together for the first time.",
+    "canonical": "https://www.lagenyazilim.com.tr/portfolio/mannix-marketing/",
+    "h1": [
+      "Mannix Marketing"
+    ],
+    "wordCount": 538,
+    "jsonLdTypes": [],
+    "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+    "images": 6,
+    "imagesEmptyAlt": 6,
+    "type": "other",
+    "note": "theme-demo-portfolio",
+    "inSitemap": true
+  },
+  {
+    "url": "https://www.lagenyazilim.com.tr/portfolio/twice-profit-than-before/",
+    "status": 200,
+    "title": "Twice Profit Than Before - Lagen Yazılım | Ankara Web Tasarım",
+    "description": "From the designers and engineers who are creating the next generation of web and mobile experiences, to anyone putting a website together for the first time.",
+    "canonical": "https://www.lagenyazilim.com.tr/portfolio/twice-profit-than-before/",
+    "h1": [
+      "Twice Profit Than Before"
+    ],
+    "wordCount": 543,
+    "jsonLdTypes": [],
+    "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+    "images": 6,
+    "imagesEmptyAlt": 6,
+    "type": "other",
+    "note": "theme-demo-portfolio",
+    "inSitemap": true
+  },
+  {
+    "url": "https://www.lagenyazilim.com.tr/portfolio/content-strategy/",
+    "status": 200,
+    "title": "Content Strategy - Lagen Yazılım | Ankara Web Tasarım",
+    "description": "From the designers and engineers who are creating the next generation of web and mobile experiences, to anyone putting a website together for the first time.",
+    "canonical": "https://www.lagenyazilim.com.tr/portfolio/content-strategy/",
+    "h1": [
+      "Content Strategy"
+    ],
+    "wordCount": 539,
+    "jsonLdTypes": [],
+    "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+    "images": 6,
+    "imagesEmptyAlt": 6,
+    "type": "other",
+    "note": "theme-demo-portfolio",
+    "inSitemap": true
+  },
+  {
+    "url": "https://www.lagenyazilim.com.tr/portfolio/social-engagement/",
+    "status": 200,
+    "title": "SEO Optimization - Lagen Yazılım | Ankara Web Tasarım",
+    "description": "From the designers and engineers who are creating the next generation of web and mobile experiences, to anyone putting a website together for the first time.",
+    "canonical": "https://www.lagenyazilim.com.tr/portfolio/social-engagement/",
+    "h1": [
+      "SEO Optimization"
+    ],
+    "wordCount": 539,
+    "jsonLdTypes": [],
+    "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+    "images": 6,
+    "imagesEmptyAlt": 6,
+    "type": "other",
+    "note": "theme-demo-portfolio",
+    "inSitemap": true
+  },
+  {
+    "url": "https://www.lagenyazilim.com.tr/portfolio/social-engagement-2/",
+    "status": 200,
+    "title": "Social Engagement - Lagen Yazılım | Ankara Web Tasarım",
+    "description": "From the designers and engineers who are creating the next generation of web and mobile experiences, to anyone putting a website together for the first time.",
+    "canonical": "https://www.lagenyazilim.com.tr/portfolio/social-engagement-2/",
+    "h1": [
+      "Social Engagement"
+    ],
+    "wordCount": 539,
+    "jsonLdTypes": [],
+    "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+    "images": 6,
+    "imagesEmptyAlt": 6,
+    "type": "other",
+    "note": "theme-demo-portfolio",
+    "inSitemap": true
+  },
+  {
+    "url": "https://www.lagenyazilim.com.tr/portfolio/technical-seo/",
+    "status": 200,
+    "title": "Technical SEO - Lagen Yazılım | Ankara Web Tasarım",
+    "description": "From the designers and engineers who are creating the next generation of web and mobile experiences, to anyone putting a website together for the first time.",
+    "canonical": "https://www.lagenyazilim.com.tr/portfolio/technical-seo/",
+    "h1": [
+      "Technical SEO"
+    ],
+    "wordCount": 538,
+    "jsonLdTypes": [],
+    "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+    "images": 6,
+    "imagesEmptyAlt": 6,
+    "type": "other",
+    "note": "theme-demo-portfolio",
+    "inSitemap": true
+  },
+  {
+    "url": "https://www.lagenyazilim.com.tr/portfolio/content-marketing/",
+    "status": 200,
+    "title": "Content Marketing - Lagen Yazılım | Ankara Web Tasarım",
+    "description": "From the designers and engineers who are creating the next generation of web and mobile experiences, to anyone putting a website together for the first time.",
+    "canonical": "https://www.lagenyazilim.com.tr/portfolio/content-marketing/",
+    "h1": [
+      "Content Marketing"
+    ],
+    "wordCount": 539,
+    "jsonLdTypes": [],
+    "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+    "images": 6,
+    "imagesEmptyAlt": 6,
+    "type": "other",
+    "note": "theme-demo-portfolio",
+    "inSitemap": true
+  },
+  {
+    "url": "https://www.lagenyazilim.com.tr/portfolio/domain-migration/",
+    "status": 200,
+    "title": "Domain Migration - Lagen Yazılım | Ankara Web Tasarım",
+    "description": "From the designers and engineers who are creating the next generation of web and mobile experiences, to anyone putting a website together for the first time.",
+    "canonical": "https://www.lagenyazilim.com.tr/portfolio/domain-migration/",
+    "h1": [
+      "Domain Migration"
+    ],
+    "wordCount": 538,
+    "jsonLdTypes": [],
+    "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+    "images": 6,
+    "imagesEmptyAlt": 6,
+    "type": "other",
+    "note": "theme-demo-portfolio",
+    "inSitemap": true
+  },
+  {
+    "url": "https://www.lagenyazilim.com.tr/portfolio/app-showcase/",
+    "status": 200,
+    "title": "App Showcase - Lagen Yazılım | Ankara Web Tasarım",
+    "description": "From the designers and engineers who are creating the next generation of web and mobile experiences, to anyone putting a website together for the first time.",
+    "canonical": "https://www.lagenyazilim.com.tr/portfolio/app-showcase/",
+    "h1": [
+      "App Showcase"
+    ],
+    "wordCount": 542,
+    "jsonLdTypes": [],
+    "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+    "images": 6,
+    "imagesEmptyAlt": 6,
+    "type": "other",
+    "note": "theme-demo-portfolio",
+    "inSitemap": true
+  },
+  {
+    "url": "https://www.lagenyazilim.com.tr/portfolio/scientifically-proven-progress/",
+    "status": 200,
+    "title": "Scientifically Proven Progress - Lagen Yazılım | Ankara Web Tasarım",
+    "description": "From the designers and engineers who are creating the next generation of web and mobile experiences, to anyone putting a website together for the first time.",
+    "canonical": "https://www.lagenyazilim.com.tr/portfolio/scientifically-proven-progress/",
+    "h1": [
+      "Scientifically Proven Progress"
+    ],
+    "wordCount": 546,
+    "jsonLdTypes": [],
+    "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+    "images": 6,
+    "imagesEmptyAlt": 6,
+    "type": "other",
+    "note": "theme-demo-portfolio",
+    "inSitemap": true
+  },
+  {
+    "url": "https://www.lagenyazilim.com.tr/portfolio/social-media-boots/",
+    "status": 200,
+    "title": "Social Media Boots - Lagen Yazılım | Ankara Web Tasarım",
+    "description": "From the designers and engineers who are creating the next generation of web and mobile experiences, to anyone putting a website together for the first time.",
+    "canonical": "https://www.lagenyazilim.com.tr/portfolio/social-media-boots/",
+    "h1": [
+      "Social Media Boots"
+    ],
+    "wordCount": 545,
+    "jsonLdTypes": [],
+    "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+    "images": 6,
+    "imagesEmptyAlt": 6,
+    "type": "other",
+    "note": "theme-demo-portfolio",
+    "inSitemap": true
+  },
+  {
+    "url": "https://www.lagenyazilim.com.tr/portfolio/in-your-thoughts/",
+    "status": 200,
+    "title": "In Your Thoughts - Lagen Yazılım | Ankara Web Tasarım",
+    "description": "From the designers and engineers who are creating the next generation of web and mobile experiences, to anyone putting a website together for the first time.",
+    "canonical": "https://www.lagenyazilim.com.tr/portfolio/in-your-thoughts/",
+    "h1": [
+      "In Your Thoughts"
+    ],
+    "wordCount": 524,
+    "jsonLdTypes": [],
+    "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+    "images": 6,
+    "imagesEmptyAlt": 6,
+    "type": "other",
+    "note": "theme-demo-portfolio",
+    "inSitemap": true
+  },
+  {
+    "url": "https://www.lagenyazilim.com.tr/portfolio/online-media-management_112-2/",
+    "status": 200,
+    "title": "Online Media Management - Lagen Yazılım | Ankara Web Tasarım",
+    "description": "From the designers and engineers who are creating the next generation of web and mobile experiences, to anyone putting a website together for the first time.",
+    "canonical": "https://www.lagenyazilim.com.tr/portfolio/online-media-management_112-2/",
+    "h1": [
+      "Online Media Management"
+    ],
+    "wordCount": 522,
+    "jsonLdTypes": [],
+    "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+    "images": 6,
+    "imagesEmptyAlt": 6,
+    "type": "other",
+    "note": "theme-demo-portfolio",
+    "inSitemap": true
+  },
+  {
+    "url": "https://www.lagenyazilim.com.tr/portfolio/mannix-marketing_112-2/",
+    "status": 200,
+    "title": "Mannix Marketing - Lagen Yazılım | Ankara Web Tasarım",
+    "description": "From the designers and engineers who are creating the next generation of web and mobile experiences, to anyone putting a website together for the first time.",
+    "canonical": "https://www.lagenyazilim.com.tr/portfolio/mannix-marketing_112-2/",
+    "h1": [
+      "Mannix Marketing"
+    ],
+    "wordCount": 519,
+    "jsonLdTypes": [],
+    "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+    "images": 6,
+    "imagesEmptyAlt": 6,
+    "type": "other",
+    "note": "theme-demo-portfolio",
+    "inSitemap": true
+  },
+  {
+    "url": "https://www.lagenyazilim.com.tr/portfolio/mannix-marketing_112/",
+    "status": 200,
+    "title": "Mannix Marketing - Lagen Yazılım | Ankara Web Tasarım",
+    "description": "From the designers and engineers who are creating the next generation of web and mobile experiences, to anyone putting a website together for the first time.",
+    "canonical": "https://www.lagenyazilim.com.tr/portfolio/mannix-marketing_112/",
+    "h1": [
+      "Mannix Marketing"
+    ],
+    "wordCount": 519,
+    "jsonLdTypes": [],
+    "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+    "images": 6,
+    "imagesEmptyAlt": 6,
+    "type": "other",
+    "note": "theme-demo-portfolio",
+    "inSitemap": true
+  },
+  {
+    "url": "https://www.lagenyazilim.com.tr/portfolio/online-media-management_112/",
+    "status": 200,
+    "title": "Online Media Management - Lagen Yazılım | Ankara Web Tasarım",
+    "description": "From the designers and engineers who are creating the next generation of web and mobile experiences, to anyone putting a website together for the first time.",
+    "canonical": "https://www.lagenyazilim.com.tr/portfolio/online-media-management_112/",
+    "h1": [
+      "Online Media Management"
+    ],
+    "wordCount": 522,
+    "jsonLdTypes": [],
+    "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+    "images": 6,
+    "imagesEmptyAlt": 6,
+    "type": "other",
+    "note": "theme-demo-portfolio",
+    "inSitemap": true
+  },
+  {
+    "url": "https://www.lagenyazilim.com.tr/portfolio/manix-marketing/",
+    "status": 200,
+    "title": "Manix Marketing - Lagen Yazılım | Ankara Web Tasarım",
+    "description": "From the designers and engineers who are creating the next generation of web and mobile experiences, to anyone putting a website together for the first time.",
+    "canonical": "https://www.lagenyazilim.com.tr/portfolio/manix-marketing/",
+    "h1": [
+      "Manix Marketing"
+    ],
+    "wordCount": 514,
+    "jsonLdTypes": [],
+    "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+    "images": 6,
+    "imagesEmptyAlt": 6,
+    "type": "other",
+    "note": "theme-demo-portfolio",
+    "inSitemap": true
+  },
+  {
+    "url": "https://www.lagenyazilim.com.tr/portfolio/adorable-dark-haired-girl/",
+    "status": 200,
+    "title": "Adorable Dark Haired Girl - Lagen Yazılım | Ankara Web Tasarım",
+    "description": "From the designers and engineers who are creating the next generation of web and mobile experiences, to anyone putting a website together for the first time.",
+    "canonical": "https://www.lagenyazilim.com.tr/portfolio/adorable-dark-haired-girl/",
+    "h1": [
+      "Adorable Dark Haired Girl"
+    ],
+    "wordCount": 518,
+    "jsonLdTypes": [],
+    "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+    "images": 6,
+    "imagesEmptyAlt": 6,
+    "type": "other",
+    "note": "theme-demo-portfolio",
+    "inSitemap": true
+  },
+  {
+    "url": "https://www.lagenyazilim.com.tr/portfolio/happy-amazed-blonde/",
+    "status": 200,
+    "title": "Happy Amazed Blonde - Lagen Yazılım | Ankara Web Tasarım",
+    "description": "From the designers and engineers who are creating the next generation of web and mobile experiences, to anyone putting a website together for the first time.",
+    "canonical": "https://www.lagenyazilim.com.tr/portfolio/happy-amazed-blonde/",
+    "h1": [
+      "Happy Amazed Blonde"
+    ],
+    "wordCount": 515,
+    "jsonLdTypes": [],
+    "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+    "images": 6,
+    "imagesEmptyAlt": 6,
+    "type": "other",
+    "note": "theme-demo-portfolio",
+    "inSitemap": true
+  },
+  {
+    "url": "https://www.lagenyazilim.com.tr/shop/",
+    "status": 200,
+    "title": "Page Not Found - Lagen Yazılım | Ankara Web Tasarım",
+    "description": "Ürünler Archive - Lagen Yazılım | Ankara Web Tasarım",
+    "canonical": null,
+    "h1": [],
+    "wordCount": 683,
+    "jsonLdTypes": [
+      "Organization",
+      "ImageObject",
+      "WebSite",
+      "CollectionPage",
+      "BreadcrumbList",
+      "ListItem"
+    ],
+    "robots": "index, follow",
+    "images": 17,
+    "imagesEmptyAlt": 15,
+    "type": "page",
+    "inSitemap": false
+  },
+  {
+    "url": "https://www.lagenyazilim.com.tr/cart/",
+    "status": 404,
+    "title": "Page Not Found - Lagen Yazılım | Ankara Web Tasarım",
+    "description": null,
+    "canonical": null,
+    "h1": [],
+    "wordCount": 61,
+    "jsonLdTypes": [
+      "Organization",
+      "ImageObject",
+      "WebSite",
+      "WebPage"
+    ],
+    "robots": "follow, noindex",
+    "images": 1,
+    "imagesEmptyAlt": 1,
+    "type": "page",
+    "note": "probed-not-found",
+    "inSitemap": false
+  },
+  {
+    "url": "https://www.lagenyazilim.com.tr/my-account/",
+    "status": 404,
+    "title": "Page Not Found - Lagen Yazılım | Ankara Web Tasarım",
+    "description": null,
+    "canonical": null,
+    "h1": [],
+    "wordCount": 61,
+    "jsonLdTypes": [
+      "Organization",
+      "ImageObject",
+      "WebSite",
+      "WebPage"
+    ],
+    "robots": "follow, noindex",
+    "images": 1,
+    "imagesEmptyAlt": 1,
+    "type": "page",
+    "note": "probed-not-found",
+    "inSitemap": false
+  },
+  {
+    "url": "https://www.lagenyazilim.com.tr/blog/",
+    "status": 301,
+    "redirectTo": "https://www.lagenyazilim.com.tr/blog-2/",
+    "title": null,
+    "description": null,
+    "canonical": null,
+    "h1": [],
+    "wordCount": 0,
+    "jsonLdTypes": [],
+    "robots": null,
+    "images": 0,
+    "imagesEmptyAlt": 0,
+    "type": "page",
+    "inSitemap": false
+  },
+  {
+    "url": "https://www.lagenyazilim.com.tr/referanslar/",
+    "status": 404,
+    "title": "Page Not Found - Lagen Yazılım | Ankara Web Tasarım",
+    "description": null,
+    "canonical": null,
+    "h1": [],
+    "wordCount": 61,
+    "jsonLdTypes": [
+      "Organization",
+      "ImageObject",
+      "WebSite",
+      "WebPage"
+    ],
+    "robots": "follow, noindex",
+    "images": 1,
+    "imagesEmptyAlt": 1,
+    "type": "page",
+    "note": "probed-not-found",
+    "inSitemap": false
+  },
+  {
+    "url": "https://www.lagenyazilim.com.tr/projeler/",
+    "status": 404,
+    "title": "Page Not Found - Lagen Yazılım | Ankara Web Tasarım",
+    "description": null,
+    "canonical": null,
+    "h1": [],
+    "wordCount": 61,
+    "jsonLdTypes": [
+      "Organization",
+      "ImageObject",
+      "WebSite",
+      "WebPage"
+    ],
+    "robots": "follow, noindex",
+    "images": 1,
+    "imagesEmptyAlt": 1,
+    "type": "page",
+    "note": "probed-not-found",
+    "inSitemap": false
+  },
+  {
+    "url": "https://www.lagenyazilim.com.tr/ucretsiz-seo-analizi/",
+    "status": 404,
+    "title": "Page Not Found - Lagen Yazılım | Ankara Web Tasarım",
+    "description": null,
+    "canonical": null,
+    "h1": [],
+    "wordCount": 61,
+    "jsonLdTypes": [
+      "Organization",
+      "ImageObject",
+      "WebSite",
+      "WebPage"
+    ],
+    "robots": "follow, noindex",
+    "images": 1,
+    "imagesEmptyAlt": 1,
+    "type": "page",
+    "note": "probed-not-found",
+    "inSitemap": false
+  },
+  {
+    "url": "https://www.lagenyazilim.com.tr/seo-analizi/",
+    "status": 404,
+    "title": "Page Not Found - Lagen Yazılım | Ankara Web Tasarım",
+    "description": null,
+    "canonical": null,
+    "h1": [],
+    "wordCount": 61,
+    "jsonLdTypes": [
+      "Organization",
+      "ImageObject",
+      "WebSite",
+      "WebPage"
+    ],
+    "robots": "follow, noindex",
+    "images": 1,
+    "imagesEmptyAlt": 1,
+    "type": "page",
+    "note": "probed-not-found",
+    "inSitemap": false
+  },
+  {
+    "url": "https://www.lagenyazilim.com.tr/kvkk/",
+    "status": 404,
+    "title": "Page Not Found - Lagen Yazılım | Ankara Web Tasarım",
+    "description": null,
+    "canonical": null,
+    "h1": [],
+    "wordCount": 61,
+    "jsonLdTypes": [
+      "Organization",
+      "ImageObject",
+      "WebSite",
+      "WebPage"
+    ],
+    "robots": "follow, noindex",
+    "images": 1,
+    "imagesEmptyAlt": 1,
+    "type": "page",
+    "note": "probed-not-found",
+    "inSitemap": false
+  },
+  {
+    "url": "https://www.lagenyazilim.com.tr/gizlilik-politikasi/",
+    "status": 404,
+    "title": "Page Not Found - Lagen Yazılım | Ankara Web Tasarım",
+    "description": null,
+    "canonical": null,
+    "h1": [],
+    "wordCount": 61,
+    "jsonLdTypes": [
+      "Organization",
+      "ImageObject",
+      "WebSite",
+      "WebPage"
+    ],
+    "robots": "follow, noindex",
+    "images": 1,
+    "imagesEmptyAlt": 1,
+    "type": "page",
+    "note": "probed-not-found",
+    "inSitemap": false
+  },
+  {
+    "url": "https://www.lagenyazilim.com.tr/hakkimizda",
+    "status": 200,
+    "title": "Hakkımızda - Lagen Yazılım | Ankara Web Tasarım",
+    "description": "Lagen Yazılım olarak 10 yılı aşkın tecrübemiz ve gerçekleştirdiğimiz binden fazla proje ile firmanızın dijital dünyada ihtiyaç duyduğu, her alanda iş",
+    "canonical": "https://www.lagenyazilim.com.tr/hakkimizda/",
+    "h1": [
+      "Hakkımızda",
+      "Her Zaman Zirveye Oyna"
+    ],
+    "wordCount": 325,
+    "jsonLdTypes": [
+      "Organization",
+      "ImageObject",
+      "WebSite",
+      "WebPage",
+      "Person",
+      "Article"
+    ],
+    "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+    "images": 15,
+    "imagesEmptyAlt": 15,
+    "type": "page",
+    "note": "no-trailing-slash-variant-200-canonicalised",
+    "inSitemap": false
+  }
+]

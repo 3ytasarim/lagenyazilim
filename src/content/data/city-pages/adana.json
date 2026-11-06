@@ -1,0 +1,52 @@
+{
+  "slug": "adana",
+  "name": "Adana",
+  "h1": "Adana Web Tasarım: Çukurova Tekstil ve Gıda Firmalarına Dijital Vitrin",
+  "seoTitle": "Adana Web Tasarım ve SEO Hizmeti | Lagen Yazılım",
+  "seoDescription": "Adana'daki tekstil, gıda ve tarım işletmelerine ihracata uygun kurumsal site, ürün kataloğu ve SEO. Projeyi uzaktan yürütüyoruz; ücretsiz ön görüşme isteyin.",
+  "intro": "Çukurova Ovası'nın merkezinde yer alan Adana, pamuktan narenciyeye uzanan tarımsal üretimi ve bu üretimi işleyen sanayisiyle Doğu Akdeniz'in önemli ekonomik merkezlerinden biri. Kentte tekstil ve gıda işleme uzun süredir yerel üretimin taşıyıcı kolları arasında. Hacı Sabancı Organize Sanayi Bölgesi ise farklı sektörlerden fabrikaları bir araya getiren karma bir yapıya sahip. Lagen Yazılım, Ankara'daki tek ofisinden Adana'daki üretici, tüccar ve hizmet işletmeleriyle uzaktan çalışıyor; web sitesi, katalog, SEO ve özel yazılım ihtiyaçlarını tek ekip içinde karşılıyor.",
+  "localNeeds": "Adana'daki bir iplik ya da kumaş üreticisinin müşterisi çoğu zaman yurt dışındaki bir alıcı veya marka; bu alıcı numune istemeden önce sitede kalite belgelerini, ürün yelpazesini ve üretim kabiliyetini görmek ister. Bu yüzden İngilizce başta olmak üzere çok dilli sayfalar ve indirilebilir bir ürün kataloğu ilk sıradaki ihtiyaçtır. Narenciye, mısır ya da yağ işleyen gıda firmaları için ambalaj seçenekleri, sezon bilgisi ve teklif formu öne çıkar. Toptan ticaret yapan işletmeler, sık değişen fiyat ve stok bilgisini yönetim panelinden kendileri güncelleyebilmek ister. Restoran ve otel gibi kent içi işletmelerde ise yerel aramalarda görünürlük ve Google İşletme Profili ile uyumlu bilgiler belirleyici olur.",
+  "localSectors": "Çukurova'nın verimli toprakları pamuk, buğday, mısır, soya ve narenciye gibi ürünlerle Adana'yı tarımın önde gelen illerinden biri yapıyor. Bu ham madde akışı, kentte tekstil ve bitkisel yağ gibi gıda işleme sektörlerinin gelişmesine zemin hazırladı. Çukurova Kalkınma Ajansı'nın raporlarında tarım ve hayvancılığın yanı sıra petrokimya, kimya ve turizm de bölge için incelenen alanlar arasında yer alıyor. Kentteki ihracat ürünleri yakındaki Mersin ve Hatay limanları üzerinden dış pazarlara ulaşıyor. Adana Sanayi Odası da ildeki sanayi kuruluşlarını ve organize sanayi bölgelerini kapsayan yayınlarıyla bu çeşitliliği belgeliyor.",
+  "serviceModel": "Adana'daki işletmelerle çalışırken süreci önce kısa bir keşif görüşmesiyle başlatıyoruz; bu görüşme video toplantı ile yapılıyor ve hedef pazarlarınızı, mevcut materyallerinizi ve satış sürecinizi konuşuyoruz. Tasarım taslakları ve metinler paylaşılan belgeler üzerinden yorumlarınıza açılıyor, onaylar çevrim içi alınıyor. Proje kapsamı geniş olduğunda, örneğin birden fazla departmanın katılacağı bir keşif çalıştayında, yüz yüze bir buluşma planlanabilir. Yayına çıkan siteyi yönetim paneli üzerinden kendi ekibiniz güncelliyor; panel kullanımını da ekran paylaşımlı bir oturumda birlikte gözden geçiriyoruz.",
+  "faqs": [
+    {
+      "q": "Tekstil firmamızın sertifikalarını sitede nasıl göstermeliyiz?",
+      "a": "Sertifikalar ayrı bir belgeler bölümünde, geçerlilik bilgisiyle ve indirilebilir dosya olarak yer alabiliyor. Süresi dolan belgeyi yönetim panelinden kaldırıp yenisini yüklemek birkaç dakika sürüyor."
+    },
+    {
+      "q": "Narenciye sezonuna göre ürün sayfalarını değiştirebilir miyiz?",
+      "a": "Evet. Ürünleri yayına alma ya da gizleme işlemi panelden yapılıyor. Sezon dışındaki ürünler için ön sipariş veya bilgi talebi formu bırakmak da mümkün."
+    },
+    {
+      "q": "Adana'da hizmet veren bir işletmenin yerel aramalarda görünmesi için ne yapılıyor?",
+      "a": "Sayfa başlıkları, adres ve iletişim bilgileri tutarlı biçimde yapılandırılıyor; Google İşletme Profili ile site bilgilerinin uyumu kontrol ediliyor. Bu düzenlemeler görünürlüğü destekler, belirli bir sıralama ise garanti edilmez."
+    },
+    {
+      "q": "Adana'ya hiç gelmeden proje tamamlanabilir mi?",
+      "a": "Çoğu proje tamamen uzaktan tamamlanıyor. Toplantılar video ile yapılıyor, içerik ve onaylar paylaşılan belgeler üzerinden ilerliyor; yüz yüze görüşme yalnızca projenin gerektirdiği durumlarda planlanıyor."
+    },
+    {
+      "q": "Toptan müşterilerimize özel fiyat gösterebilir miyiz?",
+      "a": "Özel yazılım kapsamında giriş yapan müşterilerin kendi fiyat grubunu gördüğü bir B2B alanı kurulabiliyor. Herkese açık sayfalarda ise yalnızca ürün bilgisi ve teklif formu yer alıyor."
+    }
+  ],
+  "relatedServices": [
+    "ankara-web-tasarim",
+    "ankara-seo-hizmeti",
+    "ankara-katalog-tasarimi"
+  ],
+  "sources": [
+    {
+      "title": "Çukurova Kalkınma Ajansı",
+      "url": "https://www.cka.org.tr"
+    },
+    {
+      "title": "ADASO Katalog - Adana Sanayi Odası",
+      "url": "https://www.adaso.org.tr/Content/Files/fileMenager/2024/7//ADASO%20Katalog.pdf"
+    },
+    {
+      "title": "Adana - Vikipedi",
+      "url": "https://tr.wikipedia.org/wiki/Adana"
+    }
+  ]
+}

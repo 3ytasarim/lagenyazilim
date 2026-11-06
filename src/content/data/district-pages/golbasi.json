@@ -1,0 +1,40 @@
+{
+  "slug": "golbasi",
+  "name": "Gölbaşı",
+  "h1": "Gölbaşı'nda Göl Kenarı İşletmeleri ve Konut Projeleri İçin Web ve Sosyal Medya",
+  "seoTitle": "Gölbaşı Web Tasarım ve Sosyal Medya | Lagen Yazılım",
+  "seoDescription": "Gölbaşı'ndaki restoran, kafe, konut projesi ve tarım işletmeleri için web sitesi, rezervasyon formu, yerel arama görünürlüğü ve sosyal medya yönetimi.",
+  "intro": "Mogan ve Eymir gölleri, Gölbaşı'nı hafta sonu Ankaralıların uğrak noktası yapıyor. Göl çevresindeki bir restoran ya da kafe için bu ziyaretçiyi yakalamanın yolu, internette iyi görünmekten geçiyor. Lagen Yazılım, ilçedeki işletmeler için hızlı açılan bir web sitesi kuruyor, harita kaydını düzenliyor ve sosyal medya hesaplarını bir içerik planıyla yönetiyor. Mekânın kendi fotoğraflarını panelden yükleyerek hem sitede hem paylaşımlarda kullanabilirsiniz. Siteler yönetim paneliyle teslim edilir; menü, etkinlik ya da daire bilgilerini kendiniz güncellersiniz.",
+  "localNeeds": "Rekreasyona dayalı işletmelerde müşteri, gitmeden önce mekânın atmosferini görmek ister. Bu nedenle göl manzarasını ve iç mekânı doğru yansıtan fotoğraflar, güncel menü ve kolay rezervasyon bağlantısı belirleyicidir. Son yıllarda hareketlenen inşaat sektöründe ise konut ve arsa projeleri için kat planlarını ve konumu anlatan bir proje tanıtım sayfası ve satış ofisine yönlendiren formlar öne çıkar. Tarım ve hayvancılıkla uğraşan aile işletmeleri, ürünlerini tanıtan sade bir sayfa ve sosyal medya ile doğrudan satış kanalı açabilir. Hafta sonu yoğunluğunu yakalamak için harita kaydı ve yorum yönetimi de ihmal edilmemelidir.",
+  "localSectors": "Gölbaşı'nın ekonomisi tarım, hayvancılık ve hizmet sektörü üzerinde şekillenir; buğday, arpa ve yem bitkileri yaygın ürünlerdir ve son yıllarda inşaat da önemli bir faaliyet alanı hâline gelmiştir. Göller çevresindeki dinlenme alanları, kafe ve restoranlar yerel turizmi gelir kaynağı yapar. Bölge, 1990'da Bakanlar Kurulu kararıyla Özel Çevre Koruma Bölgesi ilan edilmiştir. İlçe Ankara-Konya devlet yolu (D750) üzerinde yer alır ve 54 mahalleye sahiptir; Atılım Üniversitesi kampüsü de Kızılcaşar Mahallesi'ndedir.",
+  "serviceModel": "Gölbaşı'ndaki işletmelerle ilk görüşmeyi çoğu zaman mekânınızda yapıyoruz; menüyü, rezervasyon akışını ve hafta sonu yoğunluğunu yerinde dinlemek planı netleştiriyor. Dilerseniz çevrim içi görüşebilir ya da Çankaya Harbiye'deki ofisimizde buluşabiliriz. Ardından site haritasını, işletme profili düzenlemesini ve ilk ayın paylaşım takvimini tek bir plan olarak sunuyoruz. Elinizdeki fotoğrafları ya da çalıştığınız fotoğrafçının karelerini panelden yükleyerek sayfalara yerleştirirsiniz. Menü ve etkinlikler mevsimle birlikte değiştiği için paylaşım planını sezona göre güncelliyoruz. Konut projelerinde ise tanıtım sayfasını satış sürecinin aşamalarına göre kademeli olarak genişletiyoruz.",
+  "faqs": [
+    {
+      "q": "Mogan Gölü kenarındaki restoranımız için siteden rezervasyon talebi alabilir miyiz?",
+      "a": "Evet. Sitenize tarih, saat ve kişi sayısını soran kısa bir rezervasyon formu ya da WhatsApp bağlantısı ekliyoruz. Gelen talepler e-postanıza ve yönetim paneline düşer, masa onayını siz verirsiniz."
+    },
+    {
+      "q": "Konut projemiz için tanıtım sitesi ve satış formu hazırlıyor musunuz?",
+      "a": "Evet. Proje görselleri, kat planları ve konum bilgisinin yer aldığı bir tanıtım sitesi kuruyoruz. Satış talepleri formdan doğrudan ekibinize iletilir."
+    },
+    {
+      "q": "Hafta sonu menümüzü ve etkinliklerimizi sık değiştiriyoruz, siteye kendimiz ekleyebilir miyiz?",
+      "a": "Yönetim paneli bunun için var. Menü kalemlerini, fiyatları ve etkinlik duyurularını birkaç dakikada güncelleyebilirsiniz."
+    },
+    {
+      "q": "Çiftliğimizin ürünlerini tanıtmak için ne önerirsiniz?",
+      "a": "Ürünleri ve üretim sürecini anlatan sade bir web sayfası ile düzenli sosyal medya paylaşımı iyi bir başlangıç olur. Kendi ürün ve tarla fotoğraflarınızı panelden yükleyip iki kanalda da kullanabilirsiniz; paylaşım planını ve gönderi tasarımlarını biz hazırlarız."
+    },
+    {
+      "q": "Hafta sonu gelen ziyaretçilerin bizi haritada bulması için ne yapmalıyız?",
+      "a": "İşletme profilinizde doğru konum, park bilgisi, çalışma saatleri ve güncel fotoğraflar olmalı. Bunları sitenizdeki iletişim sayfasıyla aynı tutuyor, rezervasyon veya arama bağlantısını öne çıkarıyoruz."
+    }
+  ],
+  "relatedServices": ["ankara-web-tasarim", "ankara-sosyal-medya-yonetimi", "ankara-seo-hizmeti"],
+  "sources": [
+    { "title": "Gölbaşı, Ankara – Vikipedi", "url": "https://tr.wikipedia.org/wiki/G%C3%B6lba%C5%9F%C4%B1,_Ankara" },
+    { "title": "Gölbaşı, Ankara (İlçe) – Küre Ansiklopedi", "url": "https://kureansiklopedi.com/tr/detay/golbasi-ankara-ilce-b1947" },
+    { "title": "Gölbaşı Özel Çevre Koruma Bölgesi – T.C. Çevre, Şehircilik ve İklim Değişikliği Bakanlığı", "url": "https://webdosya.csb.gov.tr/db/destek/icerikler/golbas-_ozel_cevre_koruma_bolges--20191128075048.pdf" },
+    { "title": "Plan açıklama raporu (Kızılcaşar Mahallesi, Atılım Üniversitesi kampüsü) – Çevre, Şehircilik ve İklim Değişikliği Bakanlığı", "url": "https://webdosya.csb.gov.tr/v2/ankara/2026/05/Plan-A-klama-Raporu-20260506144057.pdf" }
+  ]
+}

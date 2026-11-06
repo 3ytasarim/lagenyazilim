@@ -1,0 +1,34 @@
+{
+  "slug": "izmir",
+  "name": "İzmir",
+  "h1": "İzmir Web Tasarım: Limandan Fuara, Ege'nin Ticaretine Uygun Dijital Altyapı",
+  "seoTitle": "İzmir Web Tasarım ve Katalog Tasarımı | Lagen Yazılım",
+  "seoDescription": "İzmirli ihracatçı, sanayici ve turizm işletmeleri için çok dilli web sitesi, dijital katalog ve SEO. Uzaktan proje yönetimi, yönetim paneli dahil. Görüşelim.",
+  "intro": "İzmir'in ekonomisi denize açılan bir kapı üzerine kurulu. Şehrin limanı ve Aliağa'daki liman tesisleri Türkiye'nin önemli konteyner noktaları arasında yer alırken Gaziemir'deki Ege Serbest Bölgesi ile Menemen'deki İZBAŞ dış ticarete yön veren iki ayrı merkez oluşturur. Bu yapı, İzmirli firmaların müşterisinin çoğu zaman şehir dışında, hatta yurt dışında olduğu anlamına gelir. Lagen Yazılım bu firmalarla Ankara'daki ofisinden uzaktan çalışır ve dünyanın herhangi bir yerinden gelen ziyaretçiyi ikna edecek dijital altyapıyı hazırlar.",
+  "localNeeds": "Yabancı bir alıcı İzmir'deki bir üreticiyi ilk kez araştırdığında genellikle önce web sitesine bakar; burada aradığı şey ürün gamı, kapasite bilgisi ve kendi dilinde net bir iletişim yoludur. Bu nedenle İzmir projelerinde çok dilli B2B site kurgusu ve indirilebilir ya da sayfa içinde gezilebilir dijital katalog öne çıkar. Fuar takvimine göre çalışan firmalar için fuar öncesi yayına alınacak ürün lansman sayfaları ve fuar sonrası takip formları da işe yarar. Turizm tarafında ise sezona göre güncellenen çok dilli sayfalar, rezervasyon ya da talep odaklı butonlar ve düzenli bakılan bir Google İşletme Profili kayıp talebi azaltır.",
+  "localSectors": "Tarihsel olarak incir, üzüm, tütün ve pamuk ticaretiyle tanınan İzmir, bugün İstanbul'dan sonra ülkenin önde gelen sanayi merkezlerinden biri sayılır. Sanayi Aliağa, Menemen, Torbalı ve Gaziemir'de yoğunlaşırken İzmir–Ankara yolu üzerindeki Kemalpaşa da önemli bir üretim aksı oluşturur. Kültürpark'ta düzenlenen İzmir Enternasyonal Fuarı ve Gaziemir'deki Fuar İzmir, şehri ihtisas fuarlarının adresi yapar. Turizmde Çeşme ve Alaçatı yerli ve yabancı ziyaretçinin uğrak noktasıdır; Selçuk yakınındaki Efes Antik Kenti ise UNESCO Dünya Mirası Listesi'nde yer alır. Ege ve Dokuz Eylül başta olmak üzere üniversiteler de nitelikli iş gücüyle bu ekosistemi besler.",
+  "serviceModel": "İzmir'den bir firmayla yürüttüğümüz proje, genellikle bir fuar ya da sezon tarihine göre geriye doğru planlanır. Önce kısa bir video toplantıda teslim tarihi ve öncelikli diller belirlenir, ardından ürün bilgileri ve görseller ortak bir klasörde toplanır. Tasarım ve metinler paylaşımlı dokümanlarda yorumlanır, her aşama çevrim içi onayla kilitlenir; böylece üretim ya da sezon yoğunluğu içindeki ekibiniz zaman kaybetmez. Ürün envanteri geniş olan projelerde, katalog yapısını birlikte kurgulamak için yerinde bir çalışma günü planlanabilir. Teslimde içerik, ürün ve dil yönetimini yapabileceğiniz bir yönetim paneli de verilir.",
+  "faqs": [
+    {
+      "q": "Fuar öncesinde sitemizi ve kataloğumuzu yetiştirebilir miyiz?",
+      "a": "Takvim ilk görüşmede fuar tarihine göre çıkarılır ve kapsam buna göre önceliklendirilir. Gerekirse önce katalog ve temel sayfalar yayına alınır, kalan bölümler fuar sonrasında tamamlanır."
+    },
+    {
+      "q": "Serbest bölgede faaliyet gösteren bir firma için site yapısı farklı mı olmalı?",
+      "a": "Teknik olarak fark yoktur, fakat hedef kitle çoğunlukla yabancı alıcılar olduğu için İngilizce ana dil olarak kurgulanabilir, Türkçe ise ikinci dil olarak eklenebilir."
+    },
+    {
+      "q": "Çeşme veya Alaçatı'daki bir konaklama işletmesi için ne öneriyorsunuz?",
+      "a": "Mobilde hızlı açılan, çok dilli, oda ve hizmetleri net gösteren bir site ile doğrudan iletişim ve talep butonları öneririz. Google İşletme Profili'nin güncel tutulması da yerel aramalarda görünürlük için önemlidir."
+    },
+    {
+      "q": "Dijital katalog ile PDF katalog arasında hangisini seçmeliyiz?",
+      "a": "İkisi birbirini tamamlar. Sitedeki ürün sayfaları arama motorlarında bulunur ve kolay güncellenir; PDF ise fuarda ve e-postayla paylaşım için pratiktir. Aynı içerikten iki formatı da hazırlayabiliriz."
+    }
+  ],
+  "relatedServices": ["ankara-web-tasarim", "ankara-katalog-tasarimi", "ankara-seo-hizmeti"],
+  "sources": [
+    { "title": "İzmir – Vikipedi", "url": "https://tr.wikipedia.org/wiki/%C4%B0zmir" },
+    { "title": "İzmir (il) – Vikipedi", "url": "https://tr.wikipedia.org/wiki/%C4%B0zmir_(il)" }
+  ]
+}

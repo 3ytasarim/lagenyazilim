@@ -1,0 +1,44 @@
+{
+  "slug": "bala",
+  "name": "Bala",
+  "h1": "Bala'da Tarım, Gıda ve İnşaat Firmaları İçin Dijital Tanıtım",
+  "seoTitle": "Bala Web Tasarım ve Kurumsal Tanıtım | Lagen Yazılım",
+  "seoDescription": "Bala'daki tarım, gıda, tekstil ve inşaat işletmeleri için kurumsal web sitesi, ürün kataloğu ve yerel SEO. Görüşmeler online veya iş yerinizde.",
+  "intro": "Bala, Ankara'nın yüksek yaylalarından Kartal Yaylası üzerine kurulmuş, geniş tarım arazileriyle bilinen bir ilçe. Buğdaydan şeker pancarına, kavundan nohuda uzanan ürün çeşitliliği yanında tekstil, gıda ve inşaat işletmeleri de ilçe ekonomisinde yer alıyor. Böyle karma bir yapıda her firmanın dijital ihtiyacı farklı oluyor. Lagen Yazılım, Bala'daki işletmelerle bu farkı gözeterek sade ve işlevsel çözümler kuruyor. Kimi işletme yalnızca tüccarların kendisini bulabilmesini, kimi ise ürününü ilçe dışındaki alıcılara düzenli göstermeyi istiyor.",
+  "localNeeds": "Hububat ve bakliyat alıcısıyla çalışan bir üretici için önemli olan; ürün çeşidi, ambalaj seçenekleri ve iletişim bilgisinin hızlıca bulunmasıdır. Alçıtaşı işleyen ya da inşaat malzemesi üreten bir firma ise teknik özellikleri ve uygulama örneklerini anlatan bir katalogdan fayda görür. Geniş arazilerde yürütülen işlerin ölçeği, hektar, kapasite ve sevkiyat hacmi gibi sade rakamlarla verildiğinde yazı da ikna edici olabilir. Google'da işletme profilinin güncel tutulması da ilçe dışından gelen alıcıların yol bulmasını kolaylaştırır. Alçıtaşı ya da yapı malzemesi satan bir firma için ise sevkiyat bölgeleri ve teklif formu satın almayı kolaylaştırır.",
+  "localSectors": "Vikipedi'deki bilgilere göre Bala ekonomisi büyük ölçüde tarım, sanayi ve ticarete dayanıyor. Tarlalarda buğday, arpa, ayçiçeği, mercimek, nohut, fasulye, şeker pancarı, kavun ve karpuz yetiştiriliyor. Sanayi tekstil, gıda ve inşaat alanlarında yoğunlaşıyor; alçıtaşı işlemeciliği de yapılıyor. Kızılırmak üzerindeki Kesikköprü Barajı ve kızılçam ormanlarıyla kaplı Beynam Ormanları ise Ankara'nın bilinen mesire alanları arasında sayılıyor. Bu çeşitlilik, ilçedeki işletmelerin farklı alıcı kitlelerine ulaşmak zorunda olduğunu gösteriyor. Ankara Büyükşehir Belediyesi'nin Kesikköprü mahallesinde bir yaz kampı bulunması da bölgeye gelen ziyaretçi hareketine katkı veriyor.",
+  "serviceModel": "Bala'daki firmalarla genellikle önce online bir ön görüşme yapıyor, ihtiyacı netleştiriyoruz. Teklif onaylandığında içerik listesini sizinle paylaşıyor, ürün bilgilerini, belgeleri ve elinizdeki görselleri topluyoruz. Eksik kalan metinleri sizinle yaptığımız kısa görüşmelerden derleyip onayınıza sunuyoruz. Yayından sonra ürün, fotoğraf ve duyuru güncellemeleri yönetim paneli üzerinden sizin elinizde oluyor. Bu sayede Ankara'ya gelmeniz gerekmeden proje adım adım ilerliyor.",
+  "faqs": [
+    {
+      "q": "Hem hububat hem inşaat malzemesi satıyoruz, tek sitede anlatabilir miyiz?",
+      "a": "Evet. Her faaliyet alanı ayrı bir bölüm olarak kurgulanıyor ve kendi ürün listesi, belgeleri ve iletişim formuyla sunuluyor. Böylece tüccar da müteahhit de yalnızca kendini ilgilendiren sayfalara ulaşıyor."
+    },
+    {
+      "q": "Toptan alıcılara yönelik bir ürün kataloğu nasıl hazırlanır?",
+      "a": "Ürün çeşitleri, ambalaj ölçüleri ve teslim seçenekleri tek tip kartlarla düzenleniyor. Katalog hem basılı PDF hem de web sitesinde gezilebilir sayfa olarak hazırlanabiliyor."
+    },
+    {
+      "q": "İlk toplantı için Ankara merkeze gelmemiz gerekir mi?",
+      "a": "Gerekmez. İlk görüşmeyi online yapabiliyoruz; isterseniz Çankaya Harbiye'deki ofisimizde ya da Ankara'daki iş yerinizde de buluşabiliriz."
+    },
+    {
+      "q": "Mesire alanlarına yakın bir kafe ya da tesis işletiyoruz, neye ihtiyacımız var?",
+      "a": "Kesikköprü ya da Beynam yönüne giden ziyaretçiler genellikle haritadan arama yapar. Güncel bir Google işletme profili, menü ve fotoğrafların yer aldığı tek sayfalık bir site ve yol tarifi bağlantısı iyi bir başlangıçtır."
+    },
+    {
+      "q": "Sitemizi teslimden sonra kim günceller?",
+      "a": "Siteler yönetim paneliyle teslim ediliyor. Ürün, fiyat ve duyuru değişikliklerini kendi ekibiniz kod bilgisine gerek olmadan yapabiliyor."
+    }
+  ],
+  "relatedServices": [
+    "ankara-web-tasarim",
+    "ankara-katalog-tasarimi",
+    "ankara-seo-hizmeti"
+  ],
+  "sources": [
+    {
+      "title": "Bala, Ankara - Vikipedi",
+      "url": "https://tr.wikipedia.org/wiki/Bala,_Ankara"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "slug": "altindag",
+  "name": "Altındağ",
+  "h1": "Siteler Mobilyacıları ve Altındağ'ın Tarihi Merkezi İçin Dijital Vitrin",
+  "seoTitle": "Altındağ Mobilya Kataloğu ve Web Sitesi | Lagen Yazılım",
+  "seoDescription": "Siteler'deki mobilya üreticileri ile Ulus, Hamamönü ve Kale çevresindeki işletmeler için dijital katalog, web sitesi ve sosyal medya yönetimi.",
+  "intro": "Altındağ'da iki farklı iş dünyası yan yana yaşıyor. Bir yanda kuşaklardır mobilya üreten Siteler atölyeleri, öbür yanda Ulus, Hamamönü ve Ankara Kalesi çevresinde ziyaretçi ağırlayan kafeler, restoranlar ve hediyelik eşya dükkânları var. İkisinin de ortak ihtiyacı, ürünü ya da mekânı gerçeğe yakın gösteren güçlü görseller ve kolay bulunan bir dijital vitrin. Lagen Yazılım bu vitrini katalog, web sitesi ve sosyal medya ile kuruyor; vitrinde yer alan fotoğraflar ise işletmenin kendi arşivinden ya da çalıştığı fotoğrafçıdan geliyor.",
+  "localNeeds": "Mobilya, fotoğrafla satılan bir üründür; kumaş dokusu, ahşap rengi ve ölçüler doğru görünmezse müşteri mağazaya gelmez. Siteler'deki bir üretici için koleksiyon bazlı dijital katalog, takım ve renk seçeneklerini gösteren ürün sayfaları ve bayilerle paylaşılabilecek PDF dosyaları temel ihtiyaçlardır. Showroom fotoğrafları ile Instagram'da düzenli koleksiyon tanıtımı da talebi artırır. Tarihi merkezdeki işletmelerde ise müzeleri gezen ziyaretçiler haritadan arama yaptığı için işletme profili, yorumlar ve gerektiğinde İngilizce menü ya da tanıtım sayfası öne çıkar. Hediyelik eşya veya yöresel ürün satan dükkânlar için ürünleri tek tek gösteren küçük bir galeri, ziyaretçinin dönüşte bile sipariş vermesini mümkün kılar.",
+  "localSectors": "Altındağ ilçesindeki Siteler, akademik çalışmalarda Türk mobilyasının üretim beşiği olarak anılır ve 1960'lardan itibaren önemli bir mobilyacılık merkezine dönüşmüştür. İlçe Ankara'nın tarihi çekirdeğini de barındırır: Ankara Kalesi, Hacı Bayram Camii, Augustus Tapınağı (Monumentum Ancyranum), Roma Hamamı, Ulus ve Samanpazarı bu alandadır. Hamamönü geleneksel evleriyle bilinir. Anadolu Medeniyetleri Müzesi, Etnografya Müzesi ve Çengelhan Rahmi Koç Müzesi gibi müzeler ile Çengel Han, Suluhan ve Taşhan gibi tarihi hanlar da ilçededir.",
+  "serviceModel": "Siteler'deki üreticilerle ilk görüşmeyi çoğu zaman showroomda yapıyoruz; koleksiyonları yerinde görmek katalogun bölümlerini kurgulamayı kolaylaştırıyor. Koleksiyon sayısına göre bir sayfa planı çıkarıyor, elinizdeki ürün fotoğraflarını katalog, web ve sosyal medya için ayrı yerleşimlerde kullanıyoruz. Fotoğrafı eksik ürünleri önceden listeliyor, kendi fotoğrafçınızla tamamlayabilmeniz için size iletiyoruz. Tarihi merkezdeki bir kafe ya da dükkân için ise menü, çalışma saatleri ve harita kaydını öncelikli ele alıyoruz. Görüşmeleri iş yerinizde, çevrim içi veya Çankaya Harbiye'deki ofisimizde gerçekleştirebiliriz. Siteniz yönetim paneliyle gelir, yeni ürün ve fotoğrafları siz eklersiniz.",
+  "faqs": [
+    {
+      "q": "Siteler'deki showroomumuza yeni koleksiyon geldiğinde siteye kendimiz ekleyebilir miyiz?",
+      "a": "Evet. Ürün yapısını koleksiyon, takım ve renk seçeneklerine göre kuruyoruz. Yeni ürünü panelden ekleyip kendi fotoğraflarınızı yükler, ölçü ve kumaş bilgisini ayrı alanlara girersiniz."
+    },
+    {
+      "q": "Bayilerimize gönderebileceğimiz bir PDF mobilya kataloğu hazırlıyor musunuz?",
+      "a": "Hazırlıyoruz. Koleksiyon, ölçü ve kumaş bilgilerini içeren dijital katalogu baskıya da uygun olacak şekilde tasarlıyoruz."
+    },
+    {
+      "q": "Hamamönü'ndeki kafemize gelen yabancı ziyaretçiler için İngilizce sayfa gerekir mi?",
+      "a": "Turist yoğunluğu olan bölgelerde kısa bir İngilizce tanıtım ve menü sayfası faydalı olur. Bunu Türkçe siteyle aynı panelden yönetebilirsiniz."
+    },
+    {
+      "q": "Koleksiyonlarımızı Instagram'da düzenli tanıtmak için destek alabilir miyiz?",
+      "a": "Sosyal medya yönetimi kapsamında elinizdeki koleksiyon fotoğraflarını aylık bir paylaşım planına dönüştürüyor, gönderi tasarımlarını hazırlıyoruz."
+    },
+    {
+      "q": "Ürünlerimizi internetten satmak zorunda mıyız, yoksa sadece tanıtım sitesi yeterli mi?",
+      "a": "Mobilyada pek çok müşteri ürünü görüp dokunmak istediği için tanıtım sitesi ve güçlü bir katalog çoğu üretici için iyi bir başlangıçtır. Talep formu ve WhatsApp bağlantısıyla müşteriyi showrooma yönlendirebilirsiniz. İleride online sipariş eklemek isterseniz altyapıyı buna uygun kuruyoruz."
+    }  ],
+  "relatedServices": ["ankara-katalog-tasarimi", "ankara-sosyal-medya-yonetimi", "ankara-web-tasarim"],
+  "sources": [
+    { "title": "Altındağ, Ankara – Vikipedi", "url": "https://tr.wikipedia.org/wiki/Alt%C4%B1nda%C4%9F,_Ankara" },
+    { "title": "Siteler mobilya üretimi üzerine makale – Journal of Architectural Sciences (JAS)", "url": "https://jag.journalagent.com/jas/pdfs/JAS_9_1_55_69.pdf" },
+    { "title": "Türkiye'de mobilyacılığın gelişimi: Siteler ve Üçel Ağaç İşleri – Bilkent Üniversitesi", "url": "https://repository.bilkent.edu.tr/items/48bbe703-42c9-4ed4-a83f-20c1ac34578e/full" }
+  ]
+}

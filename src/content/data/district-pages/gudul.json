@@ -1,0 +1,38 @@
+{
+  "slug": "gudul",
+  "name": "Güdül",
+  "h1": "Güdül'ün Kirazını, Leblebisini ve Doğasını Dijitalde Anlatan Web Siteleri",
+  "seoTitle": "Güdül Web Tasarım ve Sosyal Medya | Lagen Yazılım",
+  "seoDescription": "Güdül'deki leblebi imalathaneleri, kiraz üreticileri ve doğa turizmi işletmeleri için web sitesi, sosyal medya yönetimi ve toptancıya ürün kataloğu.",
+  "intro": "Güdül, Ankara'nın kuzeybatısında, dağlık arazisi ve vadileriyle bilinen küçük bir ilçe. İlçe merkezindeki leblebi imalathaneleri ürünlerini Türkiye'nin farklı yerlerine gönderiyor, çevredeki bahçelerde yetişen kiraz ise ilçenin adını taşıyan ürünlerden biri. Bu ürünlerin hikâyesi çoğu zaman yalnızca pazarda ya da tanıdık çevresinde anlatılıyor. Lagen Yazılım olarak Güdüllü üreticilerin ve küçük işletmelerin bu hikâyeyi internette de düzgün, sade ve güvenilir biçimde anlatmasına yardım ediyoruz.",
+  "localNeeds": "Leblebi üreten bir imalathane için en önemli şey, uzaktaki bir toptancının ya da market sahibinin ürünü görüp kolayca iletişime geçebilmesidir. Bunun için çeşitleri, paket seçeneklerini ve sipariş yolunu tek sayfada gösteren bir site çoğu zaman yeterli bir başlangıç olur. Kiraz yetiştiricileri için ise hasat dönemi kısa olduğundan, o haftalarda sosyal medyada düzenli ve zamanında paylaşım yapmak satış açısından belirleyicidir. Sorgun Yaylası ve Kirmir Vadisi çevresinde kamp, yürüyüş ya da konaklama hizmeti veren işletmelerin de ziyaretçiye yol tarifi, mevsim bilgisi ve alanın gerçek halini gösteren fotoğraflar sunan bir sayfaya ihtiyacı vardır.",
+  "localSectors": "Vikipedi'deki ilçe maddesine göre Güdül'ün arazisi dağlıktır ve tarıma elverişli toprak sınırlıdır. Aynı kaynak, ilçe merkezindeki leblebi imalathanelerinden ülkenin her yerine leblebi gönderildiğini belirtir. Dünya gazetesinin haberinde Güdül'ün üzüm ve kirazıyla tanındığı, kapama kiraz bahçelerinin ürün vermeye başladığı ve iri taneli kirazın ihracatının hedeflendiği aktarılır. Doğa tarafında Sorgun Yaylası ve göleti, Kirmir Vadisi ile Kavaklı Dağı çevresi yürüyüş, kamp ve bisiklet için öne çıkan alanlar olarak anılır. Haziranda kiraz festivali, temmuzda ise Güdül Kapama Şöleni düzenlendiği de aynı maddede yer alır.",
+  "serviceModel": "Güdül'deki işletmelerle ilk görüşmeyi genellikle çevrim içi yapıyoruz; isteyen işletme Çankaya Harbiye'deki ofisimize de gelebilir. Bu görüşmede ürünleri, satış kanallarını ve sezonun hangi aylara denk geldiğini konuşup sayfa yapısını birlikte çıkarıyoruz. Sitede imalathanenin, bahçenin ya da kamp alanının sahibinin elindeki fotoğraflar kullanılıyor; sezon ilerledikçe yenilerini panelden kendiniz ekleyebiliyorsunuz. Fiyat listesini, stok durumunu ya da sezon duyurusunu da aynı panelden işletme sahibi güncelleyebiliyor. Sosyal medya yönetimini isteyenler için paylaşım takvimini kiraz ve festival dönemlerine göre hazırlıyoruz.",
+  "faqs": [
+    {
+      "q": "Leblebi imalathanem için online satış sitesi şart mı?",
+      "a": "Şart değil. Toptan satış yapan çoğu imalathane için ürün çeşitlerini, ambalaj seçeneklerini ve iletişim yollarını gösteren bir tanıtım sitesi iyi bir başlangıçtır. İhtiyaç doğarsa siteye daha sonra sipariş formu ya da satış altyapısı eklenebilir."
+    },
+    {
+      "q": "Kiraz sezonu çok kısa, sosyal medya yine de işe yarar mı?",
+      "a": "Kısa sezonda en çok işe yarayan şey hazırlıktır. Sezon başlamadan önce elinizdeki bahçe ve hasat fotoğraflarını, sipariş bilgisini ve paylaşım takvimini birlikte hazır edersek hasat haftalarında içerik zamanında yayınlanır."
+    },
+    {
+      "q": "Toptancılara göndermek için leblebi çeşitlerimizi anlatan bir katalog hazırlar mısınız?",
+      "a": "Evet. Çeşitleri, paket boyutlarını, koli bilgisini ve sipariş iletişimini düzenli bir sayfa yapısında toplayan PDF katalog tasarlıyoruz. Katalogda sizin verdiğiniz ürün bilgileri ve fotoğraflar yer alıyor; aynı içerik sitede de kullanılabiliyor."
+    },
+    {
+      "q": "Sorgun Yaylası'nda kamp alanımız var, site mi yoksa harita kaydı mı daha önemli?",
+      "a": "İkisi birbirini tamamlar. Harita kaydı ziyaretçinin sizi bulmasını sağlar; site ise kurallar, olanaklar, mevsim bilgisi ve rezervasyon talebi gibi ayrıntıları anlatır. Küçük işletmeler için tek sayfalık bir site çoğu zaman yeterlidir."
+    },
+    {
+      "q": "Siteyi kurduktan sonra yazıları kendim değiştirebilir miyim?",
+      "a": "Evet. Siteler yönetim paneliyle teslim ediliyor; fiyat, metin, fotoğraf ve duyuruları teknik bilgi gerekmeden güncelleyebilirsiniz."
+    }
+  ],
+  "relatedServices": ["ankara-web-tasarim", "ankara-sosyal-medya-yonetimi", "ankara-katalog-tasarimi"],
+  "sources": [
+    { "title": "Güdül – Vikipedi", "url": "https://tr.wikipedia.org/wiki/G%C3%BCd%C3%BCl" },
+    { "title": "Güdül'de hedef kiraz ihracatı – Dünya", "url": "https://www.dunya.com/sehirler/gudul039de-hedef-kiraz-ihracati-haberi-250559" }
+  ]
+}

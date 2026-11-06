@@ -1,0 +1,38 @@
+{
+  "slug": "istanbul",
+  "name": "İstanbul",
+  "h1": "İstanbul'da Web Tasarım: Rekabetin En Sert Olduğu Pazarda Öne Çıkın",
+  "seoTitle": "İstanbul Web Tasarım ve SEO | Lagen Yazılım",
+  "seoDescription": "İstanbul'daki işletmeler için hızlı, dönüşüm odaklı web sitesi, teknik SEO ve özel yazılım. Uzaktan yönetilen süreç, yönetim paneli dahil. Teklif isteyin.",
+  "intro": "İstanbul, Türkiye ekonomisinin ağırlık merkezi: dış ticaretin büyük bölümü buradan yürür, bankaların ve büyük şirketlerin genel müdürlükleri Levent, Maslak ve Şişli hattında toplanır. Bu yoğunluk dijitalde de kendini gösterir; hemen her sektörde arama sonuçlarının ilk sayfası için onlarca firma yarışır. Lagen Yazılım, Ankara Çankaya'daki ofisinden İstanbul'daki işletmelerle uzaktan çalışır ve bu rekabette ziyaretçiyi müşteriye çeviren siteler kurar. Hedefimiz güzel görünen bir vitrin değil; hızlı açılan, net konuşan ve ölçülebilir sonuç üreten bir satış aracı.",
+  "localNeeds": "Bu kadar kalabalık bir pazarda ilk eleme hızla yapılır: sayfa geç açılıyorsa ya da teklif formu karışıksa kullanıcı birkaç saniye içinde rakibe geçer. Bu yüzden İstanbul projelerinde Core Web Vitals değerleri, mobil kullanılabilirlik ve sade bir dönüşüm akışı en baştan planlanır. Teknik SEO tarafında site mimarisi, iç linkleme, yapılandırılmış veri ve ilçe ya da hizmet bazlı açılış sayfaları birlikte ele alınır. Dış ticaretle uğraşan firmalar için İngilizce başta olmak üzere çok dilli sayfa yapısı ve hreflang kurgusu da çoğu zaman ihtiyaç listesine girer. Bunlara ek olarak kampanya dönemlerinde hızlı içerik güncellemesi gerektiğinden, ekibin teknik bilgi olmadan kullanabileceği bir yönetim paneli kritik hale gelir.",
+  "localSectors": "Şehrin ekonomik dokusu tek bir sektöre sığmaz. Finans ve profesyonel hizmetler merkezi iş alanlarında yoğunlaşırken gıda işleme, tekstil ve hazır giyim, kimya, elektronik, makine ve ilaç gibi üretim kolları da İstanbul'da güçlü biçimde temsil edilir. Turizm ve kongre organizasyonları ayrı bir halka oluşturur; iki uluslararası havalimanı şehri bölgesel bir buluşma noktası yapar. Bu çeşitlilik, bir hukuk bürosunun güven veren kurumsal sitesiyle bir ihracatçının çok dilli ürün kataloğunun aynı şehirde, birbirinden çok farklı stratejiler gerektirmesi anlamına gelir.",
+  "serviceModel": "İstanbul'daki bir ekiple çalışırken trafik ve mesafe hiçbir aşamada gündeme gelmez, çünkü süreç baştan sona çevrim içi kurgulanır. İlk görüşmede hedef kitle, rakipler ve birincil dönüşüm hedefi video toplantıda netleştirilir; ardından site haritası ve tasarım taslakları paylaşımlı dokümanlar üzerinden yorumlanır. Her ara teslim çevrim içi onaya sunulur, böylece yoğun takvimli yöneticiler de süreci kendi temposunda takip edebilir. Kapsamlı projelerde, örneğin birkaç departmanın katılacağı bir keşif çalıştayı gerekiyorsa, yerinde ziyaret planlanabilir. Yayına alınan site, içerikleri sizin güncelleyebileceğiniz bir yönetim paneliyle teslim edilir.",
+  "faqs": [
+    {
+      "q": "İstanbul'da rakiplerim çok güçlü, yeni bir siteyle görünürlük kazanmak mümkün mü?",
+      "a": "Sıralama garantisi veren bir ajans size gerçeği söylemiyordur. Yapabileceğimiz şey teknik altyapıyı sağlam kurmak, rakiplerin boş bıraktığı niş aramaları tespit etmek ve bu sorgulara gerçekten cevap veren sayfalar üretmektir; sonuçları da Search Console verileriyle şeffaf biçimde izleriz."
+    },
+    {
+      "q": "Ofisiniz Ankara'da; İstanbul'daki bir şirketle nasıl koordinasyon kuruyorsunuz?",
+      "a": "Toplantılar video görüşmeyle, içerik ve geri bildirimler paylaşımlı dokümanlarla, onaylar çevrim içi yapılır. Proje gerektirirse yüz yüze bir çalışma oturumu da planlanabilir."
+    },
+    {
+      "q": "Kurumsal sitemizi İngilizce de yayınlamamız gerekiyor, bu dahil mi?",
+      "a": "Çok dilli yapı projenin başında planlanır: dil başına ayrı URL yapısı, hreflang etiketleri ve panelden her dili ayrı yönetebilme imkânı sunulur. Çeviri metinlerini sizin ekibiniz ya da tercih ettiğiniz bir çevirmen sağlayabilir."
+    },
+    {
+      "q": "Sitemizin satışa ne kadar katkı verdiğini ölçebilecek miyiz?",
+      "a": "Form gönderimleri, telefon tıklamaları ve önemli butonlar için olay takibi kurulur. Böylece hangi sayfanın ve hangi kanalın talep getirdiğini somut verilerle görebilirsiniz."
+    },
+    {
+      "q": "Mevcut sitemizi tamamen yenilemek yerine sadece hızlandırabilir misiniz?",
+      "a": "Önce mevcut sitenin performans ve teknik SEO durumunu inceleriz. Altyapı izin veriyorsa iyileştirme önerilir; sorunlar kökten kaynaklanıyorsa yeniden geliştirmenin gerekçesini açıkça paylaşırız."
+    }
+  ],
+  "relatedServices": ["ankara-web-tasarim", "ankara-seo-hizmeti", "ankara-ozel-yazilim"],
+  "sources": [
+    { "title": "İstanbul ekonomisi – Vikipedi", "url": "https://tr.wikipedia.org/wiki/%C4%B0stanbul_ekonomisi" },
+    { "title": "İstanbul Kalkınma Ajansı – İstanbul Yatırım Rehberi", "url": "https://www.istka.org.tr/media/1254/%C4%B0stanbul-yatirim-rehber%C4%B0-tr.pdf" }
+  ]
+}

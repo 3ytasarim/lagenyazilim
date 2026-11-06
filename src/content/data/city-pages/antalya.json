@@ -1,0 +1,44 @@
+{
+  "slug": "antalya",
+  "name": "Antalya",
+  "h1": "Antalya Web Tasarım: Turizm, Tarım ve İhracat İçin Çok Dilli Siteler",
+  "seoTitle": "Antalya Web Tasarım ve Sosyal Medya | Lagen Yazılım",
+  "seoDescription": "Antalya'daki otel, acente, tarım ve ihracat firmaları için çok dilli, mobil uyumlu web sitesi, SEO ve sosyal medya yönetimi. Uzaktan çalışıyoruz, yazın.",
+  "intro": "Antalya, sıklıkla Türkiye'nin turizm başkenti olarak anılır ve havalimanı yolcu sayısında ülkenin en yoğunları arasındadır. Fakat şehrin ekonomisi yalnızca otellerden ibaret değildir: ticaret ve tarım da en az turizm kadar belirleyicidir. Seralardan çıkan sebzeler, narenciye ve muz gibi ürünler hem iç pazara hem de yurt dışına ulaşır. Lagen Yazılım, Ankara'daki ofisinden Antalyalı işletmelerle uzaktan çalışır; sezonu kaçırmayan, farklı dillerde konuşan ve doğrudan talep toplayan dijital yüzler kurar.",
+  "localNeeds": "Turizm işletmeleri için en büyük kayıp, misafirin aracı platformlara yönelip doğrudan iletişime hiç geçmemesidir. Bu yüzden Antalya projelerinde hızlı yüklenen mobil sayfalar, misafirin dilinde yazılmış oda ve hizmet açıklamaları, belirgin rezervasyon ya da talep butonları ve güncel bir Google İşletme Profili birlikte düşünülür. Sezon öncesinde düzenli paylaşım takvimiyle yürütülen sosyal medya yönetimi, görünürlüğü erken artırmanın pratik bir yoludur. Tarım ve gıda ihracatçıları ise farklı bir ihtiyaca sahiptir: ürün takvimi, sertifikalar ve sevkiyat bilgisini gösteren, alıcıya güven veren çok dilli bir B2B site.",
+  "localSectors": "Kıyı şeridi Kaş'tan Gazipaşa'ya kadar uzanan bir turizm koridorudur; Kemer, Belek, Side ve Alanya bu hattın bilinen merkezleridir. Deniz turizminin yanında kongre, golf, sağlık ve kış turizmi de sezonu uzatan alanlar arasındadır. Konyaaltı'nda 1987'de açılan Antalya Serbest Bölgesi ve Antalya Organize Sanayi Bölgesi, şehrin üretim ve dış ticaret tarafını temsil eder. Kıyıda seracılık, narenciye, muz ve avokado; iç kesimlerde ise elma ve armut yetiştiriciliği öne çıkar. Akdeniz Üniversitesi bünyesindeki teknoloji geliştirme bölgesi ve Antalya Bilim Üniversitesi de şehrin genç girişim ekosistemini besler.",
+  "serviceModel": "Antalya'daki bir işletmeyle zamanlama her şeydir, bu yüzden projeyi sezon takviminize göre kurarız. Yoğun dönem başlamadan önce video toplantılarla kapsamı belirler, fotoğraf ve metinlerinizi ortak bir klasörde toplarız. Çeviri gerektiren sayfalar paylaşımlı dokümanlarda dil dil ilerler; siz de sezon içindeki yoğunluğunuza rağmen her onayı telefondan çevrim içi verebilirsiniz. Birden fazla tesisi olan gruplarda ya da kapsamlı bir keşif çalıştayı gerektiğinde yerinde görüşme planlanabilir. Teslim edilen yönetim paneliyle kampanyaları, sezon fiyat duyurularını ve galerileri kendiniz güncellersiniz.",
+  "faqs": [
+    {
+      "q": "Otelimiz için Rusça ve Almanca sayfalar da hazırlanabilir mi?",
+      "a": "Evet, site istediğiniz dillerle kurgulanabilir ve her dil yönetim panelinden ayrı yönetilir. Çevirileri sizin sağlamanız ya da profesyonel bir çevirmenle çalışmanız önerilir; arama motorları için gereken teknik dil ayarlarını biz yaparız."
+    },
+    {
+      "q": "Sitemize online rezervasyon ekleyebilir misiniz?",
+      "a": "Kullandığınız rezervasyon motoru varsa siteye entegre edilir. Yoksa talep formu ve doğrudan iletişim butonlarıyla başlanıp ihtiyaç büyüdükçe özel bir çözüm değerlendirilebilir."
+    },
+    {
+      "q": "Sezon dışında sosyal medya yönetimine devam etmek mantıklı mı?",
+      "a": "Erken rezervasyon kararları çoğu zaman sezon başlamadan verilir. Kış aylarında daha seyrek ama düzenli bir paylaşım takvimi, markanın akılda kalmasına yardımcı olur."
+    },
+    {
+      "q": "Sera ürünleri ihraç ediyoruz; bizim için hangi sayfalar önemli?",
+      "a": "Ürün ve hasat takvimi, kalite ve sertifika bilgileri, paketleme seçenekleri ve hızlı teklif formu en çok işe yarayan bölümlerdir. Bunlar alıcının diline göre hazırlanır."
+    },
+    {
+      "q": "Kongre veya golf turizmine yönelik bir organizasyon şirketiyiz; site yapımız nasıl olmalı?",
+      "a": "Bu tür işletmelerde karar vericiler genellikle kurumsal planlamacılardır. Etkinlik türlerine göre ayrılmış sayfalar, mekân ve kapasite bilgileri, geçmiş organizasyon tiplerinin açıklaması ve hızlı teklif formu öne çıkarılır. Sayfalar hedef pazarın dilinde hazırlanır ve teklif taleplerinin doğrudan ilgili kişiye ulaşması sağlanır."
+    }
+  ],
+  "relatedServices": [
+    "ankara-web-tasarim",
+    "ankara-sosyal-medya-yonetimi",
+    "ankara-seo-hizmeti"
+  ],
+  "sources": [
+    {
+      "title": "Antalya – Vikipedi",
+      "url": "https://tr.wikipedia.org/wiki/Antalya"
+    }
+  ]
+}

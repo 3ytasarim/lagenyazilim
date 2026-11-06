@@ -1,0 +1,57 @@
+{
+  "slug": "akyurt",
+  "name": "Akyurt",
+  "h1": "Akyurt'taki Üreticiler İçin Kurumsal Site, Katalog ve Bayi Paneli",
+  "seoTitle": "Akyurt Web Tasarım ve Kurumsal Katalog | Lagen Yazılım",
+  "seoDescription": "Akyurt'taki üretim ve tarım işletmeleri için kurumsal web sitesi, ürün kataloğu ve bayi paneli. Görüşme ofiste, iş yerinizde veya online.",
+  "intro": "Akyurt, başkente 32 kilometre uzaklıkta, 26 mahalleden oluşan ve sanayi yatırımlarıyla hızla değişen bir ilçe. Yerel basında ilçede 390'a yakın sanayi tesisi bulunduğu aktarılıyor; komşu Çubuk'tan da pek çok kişi Akyurt'taki fabrikalarda çalışıyor. Bu yoğunluk, satın alma uzmanlarının ve yeni tedarikçi arayan firmaların bir işletmeyi önce internette incelemesi anlamına geliyor. Lagen Yazılım olarak Akyurt'taki üreticilere, teknik bilgiyi düzenli sunan ve teklif talebini kolaylaştıran dijital altyapı hazırlıyoruz. Aşağıda, ilçedeki işletmelerin sık sorduğu konuları da derledik.",
+  "localNeeds": "Bir fabrikanın web sitesi çoğu zaman ilk satış görüşmesinin yerini tutar. Ürün grupları, ölçüler, malzeme seçenekleri ve sertifikalar tek bir yerde, indirilebilir PDF katalogla birlikte yer almalıdır. Bayilerle çalışan üreticiler için stok, fiyat listesi ve sipariş geçmişini gösteren kapalı bir B2B portal telefon trafiğini azaltır. Firmanın elindeki tesis ve makine parkı görselleri, kapasite bilgisiyle yan yana konduğunda alıcıya ölçeği anlatır; bu görselleri yönetim panelinden istediğiniz zaman yenileyebilirsiniz. İş ilanlarını ve vardiya pozisyonlarını duyurmak isteyen fabrikalar için bir kariyer bölümü, aday bulma sürecini de destekler.",
+  "localSectors": "Akyurt'un ekonomisi bir yandan tarıma, diğer yandan son yıllarda artan sanayi yatırımlarına dayanıyor. Yerel kaynaklar, sanayi ile tarımın ilçede birlikte istihdam yarattığını vurguluyor. Ankara Kalkınma Ajansı da Akyurt'ta serbest bölge kurulmasını değerlendiren bir ön fizibilite raporu hazırladı; bu, ilçenin üretim ve ticaret açısından taşıdığı önemi gösteriyor. Komşu Çubuk'un tarım ağırlıklı yapısıyla birlikte düşünüldüğünde, Akyurt bölgenin iş gücünü çeken bir üretim merkezi konumunda. Bu yoğunluk, tedarikçi ve alt yüklenici firmalar arasında rekabetin de arttığı anlamına geliyor; kendini net anlatan işletme bir adım öne çıkıyor.",
+  "serviceModel": "İlk toplantıyı Çankaya Harbiye'deki ofisimizde, fabrikanızda ya da online yapabiliyoruz. Fabrika ziyaretinde ürün gamınızı, bayi yapınızı ve teklif sürecinizi birlikte çıkarıyoruz. Ardından site haritası ve katalog yapısı onayınıza sunuluyor; ürün verilerini ve mevcut görsellerinizi bir içerik listesi üzerinden topluyoruz. Teslimden sonra ürün, haber ve belge eklemelerini yönetim panelinden kendi ekibiniz yapıyor; yeni bir modül gerektiğinde panel genişletilebiliyor. Proje boyunca tek bir iletişim kişisiyle ilerliyor, her aşamanın sonunda ekranları birlikte gözden geçiriyoruz.",
+  "faqs": [
+    {
+      "q": "Bayilerimizin fiyat listesini yalnızca kendilerinin görmesini sağlayabilir miyiz?",
+      "a": "Evet. Özel yazılım kapsamında, kullanıcı girişi olan bir bayi portalı kurulabiliyor. Her bayi kendi fiyat grubunu, sipariş geçmişini ve belgelerini görüyor; herkese açık sitede bu bilgiler yer almıyor."
+    },
+    {
+      "q": "Basılı kataloğumuz var, web sitesine nasıl aktarılır?",
+      "a": "Mevcut katalog incelenip ürün kartlarına dönüştürülüyor. Aynı içerikten güncel bir PDF katalog da hazırlanabiliyor; böylece web ve baskı birbiriyle uyumlu kalıyor."
+    },
+    {
+      "q": "Tedarikçi arayan firmalar bizi aramalarda nasıl bulur?",
+      "a": "Her ürün grubu için ayrı, açıklayıcı bir sayfa açılıyor ve başlıklar alıcıların kullandığı terimlerle yazılıyor. Teknik SEO düzenlemeleri sayfaların doğru anlaşılmasına yardım eder; sıralama ise garanti edilmiyor."
+    },
+    {
+      "q": "Yabancı alıcılar için İngilizce sayfa eklenebilir mi?",
+      "a": "Evet. Site çok dilli kurgulanabiliyor; çeviri metinleri sizden ya da çevirmeninizden alınarak ilgili dil sayfalarına yerleştiriliyor."
+    },
+    {
+      "q": "Satın alma ekiplerinden gelen teklif taleplerini nasıl toplarız?",
+      "a": "Ürün sayfalarına bağlı bir teklif formu ekleniyor. Talep, hangi üründen geldiği bilgisiyle birlikte e-posta adresinize ve yönetim panelindeki listeye düşüyor; böylece hiçbir istek kaybolmuyor."
+    }
+  ],
+  "relatedServices": [
+    "ankara-ozel-yazilim",
+    "ankara-katalog-tasarimi",
+    "ankara-web-tasarim",
+    "ankara-seo-hizmeti"
+  ],
+  "sources": [
+    {
+      "title": "Akyurt - Vikipedi",
+      "url": "https://tr.wikipedia.org/wiki/Akyurt"
+    },
+    {
+      "title": "Akyurt'un 5 bin yıllık sırrı: Roma heykellerinden dev sanayi bölgesine uzanan yolculuk - Yeni Ankara",
+      "url": "https://www.yeniankara.com.tr/akyurt/akyurtun-5-bin-yillik-sirri-roma-heykellerinden-dev-sanayi-bolgesine-uzanan-yolculuk-140510"
+    },
+    {
+      "title": "Akyurt İlçesi Serbest Bölge Kurulması Ön Fizibilitesi - Ankara Kalkınma Ajansı",
+      "url": "https://ankaraka.org.tr/sites/default/files/article-documents/Akyurt%20%C4%B0l%C3%A7esi%20Serbest%20B%C3%B6lge%20Kurulmas%C4%B1%20%C3%96n%20Fizibilitesi.pdf"
+    },
+    {
+      "title": "Çubuk, Ankara - Vikipedi",
+      "url": "https://tr.wikipedia.org/wiki/%C3%87ubuk,_Ankara"
+    }
+  ]
+}

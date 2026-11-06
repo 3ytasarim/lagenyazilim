@@ -1,0 +1,35 @@
+{
+  "slug": "kalecik",
+  "name": "Kalecik",
+  "h1": "Kalecik'teki Bağ, Şarap ve Yöresel Ürün Üreticileri İçin Dijital Vitrin",
+  "seoTitle": "Kalecik Üreticileri İçin Web Sitesi ve Katalog",
+  "seoDescription": "Kalecik karası bağları, şarap üreticileri ve çörek, ekmek gibi yöresel ürün işletmeleri için ürün kataloğu, web sitesi ve sosyal medya desteği.",
+  "intro": "Kalecik denince akla önce adını ilçeden alan Kalecik karası üzümü gelir. Kızılırmak kıyısındaki bağlar, tepedeki kale ve coğrafi işaretli çöreği ile ilçenin ürünleri Ankara dışında da biliniyor. Üreticilerin önemli bir kısmı ise ürünlerini hâlâ yalnızca tanıdık müşterilere ya da yol üstündeki tezgâhlara satıyor. Lagen Yazılım, Kalecikli üreticilerin ürünlerini düzenli bir katalog, güncel bir site ve tutarlı sosyal medya paylaşımlarıyla daha geniş bir kitleye göstermesine destek oluyor.",
+  "localNeeds": "Bağ bozumu yapan bir üretici ya da butik şarap işletmesi için müşterinin ilk sorduğu şeyler bellidir: hangi ürün var, nereden ve nasıl alınır, bağ ziyaret edilebilir mi? Bu soruların cevabını tek yerde toplayan, ileride online satışa açılmaya hazır bir site bu yüzden temel ihtiyaçtır. Restoran, şarküteri ya da toptan alıcılarla görüşen üreticiler için ürün özelliklerini düzenli gösteren basılı veya PDF katalog işe yarar. Çörek ve köy ekmeği gibi ürünlerde ise iştah açan görseller ve Instagram'da düzenli paylaşım çoğu zaman sipariş getiren asıl kanaldır. Şarap gibi yasal kısıtları olan ürünlerde ise sitedeki satış ve tanıtım kurgusunu mevzuata uygun şekilde ayrıca planlamak gerekir.",
+  "localSectors": "Vikipedi'ye göre Kalecik'in ekonomisi tarıma dayanır, hayvancılık ikinci plandadır; bağcılık, şekerpancarı, buğday, arpa ve meyvecilik başlıca faaliyetler arasında sayılır. Kalecik karası üzümü adını ilçeden alır; İngilizce Vikipedi maddesi, Kızılırmak'ın oluşturduğu mikroiklimin bu üzüm için uygun koşullar sunduğunu ve bir dönem yok olma noktasına gelen çeşidin Ankara Üniversitesi'nden bir akademisyenin çalışmalarıyla yeniden yayıldığını anlatır. Yeni Ankara'nın haberine göre Kalecik çöreği ve Kalecik ekşi mayalı köy ekmeği coğrafi işaretli ürünlerdir. İlçe merkezindeki hâkim tepede Roma döneminden kalan ve Osmanlı döneminde onarılan Kalecik Kalesi bulunur.",
+  "serviceModel": "Kalecik'ten bir üreticiyle çalışmaya genellikle çevrim içi bir tanışma görüşmesiyle başlıyoruz; ürün listesini, satış kanallarını ve satışın yılın hangi döneminde yoğunlaştığını konuşuyoruz. Ofisimiz Çankaya Harbiye'de; dilerseniz orada da buluşabiliriz. Katalogda ve sitede bağdan, mahzenden ya da fırından sizin paylaştığınız fotoğraflar yer alıyor; çalıştığınız bir fotoğrafçı varsa onun dosyaları da aynı şekilde kullanılabiliyor. Katalog ve site aynı görsel dille hazırlanıyor, site yönetim paneliyle teslim ediliyor; yeni ürün, fiyat ya da etkinlik duyurusunu kendiniz ekleyebiliyorsunuz.",
+  "faqs": [
+    {
+      "q": "Çöreğimizi ya da üzümümüzü aramalarda nasıl öne çıkarabiliriz?",
+      "a": "Ürün adını, varsa coğrafi işaret bilgisini ve sipariş yolunu açıkça anlatan ayrı ürün sayfaları ilk adımdır. Sayfa başlıklarını ve açıklamalarını alıcıların kullandığı ifadelere göre düzenliyor, belirli bir sıralama vaat etmeden düzenli iyileştirme yapıyoruz."
+    },
+    {
+      "q": "Restoranlara ve toptancılara göstermek için katalog hazırlıyor musunuz?",
+      "a": "Evet. Ürün özelliklerini, ambalaj bilgilerini ve iletişim yollarını içeren basılı ya da PDF katalog tasarlıyoruz. Aynı içerik web sitesinde de kullanılabiliyor."
+    },
+    {
+      "q": "Şarap satışı yapan işletmeler için site nasıl kurgulanıyor?",
+      "a": "Alkollü ürünlerin internetteki tanıtımı ve satışı yasal düzenlemelere tabidir. Bu yüzden şarap içeren projelerde sitenin içeriğini ve satış akışını işletmenin hukuki danışmanlığıyla uyumlu şekilde planlıyoruz."
+    },
+    {
+      "q": "Instagram hesabımızı sizin yönetmeniz mümkün mü?",
+      "a": "Evet. Sosyal medya yönetimi kapsamında içerik takvimi, paylaşım tasarımları ve metinleri hazırlıyoruz. Hasat ve festival dönemlerini takvimde öne alıyoruz."
+    }
+  ],
+  "relatedServices": ["ankara-web-tasarim", "ankara-katalog-tasarimi", "ankara-sosyal-medya-yonetimi", "ankara-seo-hizmeti"],
+  "sources": [
+    { "title": "Kalecik – Vikipedi", "url": "https://tr.wikipedia.org/wiki/Kalecik" },
+    { "title": "Kalecik Karasi – Wikipedia", "url": "https://en.wikipedia.org/wiki/Kalecik_Karasi" },
+    { "title": "Ankara Kalecik'in meşhur coğrafi işaretli ürünleri – Yeni Ankara", "url": "https://www.yeniankara.com.tr/kalecik/ankara-kalecikin-meshur-cografi-isaretli-urunleri-27644" }
+  ]
+}

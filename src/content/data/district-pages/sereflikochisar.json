@@ -1,0 +1,34 @@
+{
+  "slug": "sereflikochisar",
+  "name": "Şereflikoçhisar",
+  "h1": "Tuz Gölü Kıyısındaki Şereflikoçhisar İşletmeleri İçin Web Sitesi ve Katalog",
+  "seoTitle": "Şereflikoçhisar Web Sitesi ve Katalog | Lagen Yazılım",
+  "seoDescription": "Şereflikoçhisar'daki tuz işleyen, tarım ürünü satan ve ticaret yapan işletmeler için ürün kataloğu, kurumsal web sitesi ve arama görünürlüğü.",
+  "intro": "Şereflikoçhisar, Ankara'nın güneyinde, Tuz Gölü ile Hirfanlı Barajı arasında yer alıyor. Göl, Türkiye'de tüketilen tuzun büyük bölümünün üretildiği yer olarak biliniyor ve ilçenin adı tuzla birlikte anılıyor. Ankara merkezine yaklaşık 150 kilometre uzaklıktaki ilçe, Konya, Kırşehir ve Aksaray ile komşu. Lagen Yazılım, ilçedeki işletmelerin bu uzaklığı dijital kanallarla kapatmasına, ürünlerini il dışındaki alıcılara düzgün tanıtmasına yardımcı oluyor.",
+  "localNeeds": "Tuz ya da tuzdan yapılan ürünlerle uğraşan bir işletmenin alıcıları çoğu zaman gıda, sanayi veya hayvancılık alanında başka şehirlerdeki firmalardır. Bu alıcılar ürün türlerini, tane boyutlarını, ambalaj seçeneklerini ve sevkiyat bilgisini net biçimde görmek ister; bunun için PDF katalog ve aynı bilgiyi taşıyan bir web sitesi temel araçtır. Tarım ürünü satan üreticiler ve aracılar için ürün dönemlerini ve iletişim yollarını gösteren sade bir tanıtım sayfası yeterli olabilir. Ziyaretçiye hitap eden işletmeler ise Tuz Gölü'ne gelenlerin internette yaptığı aramalarda görünmek için harita kaydına ve güncel fotoğraflara önem vermelidir.",
+  "localSectors": "Vikipedi'deki ilçe maddesine göre Şereflikoçhisar, Tuz Gölü ile Hirfanlı Barajı arasında yer alır; ilçenin güneyi ova, kuzeyi dalgalı arazidir ve karasal iklim hâkimdir. Aynı maddede, göl kıyısında tuz kristallerinden süs eşyası yapma geleneğinden ve antik çağda göl kıyısında tuzlalar kurulduğundan söz edilir. İngilizce Vikipedi'deki Tuz Gölü maddesi, gölde çalışan üç tuz işletmesinin Türkiye'de tüketilen tuzun önemli bir kısmını ürettiğini, yazın gölün kuruyarak bir tuz tabakası bıraktığını ve tuz çıkarımının çevrede işleme ve rafinaj faaliyetlerini desteklediğini belirtir. Aynı kaynak gölün güneyindeki adaların flamingoların Türkiye'deki başlıca üreme alanı olduğunu da aktarır.",
+  "serviceModel": "Şereflikoçhisar'daki işletmelerle ilk toplantıyı genellikle çevrim içi yapıyoruz; Ankara'ya gelen müşterilerimizle Çankaya Harbiye'deki ofisimizde de görüşebiliyoruz. Bu görüşmede ürün listesini, alıcı profilini ve hangi belgelerin paylaşılması gerektiğini netleştiriyoruz. Ürün ve tesis görsellerini, varsa analiz belgeleriyle birlikte paylaşımlı bir klasörden göndermeniz yeterli; bunun için ilçeye gelmemize gerek kalmıyor. Katalog ve site aynı içerikten üretiliyor; site yönetim paneliyle teslim edildiği için fiyat, ürün ve duyuru güncellemelerini ekibiniz kendisi yapabiliyor. Arama görünürlüğü için ürün adlarını ve sık sorulan soruları alıcıların kullandığı ifadelerle düzenliyoruz.",
+  "faqs": [
+    {
+      "q": "Tuz ürünlerimiz için katalogda hangi bilgiler yer almalı?",
+      "a": "Ürün türleri, tane boyutu, kullanım alanları, ambalaj ve palet seçenekleri, varsa analiz ve kalite belgeleri ile sipariş iletişim bilgileri temel başlıklardır. İçeriği sizin teknik verilerinize göre hazırlıyoruz."
+    },
+    {
+      "q": "Ankara'ya uzağız, süreç tamamen uzaktan yürüyebilir mi?",
+      "a": "Evet. Toplantılar çevrim içi yapılabiliyor, içerik ve tasarım onayları dijital olarak ilerliyor. Site teslim edildikten sonra yeni ürünleri, fiyatları ve fotoğrafları yönetim panelinden kendiniz ekleyebildiğiniz için Ankara'ya gelmeniz de gerekmiyor."
+    },
+    {
+      "q": "İl dışındaki alıcılar bizi internette nasıl bulur?",
+      "a": "Ürünlerinizi alıcıların aradığı adlarla anlatan sayfalar, doğru başlık ve açıklamalar ile düzenli bir işletme profili bulunabilirliği artırır. Belirli bir sıralama garanti etmiyoruz, ancak bu temelleri doğru kuruyoruz."
+    },
+    {
+      "q": "Tuz Gölü'ne gelen ziyaretçilere hizmet veren küçük bir işletmeyiz, nereden başlamalıyız?",
+      "a": "Önce Google İşletme Profili'ni doğru bilgiler ve güncel fotoğraflarla düzenlemenizi öneriyoruz. Ardından çalışma saatlerini, konumu ve sunduğunuz hizmetleri gösteren tek sayfalık bir site, ziyaretçinin yola çıkmadan önce sizi tanımasını sağlar."
+    }
+  ],
+  "relatedServices": ["ankara-katalog-tasarimi", "ankara-web-tasarim", "ankara-seo-hizmeti"],
+  "sources": [
+    { "title": "Şereflikoçhisar – Vikipedi", "url": "https://tr.wikipedia.org/wiki/%C5%9Eerefliko%C3%A7hisar" },
+    { "title": "Lake Tuz – Wikipedia", "url": "https://en.wikipedia.org/wiki/Lake_Tuz" }
+  ]
+}

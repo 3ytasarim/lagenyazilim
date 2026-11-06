@@ -1,0 +1,56 @@
+{
+  "slug": "ayas",
+  "name": "Ayaş",
+  "h1": "Ayaş Domatesi ve Dut Üreticilerine Web Sitesi ile Sosyal Medya",
+  "seoTitle": "Ayaş Web Sitesi ve Sosyal Medya Yönetimi | Lagen Yazılım",
+  "seoDescription": "Ayaş'taki üretici, çiftlik ve kaplıca işletmeleri için satışa hazır web sitesi, sezonluk ürün listesi ve sosyal medya yönetimi. İlk görüşme online.",
+  "intro": "Ayaş adı bugün pek çok sofrada bir domates çeşidiyle anılıyor. Ayaş domatesi, Avrupa Birliği tarafından korumalı menşe adıyla tescil edilen Ankara'nın ilk ürünü oldu. Bu tanınırlık, ilçedeki üreticiler için doğrudan satış ve marka kurma fırsatı demek. Lagen Yazılım, bu fırsatı internette görünür kılacak site ve sosyal medya çalışmalarını planlıyor. Bahçeden doğrudan satış yapan küçük üretici de, salça ve kurutmalık ürün hazırlayan aile işletmesi de aynı soruyla karşılaşıyor: müşteri bize nasıl ulaşacak?",
+  "localNeeds": "Coğrafi işaretli bir ürünü satan çiftçinin, müşteriye hasat dönemini, ürünün nerede yetiştiğini ve nasıl sipariş verileceğini anlatan sade bir sayfaya ihtiyacı var. Instagram ve benzeri kanallarda üreticinin kendi telefonuyla paylaştığı tarla, hasat ve isli salça kareleri, düzenli bir paylaşım planıyla birleşince güven oluşturuyor. Dut, salça ve diğer ürünleri sezona göre gösteren bir ürün listesi, ileride online satışa geçmek isteyen üreticinin işini kolaylaştırıyor. Kaplıca ve ılıcalarıyla bilinen ilçede konaklama ya da tesis işletenler için harita konumu, iletişim ve fotoğraf galerisi temel ihtiyaçlar arasında. Çiftliğini ziyarete açan işletmeler için ziyaret günleri ve rezervasyon bilgisi de sayfada açıkça yer almalıdır.",
+  "localSectors": "Vikipedi'ye göre Ayaş tarıma elverişli toprakları, çiftlikleri ve bol dut ağaçlarıyla tanınıyor; ilçede her yıl haziranın son haftasında dut festivali düzenleniyor. Yerel kaynaklar beyaz ve kara dut çeşitlerinin ekonomik değerine dikkat çekiyor. Kaplıca, ılıca ve içmeler de ilçenin bilinen özellikleri arasında. Ayaş Tarihi Paşa Hamamı, Asartepe Kanyonu ve Yağmur Dede Türbesi ise ziyaretçilerin sık uğradığı yerler olarak geçiyor. Bu tablo, ilçede tarım ürünleri ile ziyaretçiye yönelik hizmetlerin yan yana geliştiğini gösteriyor.",
+  "serviceModel": "Ayaş'taki üreticilerle ilk konuşmayı çoğunlukla online yapıyoruz; isterseniz Çankaya'daki ofisimizde de buluşabiliriz. Hasat ya da festival takvimine göre sitenin ne zaman yayına çıkacağını ve hangi ürünlerin öne alınacağını birlikte belirliyoruz. Siteyi teslim ettiğimizde fiyat, stok, sezon notları ve kendi fotoğraflarınızı yönetim panelinden kendiniz değiştirebiliyorsunuz. Sosyal medya tarafında ise aylık bir içerik takvimi ve paylaşım tasarımları hazırlayıp yayınları sizin onayınızla yapıyoruz. İlk ayın sonunda hangi paylaşımların daha çok ilgi gördüğünü birlikte değerlendirip takvimi buna göre düzenliyoruz.",
+  "faqs": [
+    {
+      "q": "Ayaş domatesinin coğrafi işaretini sitemizde kullanabilir miyiz?",
+      "a": "Coğrafi işaretin kullanımı tescil kurallarına ve denetim şartlarına bağlıdır. Bu konuyu tescil sahibi kurumla netleştirmenizi öneriyoruz; uygun olduğunda logo ve açıklama sayfaya yerleştirilir."
+    },
+    {
+      "q": "Sadece sezonluk satış yapıyoruz, yıl boyu site gerekli mi?",
+      "a": "Sezon dışında da arama motorlarında görünür kalmak ön sipariş toplamayı kolaylaştırır. Panelden ürünü 'sezonda değil' olarak işaretleyip bekleme listesi formu açabilirsiniz."
+    },
+    {
+      "q": "Telefonla çektiğimiz fotoğraflar sitede kullanılabilir mi?",
+      "a": "Evet. Gün ışığında, sade bir arka planla çekilmiş net kareler ürün kartları için iş görür. Fotoğrafları panelden kendiniz yüklüyorsunuz; çalıştığınız bir fotoğrafçı varsa onun karelerini de aynı şekilde ekleyebilirsiniz."
+    },
+    {
+      "q": "Dut festivali gibi etkinlikleri duyurmak için ne önerirsiniz?",
+      "a": "Etkinlikten birkaç hafta önce başlayan kısa bir paylaşım takvimi ve sitede tarih, konum ve ürün bilgilerini içeren tek bir duyuru sayfası yeterli olur. Festivalde sizin çektiğiniz kareler de ertesi yılın tanıtımında kullanılabilir."
+    },
+    {
+      "q": "Kaplıca ya da konaklama tesisimiz için hangi sayfalar gerekli?",
+      "a": "Tesis tanıtımı, oda veya havuz fotoğrafları, fiyat talebi formu ve yol tarifi temel sayfalardır. Mevsime göre değişen bilgileri yönetim panelinden kendiniz güncelleyebilirsiniz."
+    }
+  ],
+  "relatedServices": [
+    "ankara-web-tasarim",
+    "ankara-sosyal-medya-yonetimi",
+    "ankara-seo-hizmeti"
+  ],
+  "sources": [
+    {
+      "title": "Ayaş - Vikipedi",
+      "url": "https://tr.wikipedia.org/wiki/Aya%C5%9F"
+    },
+    {
+      "title": "AB Ankara'nın Ayaş domatesini tanıdı - AB Türkiye Delegasyonu",
+      "url": "https://www.eeas.europa.eu/delegations/t%C3%BCrkiye/ab-ankara%E2%80%99n%C4%B1n-aya%C5%9F-domatesini-tan%C4%B1d%C4%B1_tr"
+    },
+    {
+      "title": "Ayaş'ın bilinmeyen tarım zenginliği sadece domates ve duttan ibaret değil - Yeni Ankara",
+      "url": "https://www.yeniankara.com.tr/ayas/ayasin-bilinmeyen-tarim-zenginligi-sadece-domates-ve-duttan-ibaret-degil-181344"
+    },
+    {
+      "title": "İsli Ayaş Salçası Nedir, Nasıl Yapılır? - Yemek.com",
+      "url": "https://yemek.com/isli-ayas-salcasi-nedir/"
+    }
+  ]
+}

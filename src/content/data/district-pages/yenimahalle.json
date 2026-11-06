@@ -1,0 +1,39 @@
+{
+  "slug": "yenimahalle",
+  "name": "Yenimahalle",
+  "h1": "Yenimahalle Sanayicileri İçin B2B Web Sitesi, Katalog ve Bayi Portalı",
+  "seoTitle": "Yenimahalle B2B Web Sitesi ve Katalog | Lagen Yazılım",
+  "seoDescription": "OSTİM ve İvedik OSB'deki üreticiler için ürün kataloğu, İngilizce web sitesi ve bayi portalı. Yenimahalle'de fabrikanızda veya online görüşelim.",
+  "intro": "Yenimahalle'de üretim yapan bir firmanın web sitesi çoğu zaman bir satın almacının ilk durağıdır. Bu sayfada OSTİM, İvedik ve ilçenin diğer sanayi alanlarındaki işletmelere nasıl destek verdiğimizi anlatıyoruz. Lagen Yazılım olarak kurumsal site, dijital katalog ile bayi ve sipariş portalını aynı ürün verisi üzerinden birlikte planlıyoruz. Teslimde size bir yönetim paneli bırakıyoruz; yeni ürün ya da teknik doküman eklemek için bize ihtiyaç duymazsınız.",
+  "localNeeds": "Makine, savunma, medikal veya kauçuk gibi alanlarda çalışan bir üreticinin müşterisi genellikle bir mühendis ya da satın alma uzmanıdır. Bu kişi teknik ölçüleri, malzeme bilgisini ve belgeleri hızlıca bulmak ister. Bu yüzden filtrelenebilir ürün sayfaları, indirilebilir PDF katalog ve ihracat hedefleyen firmalar için İngilizce içerik önceliklidir. Bayilerle çalışan işletmelerde stok, fiyat listesi ve sipariş taleplerini tek bir portalda toplamak telefon trafiğini azaltır. Firmanın elindeki ürün ve atölye fotoğraflarının katalogda ve sitede aynı düzende kullanılması, iki kanalın tutarlı görünmesini sağlar. Teknik bir ürünü arayan kişi çoğu zaman parça kodu ya da standart adıyla arama yaptığı için bu bilgilerin sayfalarda metin olarak yer alması da aramada bulunmayı kolaylaştırır.",
+  "localSectors": "Yenimahalle'nin ekonomisinde sanayi önemli yer tutar; ilçede özellikle D-100 karayolu çevresinde yerleşim ile sanayi birlikte gelişmiştir. OSTİM, Macun Mahallesi sınırlarında kurulmuş bir sanayi ve ticaret merkezidir ve 1997'de organize sanayi bölgesi statüsü almıştır. OSTİM bünyesinde iş ve inşaat makineleri, savunma ve havacılık, medikal, yenilenebilir enerji, raylı sistemler, kauçuk ve haberleşme teknolojileri kümelenmeleri bulunur. İvedik Organize Sanayi Bölgesi de Yenimahalle ilçesindedir. İlçede ASELSAN'a ait fabrikalar yer alır, Batıkent ise ilçenin büyük yerleşim alanlarından biridir.",
+  "serviceModel": "İlk toplantıyı çoğunlukla üretim tesisinizde yapmayı öneriyoruz, çünkü ürünü ve süreci yerinde görmek kataloğun kurgusunu kolaylaştırıyor. Bu mümkün değilse çevrim içi görüşme ya da Çankaya Harbiye'deki ofisimiz de seçenekler arasında. Ürün gruplarını ve teknik veri alanlarını sizinle birlikte çıkarıyor, ardından site ve katalog tasarımına geçiyoruz. Ürün ve makine fotoğraflarını sizin arşivinizden ya da çalıştığınız fotoğrafçıdan alıyor, bunları katalog sayfalarına ve ürün kartlarına yerleştiriyoruz. Bayi portalı gerekiyorsa kullanıcı rollerini ve sipariş adımlarını ayrı bir aşamada geliştiriyoruz.",
+  "faqs": [
+    {
+      "q": "OSTİM'de ürettiğimiz parçaların, satın almacılar parça koduyla aradığında bulunmasını sağlayabilir misiniz?",
+      "a": "Ürün sayfalarını parça kodu, standart adı ve malzeme bilgisi düz metin olarak görünecek şekilde kuruyoruz. Teknik SEO ile bu sayfaların arama motorlarınca düzgün taranmasını sağlıyoruz. Belirli bir sıralama sözü vermiyoruz, gelişmeyi arama verileriyle sizinle birlikte izliyoruz."
+    },
+    {
+      "q": "Teknik ölçü ve doküman içeren yüzlerce ürünü siteye nasıl yükleriz?",
+      "a": "Ürün yapısını kategori ve teknik özellik alanlarına göre kuruyoruz. Böylece panelden tek tek ya da toplu olarak ürün ekleyebilir, her ürüne PDF doküman bağlayabilirsiniz."
+    },
+    {
+      "q": "Bayilerimizin sipariş ve fiyat listesine giriş yapabileceği bir portal mümkün mü?",
+      "a": "Özel yazılım kapsamında bayilere ayrı kullanıcı hesabı, fiyat listesi görünümü ve sipariş talebi ekranı geliştirebiliyoruz. Yetkileri ihtiyacınıza göre ayarlıyoruz."
+    },
+    {
+      "q": "İhracat için İngilizce katalog da hazırlıyor musunuz?",
+      "a": "Hazırlıyoruz. Basılı ve dijital katalogu Türkçe ve İngilizce olarak tasarlayabilir, aynı içeriği web sitesindeki ürün sayfalarıyla uyumlu tutabiliriz."
+    },
+    {
+      "q": "Savunma veya medikal alanında çalışıyoruz; gizli ürün bilgisini nasıl koruyoruz?",
+      "a": "Sitede yalnızca paylaşmaya karar verdiğiniz bilgileri yayınlıyoruz. Hassas dokümanları herkese açık sayfalar yerine şifreli bir müşteri alanına koyabilir, kimin neyi göreceğini kullanıcı yetkileriyle sınırlayabiliriz. Katalogda ve sitede hiç yer almayacak ürün gruplarını da projenin başında sizinle netleştiriyoruz."
+    }
+  ],
+  "relatedServices": ["ankara-katalog-tasarimi", "ankara-ozel-yazilim", "ankara-web-tasarim", "ankara-seo-hizmeti"],
+  "sources": [
+    { "title": "Yenimahalle, Ankara – Vikipedi (Ekonomik durum)", "url": "https://tr.wikipedia.org/wiki/Yenimahalle,_Ankara" },
+    { "title": "OSTİM Organize Sanayi Bölgesi – resmi site", "url": "https://www.ostim.org.tr/" },
+    { "title": "Ankara Yenimahalle'deki İvedik OSB'de çıkan iş yeri yangını söndürüldü – 24 Saat Gazetesi", "url": "https://www.24saatgazetesi.com/ankara-yenimahalledeki-ivedik-osbde-cikan-is-yeri-yangini-sonduruldu" }
+  ]
+}

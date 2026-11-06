@@ -1,0 +1,48 @@
+{
+  "slug": "kocaeli",
+  "name": "Kocaeli",
+  "h1": "Kocaeli Sanayisine Yönelik Kurumsal Web Tasarım ve Özel Yazılım Çözümleri",
+  "seoTitle": "Kocaeli Web Tasarım ve Kurumsal Yazılım | Lagen Yazılım",
+  "seoDescription": "Kocaeli'deki sanayi, kimya, otomotiv ve lojistik firmaları için çok dilli kurumsal site, özel yazılım ve teknik SEO. Uzaktan süreç. Proje görüşmesi isteyin.",
+  "intro": "Kocaeli, gayrisafi yurt içi hasılasının büyük bölümünü sanayiden elde eden bir il; Gebze, İzmit ve Körfez hattında yoğunlaşan fabrikalar Türkiye'nin üretim haritasında özel bir yer tutar. Kimya, otomotiv, lastik ve rafineri gibi ağır sanayi kolları burada iç içe çalışır. Bu firmaların dijital ihtiyacı, tüketiciye hitap eden bir vitrinden çok kurumsal güven, tedarik zinciri iletişimi ve iç süreçlerin verimliliğiyle ilgilidir. Lagen Yazılım, Ankara Çankaya'daki ofisinden Kocaeli'deki işletmelerle uzaktan çalışarak bu ihtiyaçlara yönelik site ve yazılımlar geliştirir.",
+  "localNeeds": "Sanayi firmalarının web sitesini en çok ziyaret edenler genellikle müşteri firmaların satın alma ve kalite ekipleri, potansiyel çalışanlar ve iş ortaklarıdır. Bu nedenle Kocaeli projelerinde sertifikalar, kalite politikaları, çevre ve iş güvenliği yaklaşımı gibi kurumsal içerikler açıkça sunulmalıdır. İlde çok sayıda yabancı sermayeli firma bulunduğu için İngilizce, gerektiğinde Almanca gibi dillerde eşdeğer sayfalar beklenir. Kariyer sayfası ve başvuru formu, nitelikli personel arayan tesisler için ayrı bir öncelik taşır. Bunun ötesinde tedarikçi kayıt portalı, teklif takip ekranı veya saha ekiplerine yönelik basit bir iş takip uygulaması gibi özel yazılımlar sıkça gündeme gelir.",
+  "localSectors": "İl genelinde birden fazla organize sanayi bölgesi bulunur; Gebze OSB, Dilovası OSB ve TOSB bunların en çok bilinenleridir. Kimya sektörü sanayi faaliyetinin önemli bir payını oluştururken otomotiv ve makine ihracatın öne çıkan kollarıdır. İzmit Körfezi boyunca sıralanan kamu limanları ve özel iskeleler, ili aynı zamanda bir lojistik üssü haline getirir. Bilişim Vadisi ve Gebze OSB Teknopark gibi teknoloji geliştirme bölgeleri ise Kocaeli Üniversitesi ve Gebze Teknik Üniversitesi ile birlikte Ar-Ge tarafını güçlendirir.",
+  "serviceModel": "Kocaeli'deki bir sanayi kuruluşuyla çalışırken karar süreçleri genellikle birden çok departmanı kapsar; bu yüzden projeye bir paydaş haritasıyla başlarız. Pazarlama, insan kaynakları ve kalite birimlerinden gelen talepler video toplantılarda toplanır, kapsam dokümanı tek bir paylaşımlı belgede netleşir. Tasarım ve geliştirme adımları sprintlere bölünür ve her sprint sonunda çevrim içi onaya sunulur, böylece kurumsal onay zincirleri projeyi yavaşlatmaz. Özel yazılım projelerinde iş akışını yerinde görmek gerekirse tesis ziyareti planlanabilir. Teslimde içerik, kariyer ilanları ve doküman yönetimi için kullanabileceğiniz bir yönetim paneli de verilir.",
+  "faqs": [
+    {
+      "q": "Kurumsal sitemiz grup şirketimizin global kurallarına uymak zorunda; buna uyum sağlayabilir misiniz?",
+      "a": "Evet. Kurumsal kimlik kılavuzunuz, renk ve yazı tipi kuralları ile varsa onaylı metin ve görsel şablonlarınız proje başında incelenir ve tasarım bu çerçevede hazırlanır."
+    },
+    {
+      "q": "Tedarikçilerimizin kayıt olup belge yükleyebileceği bir portal yapılabilir mi?",
+      "a": "Bu bir özel yazılım projesidir. Gerekli alanlar, onay adımları ve yetki seviyeleri birlikte belirlenir; sonra kurumsal sitenizle aynı çatı altında veya ayrı bir uygulama olarak geliştirilir."
+    },
+    {
+      "q": "Kariyer sayfamıza gelen başvuruları nasıl yöneteceğiz?",
+      "a": "Başvurular yönetim panelinde listelenir, ilgili kişilere e-posta bildirimi gönderilir. Kişisel veriler için KVKK aydınlatma metni ve açık rıza adımları form akışına eklenir."
+    },
+    {
+      "q": "Sanayi firması olarak SEO'ya gerçekten ihtiyacımız var mı?",
+      "a": "Yeni müşteri arayan, özellikle yurt dışından talep bekleyen firmalar için evet. Ürün ve hizmet kategorilerinize özel aramalarda bulunabilir olmak, satış ekibinize yeni görüşmeler getirebilir."
+    },
+    {
+      "q": "Liman ve lojistik hizmeti veren bir firmayız; sitemizde neler öne çıkmalı?",
+      "a": "Hizmet verdiğiniz yük tipleri, tesis ve ekipman bilgileri, bağlantı noktaları ve teklif isteme akışı en çok aranan içeriklerdir. Yabancı armatör ve ihracatçılara ulaşmak için bu sayfaların İngilizce sürümü de hazırlanır; gerektiğinde müşteri bazlı takip ekranları özel yazılımla eklenebilir."
+    }
+  ],
+  "relatedServices": [
+    "ankara-web-tasarim",
+    "ankara-ozel-yazilim",
+    "ankara-seo-hizmeti"
+  ],
+  "sources": [
+    {
+      "title": "Kocaeli (il) – Vikipedi",
+      "url": "https://tr.wikipedia.org/wiki/Kocaeli_(il)"
+    },
+    {
+      "title": "TÜBİTAK-MAM, Kocaeli ve Bilişim Vadisi – Dünya",
+      "url": "https://www.dunya.com/kose-yazisi/tubitak-mam-koceli-ve-bilisim-vadisi/21571"
+    }
+  ]
+}

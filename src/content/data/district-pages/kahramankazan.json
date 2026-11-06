@@ -1,0 +1,38 @@
+{
+  "slug": "kahramankazan",
+  "name": "Kahramankazan",
+  "h1": "Kahramankazan Sanayicisine B2B Katalog, Kurumsal Site ve Bayi Portalı",
+  "seoTitle": "Kahramankazan Kurumsal Web ve B2B Yazılım | Lagen Yazılım",
+  "seoDescription": "Kahramankazan'daki makine, çelik, kimya, gıda ve havacılık tedarikçileri için kurumsal web sitesi, teknik ürün kataloğu ve bayi/B2B portalı.",
+  "intro": "Kahramankazan, Ankara'nın sanayi ile tarımı aynı anda yaşayan ilçelerinden biri. Bir yanda makine, çelik konstrüksiyon ve kimya üreticileri, öte yanda kavun ve sebze yetiştiren köyler bulunuyor; uzay ve havacılık odaklı bir organize sanayi bölgesi de ilçede kuruldu. Bu yapı, buradaki firmaların dijitalde de farklı alıcılara aynı anda hitap etmesini gerektiriyor. Lagen Yazılım bu firmalar için kurumsal site, teknik katalog ve gerektiğinde özel yazılım geliştiriyor.",
+  "localNeeds": "Bir makine ya da kimya üreticisinin alıcısı genellikle satın alma uzmanı veya mühendistir ve aradığı şey nettir: ürün kodu, teknik ölçüler, sertifikalar ve teklif isteme yolu. Bu nedenle ürün gruplarını filtrelenebilir şekilde sunan, teknik föyleri indirilebilir yapan bir site satış ekibinin yükünü hafifletir. Havacılık ve savunma tedarik zincirinde yer almak isteyen firmalar için kalite belgelerini, makine parkurunu ve kabiliyetlerini anlatan İngilizce sayfalar çoğu zaman ilk elemede belirleyici olur. Bayi ağıyla çalışan üreticiler ise fiyat listesi, stok ve sipariş takibini tek ekranda toplayan bir B2B portaldan fayda görür.",
+  "localSectors": "Vikipedi'deki ilçe maddesine göre Kahramankazan'ın gelişiminde E-89 devlet karayolu ve TEM Otoyolu etkili olmuştur; halkın geçimi tarım, hayvancılık ve sanayiye dayanır. Aynı kaynakta ilçedeki üretim alanları arasında çelik konstrüksiyon, makine, petrol ürünleri, zirai ilaç, gıda, inşaat, yem, kimya ve nakliyat sayılır; TUSAŞ'ın tesisleri de ilçededir ve Saray Mahallesi yoğun bir sanayi alanı olarak anılır. Tarım tarafında şeker pancarı, kuru fasulye, buğday ve kavun öne çıkar, seracılık gelişmektedir. Takvim'in 2021 tarihli haberine göre Kahramankazan'da 730 hektarlık alana yayılan, uzay ve havacılık sektörüne yönelik imalatçıları bir araya getirmeyi hedefleyen HAB OSB (Ankara Uzay ve Havacılık İhtisas Organize Sanayi Bölgesi) kurulmuştur.",
+  "serviceModel": "Kahramankazan'daki bir firmayla süreç çoğunlukla fabrikada ya da ofiste yapılan bir keşif toplantısıyla başlıyor; isterseniz Çankaya Harbiye'deki ofisimizde ya da çevrim içi de görüşebiliriz. İlk aşamada ürün ağacını, teknik doküman yapısını ve satış sürecini çıkarıyor, sitenin ve kataloğun iskeletini buna göre kuruyoruz. Üretim hattı ve makine parkurunu anlatan sayfalarda firmanın kendi görsel arşivi kullanılıyor; teknik föyler, sertifikalar ve ürün resimleri bu arşivden tek bir düzene oturtuluyor. Site yönetim paneliyle teslim ediliyor; ürün eklemek, föy güncellemek ya da duyuru yayınlamak için bize bağımlı kalmıyorsunuz. Bayi portalı veya teklif yönetimi gibi özel yazılım ihtiyaçlarını ayrı bir kapsamla, adım adım planlıyoruz.",
+  "faqs": [
+    {
+      "q": "Yüzlerce ürün kodumuz var, sitede nasıl düzenli gösterilir?",
+      "a": "Ürünleri kategori, malzeme, ölçü gibi özelliklere göre filtrelenebilir bir yapıda sunuyoruz. Ürünler panelden tek tek ya da toplu şekilde eklenebiliyor, her ürüne teknik föy bağlanabiliyor."
+    },
+    {
+      "q": "Havacılık tedarikçisi olarak İngilizce site gerekli mi?",
+      "a": "Yabancı ana firmalara ya da uluslararası alıcılara ulaşmak istiyorsanız İngilizce sayfalar ciddi bir avantajdır. Kabiliyet, kalite belgeleri ve tesis bilgilerini iki dilde hazırlıyoruz."
+    },
+    {
+      "q": "Bayilerimiz sipariş ve fiyat bilgisini bir panelden görebilir mi?",
+      "a": "Evet. Özel yazılım kapsamında bayilere özel girişli bir portal geliştirebiliyoruz. Fiyat listesi, sipariş talebi ve doküman paylaşımı gibi modüller ihtiyaca göre belirleniyor."
+    },
+    {
+      "q": "Fabrikamıza gelip keşif toplantısı yapıyor musunuz?",
+      "a": "Evet. Ankara içindeki işletmelerde ilk toplantıyı yerinde yapabiliyoruz. Üretim akışını, satış ekibinin sık aldığı soruları ve mevcut dokümanları yerinde görmek, kataloğun ve sitenin yapısını daha baştan netleştiriyor."
+    },
+    {
+      "q": "Siteden gelen teklif taleplerini nasıl takip ederiz?",
+      "a": "Teklif formuna ürün kodu, adet ve teslim yeri gibi alanlar ekleyebiliyoruz. Talepler e-posta ile satış ekibine ulaşıyor; ihtiyaç olursa panelde listelenip durumları işaretlenebiliyor."
+    }
+  ],
+  "relatedServices": ["ankara-ozel-yazilim", "ankara-katalog-tasarimi", "ankara-web-tasarim", "ankara-seo-hizmeti"],
+  "sources": [
+    { "title": "Kahramankazan – Vikipedi", "url": "https://tr.wikipedia.org/wiki/Kahramankazan" },
+    { "title": "Savunma Sanayii Başkanı İsmail Demir açıkladı: HAB OSB – Takvim", "url": "https://www.takvim.com.tr/ekonomi/2021/09/07/savunma-sanayii-baskani-ismail-demir-acikladi-15-bin-kisiye-istihdam-saglanacak" }
+  ]
+}

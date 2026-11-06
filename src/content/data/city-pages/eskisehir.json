@@ -1,0 +1,53 @@
+{
+  "slug": "eskisehir",
+  "name": "Eskişehir",
+  "h1": "Eskişehir Havacılık, Raylı Sistem ve Teknoloji Firmalarına Web Sitesi",
+  "seoTitle": "Eskişehir Web Tasarım ve Kurumsal Site | Lagen Yazılım",
+  "seoDescription": "Eskişehir'deki havacılık, raylı sistem, makine ve teknoloji firmalarına kurumsal site, teknik katalog ve özel yazılım. Uzaktan yürüyen süreç; bize ulaşın.",
+  "intro": "Eskişehir, bir yanda havacılık ve raylı sistemler gibi yüksek teknoloji gerektiren sanayi kollarıyla, diğer yanda üç devlet üniversitesinin oluşturduğu genç nüfusuyla dikkat çeken bir kent. Şehrin sanayi geçmişi Osmanlı döneminde kurulan demiryolu atölyelerine uzanıyor; Türkiye'nin ilk otomobili Devrim de buradaki fabrikada üretildi. Bugün Eskişehir OSB, teknoloji geliştirme bölgesi ve teknoparkıyla bu birikimi sürdürüyor. Lagen Yazılım, Ankara Harbiye'deki ofisinden Eskişehir'deki sanayi, teknoloji ve hizmet işletmeleriyle uzaktan çalışarak kurumsal siteler ve özel yazılımlar üretiyor.",
+  "localNeeds": "Havacılık ve savunma tedarik zincirinde yer almak isteyen bir Eskişehir firması için web sitesi, bir tür yeterlilik dosyası işlevi görür. Kalite sertifikaları, işleme kabiliyetleri, makine parkı ve tedarik ettiği parça tipleri açık ve teknik bir dille anlatılmalı; yabancı ana yükleniciler için İngilizce sürüm şarttır. Raylı sistem ve otomotiv yan sanayinde çalışan üreticiler, ürünlerini çizim numarası ya da uygulama alanına göre arayabilen bir katalogdan fayda görür. Teknoparktaki yazılım ve Ar-Ge şirketleri ise yatırımcıya ve işe alım adaylarına yönelik, ürününü sade biçimde anlatan bir siteye ihtiyaç duyar. Öğrenci yoğunluğu nedeniyle kafe, kurs ve konaklama işletmeleri için mobil öncelikli tasarım ve sosyal medya ile uyumlu içerik de önemlidir.",
+  "localSectors": "Eskişehir'in imalat sanayi kamyon, beyaz eşya, lokomotif, uçak motoru, tarım ekipmanı, tekstil, çimento ve şeker gibi geniş bir ürün yelpazesini kapsıyor. Raylı sistemler sektörü kentteki köklü lokomotif fabrikası etrafında şekillenirken havacılık ve savunma yatırımları OSB'nin öncelik verdiği alanlar arasında yer alıyor. Beyaz eşya ana ve yan sanayi de şehirde belirgin bir yoğunluk gösteriyor; seramik ise komşu illerle birlikte oluşturulan bir kümelenmeyle öne çıkıyor. Yalnızca Eskişehir'de çıkarılan lületaşı, el sanatları ve hediyelik ürün pazarında şehre özgü bir değer. Anadolu, Eskişehir Osmangazi ve Eskişehir Teknik üniversiteleri kente öğrenci şehri kimliğini kazandırıyor.",
+  "serviceModel": "Eskişehir ile Ankara arasındaki hızlı tren bağlantısı yakınlık sağlasa da projeleri baştan sona uzaktan yönetecek şekilde kurguluyoruz. Teknik içerik ağırlıklı projelerde önce mühendislik ve satış ekiplerinizle video toplantı yaparak hangi bilgilerin herkese açık, hangilerinin talep üzerine paylaşılacağını belirliyoruz. Bilgi mimarisi ve sayfa taslakları paylaşılan belgelerde yorumlanıyor, onaylar çevrim içi ilerliyor. Kapsamlı bir keşif çalıştayı gerektiğinde tesisinizde yüz yüze bir oturum planlanabilir. Yayına çıkan sitede sertifika, ürün ve haber güncellemelerini yönetim panelinden kendi ekibiniz yapıyor.",
+  "faqs": [
+    {
+      "q": "Savunma sanayine tedarik veren bir firma olarak gizli bilgileri sitede nasıl korumalıyız?",
+      "a": "Herkese açık sayfalarda yalnızca yetkinlik ve sertifika bilgileri yer alıyor. Teknik doküman gerektiğinde, giriş yapan onaylı kullanıcılara açılan kapalı bir alan özel yazılım ile kurulabiliyor."
+    },
+    {
+      "q": "Teknoparktaki girişimimiz için hızlı bir ürün sitesi mümkün mü?",
+      "a": "Evet. Ürününüzü, ekibinizi ve iletişim kanallarınızı anlatan sade bir site önce kurulabiliyor; ürün geliştikçe dokümantasyon, blog veya kariyer sayfaları eklenerek genişletiliyor."
+    },
+    {
+      "q": "Lületaşı ürünleri satan bir atölye online satış yapabilir mi?",
+      "a": "Yapabilir. Ürün kartları, stok takibi ve ödeme altyapısı içeren bir e-ticaret sitesi kurulabiliyor. Yurt dışından gelen siparişler için İngilizce sayfalar da eklenebiliyor."
+    },
+    {
+      "q": "Öğrencilere hitap eden bir işletme için hangi hizmetler öne çıkıyor?",
+      "a": "Mobil öncelikli bir site, yerel aramalarda tutarlı işletme bilgileri ve düzenli sosyal medya içeriği genelde en çok sonuç veren kombinasyon oluyor. Hangi kanala ağırlık verileceği, hedef kitlenizle birlikte belirleniyor."
+    }
+  ],
+  "relatedServices": [
+    "ankara-web-tasarim",
+    "ankara-ozel-yazilim",
+    "ankara-sosyal-medya-yonetimi",
+    "ankara-seo-hizmeti"
+  ],
+  "sources": [
+    {
+      "title": "Eskişehir Organize Sanayi Bölgesi",
+      "url": "https://www.eosb.org.tr"
+    },
+    {
+      "title": "2050'lere uzanan büyük bir vizyon: Eskişehir OSB - Ekonomi Gazetesi",
+      "url": "https://www.ekonomigazetesi.com/sehirler/2050lere-uzanan-buyuk-bir-vizyon-ve-kuresel-yatirim-firsatlarinin-odak-noktasi-eskisehir-osb-81952"
+    },
+    {
+      "title": "Sanayide değişim rüzgarı esiyor - Capital",
+      "url": "https://www.capital.com.tr/capital-dergi/iller/sanayide-degisim-ruzgari-esiyor"
+    },
+    {
+      "title": "Eskişehir - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Eski%C5%9Fehir"
+    }
+  ]
+}

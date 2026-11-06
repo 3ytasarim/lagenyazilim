@@ -1,0 +1,44 @@
+{
+  "slug": "elmadag",
+  "name": "Elmadağ",
+  "h1": "Elmadağ Sanayi Firmaları ve Tedarikçileri İçin Kurumsal Web ve Yazılım",
+  "seoTitle": "Elmadağ Kurumsal Web Sitesi ve Yazılım | Lagen Yazılım",
+  "seoDescription": "Elmadağ'daki çimento, kireç, savunma tedarikçisi ve üretim firmaları için kurumsal web sitesi, teknik katalog ve iş süreçlerine özel yazılım.",
+  "intro": "Elmadağ, Ankara–Samsun kara yolu üzerinde yer alan ve ekonomisi büyük ölçüde fabrikalara dayanan bir ilçe. Vikipedi'ye göre ilçede MKE'ye bağlı barut ve roket fabrikaları, çimento fabrikaları, otuzdan fazla kireç ocağı ve bir çay paketleme tesisi faaliyet gösteriyor. Bu kurumlar nüfusun önemli bir kısmına iş sağlıyor. Lagen Yazılım, böyle bir sanayi çevresinde çalışan üretici ve tedarikçi firmalar için kurumsal dijital altyapı kuruyor. Bu sayfada, ilçenin sanayi yapısına uygun dijital ihtiyaçları ve birlikte nasıl çalıştığımızı bulabilirsiniz.",
+  "localNeeds": "Büyük kuruluşlara mal ya da hizmet veren tedarikçiler, kalite belgelerini, makine parkını ve referans alanlarını açıkça gösteren kurumsal bir siteye ihtiyaç duyar. Kireç, çimento veya yapı malzemesi gibi ürünlerde teknik veri föyleri ve indirilebilir dokümanlar satın alma ekiplerinin işini hızlandırır. Saha ekipleri, sevkiyat ya da bakım takibi gibi tekrarlayan işleri tablolarla yürüten işletmeler için basit bir web tabanlı panel ciddi zaman kazandırabilir. Kariyer sayfası ise vasıflı personel arayan firmalara düzenli başvuru toplama imkânı verir. Bu firmaların çoğunda içerik az değişir, ama değiştiğinde hızlı ve doğru güncellenmesi önemlidir.",
+  "localSectors": "Kaynaklara göre Elmadağ'da kamu ve özel sektör sanayisi bir arada bulunuyor: savunma alanında MKE ve Roketsan tesisleri, inşaat malzemesi alanında çimento fabrikaları ve kireç ocakları, gıdada ise bal ve çay paketleme işletmeleri sayılıyor. İlçe arazisinin tarım açısından verimsiz olması, çalışan nüfusun büyük bölümünü işçilik ve memurluğa yöneltmiş. Ankara–Samsun kara yolu üzerindeki konumu ise sanayi için bir gelişme imkânı olarak görülüyor. Halıcılık, kilim ve heybe gibi geleneksel üretimler de ilçenin kültüründe yer alıyor.",
+  "serviceModel": "Elmadağ'daki bir firmayla çalışırken önce mevcut süreçlerinizi ve satın alma tarafının sizden beklediği bilgileri dinliyoruz. Görüşme Harbiye'deki ofisimizde, tesisinizde veya online yapılabiliyor. Kurumsal site ve teknik katalog yapısı onaylandıktan sonra, ihtiyaç varsa iç süreçlere yönelik panel ayrı bir aşama olarak planlanıyor. Sitede yalnızca sizin yayınlanmasına onay verdiğiniz belge ve görseller yer alıyor; içerik güncellemeleri teslimden sonra sizin ekibinizde kalıyor. İhtiyaç olursa ek modüller sonradan, mevcut yapıyı bozmadan eklenebiliyor.",
+  "faqs": [
+    {
+      "q": "Kalite belgelerimizi ve teknik föylerimizi sitede nasıl sunarız?",
+      "a": "Belgeler ürün ya da hizmet sayfalarına bağlı indirilebilir dosyalar olarak ekleniyor. Yeni sürüm çıktığında dosyayı panelden değiştirmeniz yeterli."
+    },
+    {
+      "q": "Sevkiyat ve iş emri takibi için özel bir panel yapılabilir mi?",
+      "a": "Evet. Özel yazılım hizmetimizde, Excel'le yürüyen takipler kullanıcı yetkili bir web paneline taşınabiliyor. Kapsam, ilk analiz toplantısında birlikte belirleniyor."
+    },
+    {
+      "q": "Sitede iş ilanı yayınlayıp başvuru toplayabilir miyiz?",
+      "a": "Evet. Kariyer sayfasına ilanları panelden ekliyorsunuz, başvurular form üzerinden size iletiliyor. İlan süresi dolduğunda ilanı tek tıkla yayından kaldırabilirsiniz."
+    },
+    {
+      "q": "Bal veya gıda ürünü paketleyen bir işletmeyiz, kurumsal site yeterli mi?",
+      "a": "Kurumsal site markanızı ve üretim süreçlerinizi tanıtır. Bayi ya da market alıcılarına yönelik ürün kataloğu eklemek, ambalaj seçeneklerini ve ürün bilgilerini tek yerde toplamanızı sağlar."
+    },
+    {
+      "q": "Gizlilik gerektiren işler yapıyoruz, sitede neleri göstermeliyiz?",
+      "a": "Hangi bilgilerin paylaşılabileceğine sizin güvenlik biriminiz karar veriyor. Çoğu tedarikçi için faaliyet alanı, belgeler ve iletişim bilgisi yeterli; proje ayrıntıları gerekirse yalnızca giriş yapan kullanıcılara açık bir alanda tutulabiliyor."
+    }
+  ],
+  "relatedServices": [
+    "ankara-web-tasarim",
+    "ankara-ozel-yazilim",
+    "ankara-katalog-tasarimi"
+  ],
+  "sources": [
+    {
+      "title": "Elmadağ - Vikipedi",
+      "url": "https://tr.wikipedia.org/wiki/Elmada%C4%9F"
+    }
+  ]
+}

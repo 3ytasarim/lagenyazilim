@@ -1,0 +1,38 @@
+{
+  "slug": "haymana",
+  "name": "Haymana",
+  "h1": "Haymana Kaplıca ve Termal Otelleri İçin Rezervasyon Odaklı Web Sitesi ve SEO",
+  "seoTitle": "Haymana Termal Otel Web Sitesi ve SEO | Lagen Yazılım",
+  "seoDescription": "Haymana'daki termal otel, kaplıca ve pansiyonlar için rezervasyon talebi alan web sitesi, misafir aramalarına göre SEO ve sezon odaklı sosyal medya.",
+  "intro": "Haymana adı çoğu Ankaralının aklına önce kaplıcaları getirir. Sıcak yer altı sularıyla tanınan ilçede termal otel, kaplıca ve pansiyon işletmeleri misafirlerinin önemli bölümünü internetten araştırma yaparak kazanıyor. Misafir bir tesisi seçmeden önce havuzu, odayı ve fiyat bilgisini görmek, hangi tarihlerde yer olduğunu sormak istiyor. Bu sayfada Haymana'daki konaklama ve termal işletmelerine nasıl bir dijital vitrin kurduğumuzu anlatıyoruz.",
+  "localNeeds": "Termal tesislerde misafiri ikna eden şey çoğu zaman görsellerdir: havuzun ışığı, odanın gerçek hali, yemek salonu ve çevre. Bu yüzden tesisin elindeki güncel fotoğrafların sitede doğru sırayla ve telefonda hızlı açılacak şekilde sunulması önemlidir. Bir diğer adım, oda tiplerini, havuz saatlerini, paketleri ve iletişim yollarını açıkça gösteren, telefondan rahat okunan bir sitedir. Misafirin \"Haymana termal otel\" ya da \"Haymana kaplıca\" gibi aramalarda tesisi bulabilmesi için sayfa başlıkları, açıklamalar ve harita kaydının da düzenli olması gerekir. Hafta sonu ve sezon kampanyalarını hızlıca duyurabilmek için içeriği tesisin kendisinin değiştirebilmesi büyük kolaylık sağlar.",
+  "localSectors": "Vikipedi'deki ilçe maddesi, Haymana'nın sıcak yer altı suları ve kaplıcalarıyla tanındığını, ilçede Gavurkale Harabeleri gibi tarihi kalıntılar bulunduğunu belirtir. Demirören Haber Ajansı'nın Eylül 2025 tarihli haberine göre Haymana Belediyesi 13 bin 500 metrekarelik bir termal kaplıca kompleksini hizmete açmıştır. Aynı haberde belediyenin bu tesisle sağlık turizminde öne çıkmayı hedeflediği ve ilçedeki girişimci kadınların el emeği ürünlerini Haymana Kapalı Çarşısı'nda sergilediği aktarılır. Yani ilçe ekonomisinde termal turizm ve ona bağlı esnaf belirleyici bir yer tutar.",
+  "serviceModel": "Haymana'daki bir tesisle çalışırken önce çevrim içi bir görüşmede hedef misafir kitlesini, oda ve paket yapısını konuşuyoruz; isterseniz Çankaya Harbiye'deki ofisimizde de buluşabiliriz. Ardından tesisin oda, havuz ve ortak alan fotoğraflarını birlikte gözden geçirip hangisinin hangi sayfada yer alacağına karar veriyoruz; eksik kalan görselleri tesis kendi fotoğrafçısıyla tamamlayabiliyor. Site yönetim paneliyle teslim ediliyor; kampanya, fiyat, müsaitlik notu ya da yeni fotoğrafı resepsiyon ekibi kendisi yükleyebiliyor. SEO tarafında tesisin gerçekten sunduğu hizmetlere uygun aramaları hedefliyor, sıralama garantisi vermeden düzenli iyileştirme yapıyoruz.",
+  "faqs": [
+    {
+      "q": "Termal otelimiz için en çok hangi sayfalar gerekli?",
+      "a": "Genellikle ana sayfa, oda tipleri, havuz ve termal alanlar, paketler, fotoğraf galerisi, ulaşım ve iletişim sayfaları yeterlidir. Sık sorulan sorular bölümü, telefonla gelen tekrar eden soruları da azaltır."
+    },
+    {
+      "q": "Aramalarda büyük tesisler öndeyken küçük bir pansiyon nasıl görünür olur?",
+      "a": "Küçük tesisler için en verimli yol, sizi ayıran özellikleri net anlatan sayfalar ve eksiksiz bir harita kaydıdır. Aile odası, uzun konaklama ya da hafta içi fiyatı gibi başlıkları ayrı ayrı anlatmak, daha dar ama doğru aramalarda bulunmanızı kolaylaştırır."
+    },
+    {
+      "q": "Rezervasyon talebi sitemizden alınabilir mi?",
+      "a": "Evet. Siteye tarih, kişi sayısı ve iletişim bilgisi soran bir talep formu eklenebilir. Talepler e-posta ile size ulaşır, fiyat ve onay sizin tarafınızdan verilir."
+    },
+    {
+      "q": "Kapalı çarşıdaki esnaf ya da el emeği satan girişimciler için de çalışıyor musunuz?",
+      "a": "Evet. Küçük ölçekli işletmeler için ürünleri, iletişim bilgisini ve konumu gösteren tek sayfalık siteler ya da düzenli sosyal medya içerikleri hazırlıyoruz. Kapsamı işletmenin ihtiyacına göre küçük tutabiliyoruz."
+    },
+    {
+      "q": "SEO ile Haymana aramalarında ilk sırada çıkacak mıyız?",
+      "a": "Hiçbir ajans belirli bir sırayı garanti edemez. Biz sayfa yapısını, içerikleri ve yerel kayıtları düzenleyerek tesisinizin ilgili aramalarda bulunabilirliğini artırmaya çalışıyoruz."
+    }
+  ],
+  "relatedServices": ["ankara-web-tasarim", "ankara-seo-hizmeti", "ankara-sosyal-medya-yonetimi"],
+  "sources": [
+    { "title": "Haymana – Vikipedi", "url": "https://tr.wikipedia.org/wiki/Haymana" },
+    { "title": "Haymana'da yeni termal kompleks açıldı – DHA", "url": "https://www.dha.com.tr/yerel-haberler/ankara/haymana/haymanada-yeni-termal-kompleks-acildi-2718549" }
+  ]
+}

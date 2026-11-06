@@ -1,0 +1,34 @@
+{
+  "slug": "polatli",
+  "name": "Polatlı",
+  "h1": "Polatlı'nın Tarım Makinesi, Un ve Sanayi Firmalarına Katalog ve Kurumsal Web",
+  "seoTitle": "Polatlı Web Tasarım ve Ürün Kataloğu | Lagen Yazılım",
+  "seoDescription": "Polatlı'daki tarım makinesi üreticileri, un fabrikaları, OSB firmaları ve tahıl ticareti işletmeleri için ürün kataloğu, kurumsal site ve bayi yazılımı.",
+  "intro": "Polatlı uzun süredir tahıl ambarı olarak anılıyor; ama bugün ilçeyi yalnızca buğday ve arpa ile tanımlamak eksik kalır. Küçük sanayi sitesinde tarım makinesi üreten çok sayıda firma var, iki organize sanayi bölgesi demiryoluna bitişik konumda, cam ve rulman gibi sektörlerde büyük fabrikalar faaliyet gösteriyor. Bu firmaların müşterisi çoğu zaman ilçenin dışında, hatta yurt dışında. Lagen Yazılım, Polatlılı üreticilerin ürünlerini bu uzak alıcıya düzgün anlatan katalog, site ve yazılım çözümleri hazırlıyor.",
+  "localNeeds": "Bir tarım makinesi üreticisinin satışı genellikle bayiler ve fuarlar üzerinden yürür. Bayinin elinde güncel bir katalog, internette ise model, ölçü ve kapasite bilgilerini düzenli gösteren bir ürün sayfası olması satışı doğrudan kolaylaştırır. İhracat yapan ya da yapmak isteyen firmalar için aynı içeriğin İngilizce ve gerekirse başka dillerde hazırlanması gerekir. Un fabrikaları ve tahıl ticareti yapan işletmeler için ise ürün çeşitleri, ambalaj seçenekleri ve kalite belgelerini sade biçimde sunan bir kurumsal site güven verir. Bayi sayısı arttıkça fiyat listesi ve sipariş taleplerini toplayan bir portal da gündeme gelir.",
+  "localSectors": "Vikipedi'deki ilçe maddesine göre Polatlı'nın ekonomisi tarıma dayanır; ilçe tahıl ambarı olarak öne çıkar, aktif bir tahıl borsasına sahiptir ve arpa ile buğdayın yanında şeker pancarı, kavun ve soğan üretilir. Aynı kaynak, Şişecam'ın cam fabrikası, Ortadoğu Rulman Sanayi ve Ankara Dişli Dövme Sanayi tesisleriyle birlikte çok sayıda un fabrikası ve mermer işletmesinin ilçede bulunduğunu belirtir. Ekonomi Gazetesi'nin haberinde ilçede iki organize sanayi bölgesi olduğu, sanayi bölgelerinin demiryoluna bitişik olduğu, küçük sanayi sitesinde yaklaşık 100 firmanın tarım makinesi ürettiği ve Polatlı soğanının coğrafi işaret aldığı aktarılır. Tarihi açıdan Gordion antik kenti ve Sakarya Meydan Muharebesi alanları da Polatlı sınırlarındadır.",
+  "serviceModel": "Polatlı'daki bir firmayla çalışmaya genellikle fabrikada ya da atölyede yapılan bir toplantıyla başlıyoruz; dilerseniz Çankaya Harbiye'deki ofisimizde ya da çevrim içi de görüşebiliriz. Önce ürün gamını, bayi yapısını ve hedef pazarları listeleyip katalog ile sitenin ortak bir içerik planını çıkarıyoruz. Firmanın elindeki makine, model ve tesis fotoğraflarını tek bir görsel arşivde topluyoruz; böylece katalog, site ve bayilere giden PDF'ler aynı görsellerle hazırlanıyor. Site yönetim paneliyle teslim ediliyor, yeni model ya da teknik bilgi eklemek için ajansa bağımlı kalmıyorsunuz. Bayi portalı gibi özel yazılım ihtiyaçlarını ayrı bir aşama olarak planlıyoruz.",
+  "faqs": [
+    {
+      "q": "Tarım makinelerimiz için hem basılı hem dijital katalog hazırlar mısınız?",
+      "a": "Evet. Aynı içerikten fuarlar ve bayiler için basılı katalog, e-posta ve WhatsApp ile paylaşmak için PDF, internet için de ürün sayfaları üretiyoruz."
+    },
+    {
+      "q": "İhracat için sitemiz kaç dilde olmalı?",
+      "a": "Hedef pazarınıza göre karar veriyoruz. Çoğu firma için İngilizce iyi bir başlangıçtır; belirli ülkelere satış yapıyorsanız o pazarın dili de eklenebilir."
+    },
+    {
+      "q": "Un fabrikamız için ürün tanıtım sitesi nasıl olmalı?",
+      "a": "Ürün çeşitleri, kullanım alanları, ambalaj seçenekleri, kalite belgeleri ve iletişim bilgilerini net gösteren sade bir yapı öneriyoruz. Toptan alıcılar için teklif formu da eklenebilir."
+    },
+    {
+      "q": "Bayilerimizin sipariş vereceği bir sistem kurabilir misiniz?",
+      "a": "Evet. Özel yazılım kapsamında bayilere özel girişli, fiyat listesi ve sipariş talebi içeren bir portal geliştirebiliyoruz. Kapsamı firmanızın işleyişine göre belirliyoruz."
+    }
+  ],
+  "relatedServices": ["ankara-katalog-tasarimi", "ankara-web-tasarim", "ankara-ozel-yazilim", "ankara-seo-hizmeti"],
+  "sources": [
+    { "title": "Polatlı – Vikipedi", "url": "https://tr.wikipedia.org/wiki/Polatl%C4%B1" },
+    { "title": "Polatlı'dan çağrı: Eleman sorunu yok, bin dönüme kadar arazi var – Ekonomi Gazetesi", "url": "https://www.ekonomigazetesi.com/sehirler/polatlidan-cagri-eleman-sorunu-yok-bin-donume-kadar-arazi-var-45463" }
+  ]
+}

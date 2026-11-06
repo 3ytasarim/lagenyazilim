@@ -1,0 +1,38 @@
+{
+  "slug": "kizilcahamam",
+  "name": "Kızılcahamam",
+  "h1": "Kızılcahamam'da Termal Otel, Kongre ve Doğa Turizmi İşletmelerine Dijital Destek",
+  "seoTitle": "Kızılcahamam Otel Web Tasarım ve SEO | Lagen Yazılım",
+  "seoDescription": "Kızılcahamam'daki termal ve kongre otelleri, restoranlar ve doğa turizmi işletmeleri için web sitesi, yerel SEO ve sezona göre sosyal medya yönetimi.",
+  "intro": "Kızılcahamam, Roma döneminden beri kullanılan kaplıcaları, Soğuksu Milli Parkı'nın çam ormanları ve maden sularıyla tanınıyor. Ankara'ya yakın olduğu için hafta sonları çok sayıda günübirlik ziyaretçi alıyor, büyük oteller ise kongre ve kurumsal toplantılara ev sahipliği yapıyor. Bu iki farklı misafir tipi, işletmelerin internette iki ayrı dili konuşmasını gerektiriyor. Lagen Yazılım, Kızılcahamam'daki konaklama ve turizm işletmeleri için bu iki kitleyi de karşılayan siteler ve içerikler hazırlıyor.",
+  "localNeeds": "Hafta sonu kaçamağı arayan bir aile ile şirket toplantısı için salon arayan bir organizasyon sorumlusunun beklentisi aynı değildir. Aile; havuzu, odaları, fiyatı ve çevrede yapılacak şeyleri görmek ister. Kurumsal müşteri ise salon kapasitelerini, teknik donanımı, toplantı paketlerini ve teklif formunu arar. Bu yüzden Kızılcahamam'daki bir otelin sitesinde bu iki yolun ayrı ayrı ve net kurulması dönüşümü doğrudan etkiler. Restoran, kahvaltı salonu ya da yöresel ürün satan işletmeler içinse haritada doğru görünmek, güncel çalışma saatleri ve iyi fotoğraflar çoğu zaman yeterli farkı yaratır.",
+  "localSectors": "Vikipedi'deki ilçe maddesine göre Kızılcahamam kaplıcaları Roma döneminden beri kullanılmaktadır ve Türkiye çapında bilinir; ilçe Soğuksu Milli Parkı, kaplıcaları, otelleri ve maden sularıyla tanınır. Aynı madde, Ankara'ya yakınlık nedeniyle özellikle hafta sonları çok sayıda günübirlik ziyaretçi geldiğini ve son yıllarda yapılan büyük otellerin kongre ve toplantılara ev sahipliği yaptığını belirtir. Pazar günleri kurulan ilçe pazarında çevre köylerden gelen üreticiler yöresel ürünler satar. İngilizce Vikipedi'ye göre Soğuksu Milli Parkı 19 Şubat 1959'da kurulmuştur, ilçenin hemen batısındadır ve büyük bölümü iğne yapraklı ormanlarla kaplıdır.",
+  "serviceModel": "Kızılcahamam'daki bir otel ya da işletmeyle önce hedef misafir gruplarını ve satış kanallarını konuştuğumuz bir toplantı yapıyoruz. Bu görüşme işletmenizde, Çankaya Harbiye'deki ofisimizde ya da çevrim içi olabilir. Ardından sayfa planını iki ana yol üzerinden kuruyor, otelin elindeki salon, oda ve havuz görsellerini aile ve kurumsal sayfalara ayrı ayrı yerleştiriyoruz. Site yönetim paneliyle teslim edildiği için sezon kampanyası, toplantı paketi, menü değişikliği ya da yeni fotoğrafı ekibiniz kendisi yayınlayabiliyor. SEO ve sosyal medya çalışmalarında hafta sonu ve tatil dönemlerine göre bir içerik takvimi izliyoruz; belirli bir arama sırası vaat etmiyoruz.",
+  "faqs": [
+    {
+      "q": "Kongre ve toplantı müşterileri için ayrı sayfa gerekir mi?",
+      "a": "Evet, tavsiye ediyoruz. Salon kapasiteleri, oturma düzenleri, teknik donanım ve teklif formunu içeren ayrı bir bölüm, kurumsal müşterinin aradığı bilgiye hızla ulaşmasını sağlar."
+    },
+    {
+      "q": "Soğuksu Milli Parkı'na yakınlığımızı sitede nasıl anlatmalıyız?",
+      "a": "Parka uzaklığı, ulaşım yolunu ve misafirin konaklama sırasında parkta yapabileceklerini kısa bir çevre sayfasında toplamak işe yarar. Bu sayfada yalnızca kendinize ait ya da kullanım hakkına sahip olduğunuz fotoğrafları kullanmanızı öneriyoruz."
+    },
+    {
+      "q": "Hafta sonu ziyaretçileri bizi haritada nasıl bulur?",
+      "a": "Google İşletme Profili'nin doğru kategori, saat, fotoğraf ve iletişim bilgisiyle düzenlenmesi ve sitenizle uyumlu olması yerel aramalarda görünürlüğü artırır. Bu düzenlemeyi SEO çalışmasının parçası olarak yapıyoruz."
+    },
+    {
+      "q": "Pazar yerinde yöresel ürün satan üreticiler için ne önerirsiniz?",
+      "a": "Küçük üreticiler için düzenli bir Instagram hesabı, kendi ürün fotoğrafları ve sipariş için açık bir iletişim yolu genellikle yeterli başlangıçtır. Talep arttıkça ürünleri listeleyen basit bir site eklenebilir."
+    },
+    {
+      "q": "Sosyal medyayı sezona göre mi planlıyorsunuz?",
+      "a": "Evet. Kış termal dönemi, bahar ve yaz doğa dönemi gibi farklı sezonlara göre ayrı içerik planı ve paylaşım tasarımları hazırlıyoruz."
+    }
+  ],
+  "relatedServices": ["ankara-web-tasarim", "ankara-seo-hizmeti", "ankara-sosyal-medya-yonetimi"],
+  "sources": [
+    { "title": "Kızılcahamam – Vikipedi", "url": "https://tr.wikipedia.org/wiki/K%C4%B1z%C4%B1lcahamam" },
+    { "title": "Soğuksu National Park – Wikipedia", "url": "https://en.wikipedia.org/wiki/So%C4%9Fuksu_National_Park" }
+  ]
+}

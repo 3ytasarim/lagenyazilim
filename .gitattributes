@@ -1,0 +1,4 @@
+# Sunucuda çalışan betikler her zaman LF satır sonuyla
+*.sh text eol=lf
+*.conf text eol=lf
+ecosystem.config.cjs text eol=lf

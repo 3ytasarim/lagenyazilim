@@ -1,0 +1,52 @@
+{
+  "slug": "gaziantep",
+  "name": "Gaziantep",
+  "h1": "Gaziantep İhracatçılarına Çok Dilli Web Sitesi ve Dijital Katalog",
+  "seoTitle": "Gaziantep Web Tasarım ve B2B Katalog | Lagen Yazılım",
+  "seoDescription": "Gaziantep'teki halı, gıda ve tekstil ihracatçılarına çok dilli B2B site, dijital katalog ve özel yazılım. Uzaktan yürüyen süreç; bugün teklif isteyin.",
+  "intro": "Gaziantep, Anadolu ile Orta Doğu arasındaki konumunu yüzyıllardır ticarete dönüştüren bir kent. Bugün altı organize sanayi bölgesinde halı, tekstil, plastik, gıda ve kimya gibi alanlarda üretim yapan firmalar faaliyet gösteriyor. Antep fıstığı, Nizip zeytini ve 2015'te UNESCO Yaratıcı Şehirler Ağı'na gastronomi alanında katılan mutfağı, şehrin adını sınırların ötesine taşıyor. Lagen Yazılım, Ankara Çankaya'daki ofisinden Gaziantep'teki ihracatçılar ve yerel markalarla uzaktan çalışarak bu bilinirliği satışa dönüştürecek dijital altyapıyı kuruyor.",
+  "localNeeds": "Makine halısı üreten bir firmanın kataloğu yüzlerce desen, renk ve ebat kombinasyonundan oluşabilir; bunu bir PDF içinde göndermek yerine filtrelenebilir bir dijital koleksiyonda sunmak alıcının işini kolaylaştırır. Orta Doğu, Avrupa ve Afrika pazarlarına satan işletmeler için Arapça, İngilizce ve gerektiğinde başka dillerde, sağdan sola yazımı da destekleyen sayfalar gerekir. Fıstık, baharat ya da makarna gibi gıda ürünleri satan firmalarda ambalaj seçenekleri, menşe bilgisi ve minimum sipariş miktarı açıkça yazılmalıdır. Coğrafi işaretli ürünlerin hikâyesini anlatan içerikler hem marka algısını hem de aramalardaki görünürlüğü destekler. Bayilerle ya da yurt dışı acentelerle çalışanlar için sipariş ve numune taleplerinin toplandığı bir panel de sık istenen bir çözüm.",
+  "localSectors": "Gaziantep OSB yönetimi, bölgede tekstil, halı, plastik, gıda, ayakkabı ve kimya alanlarında üretim yapan şirketlerin bulunduğunu belirtiyor. Kentte halıcılık özellikle güçlü; sektör temsilcileri Gaziantep halısının çok sayıda ülkeye ihraç edildiğini vurguluyor. Tarım tarafında zeytin ve Antep fıstığı yetiştiriciliği yaygın, bakır işçiliği ve kilim dokumacılığı gibi el sanatları da hâlâ şehrin kimliğinin parçası. Turizmde Zeugma Mozaik Müzesi, Gaziantep Kalesi ve restore edilen tarihi Antep evleri öne çıkıyor. Gaziantep Üniversitesi başta olmak üzere kentteki üniversiteler de nitelikli iş gücü ve girişimcilik açısından önemli bir kaynak.",
+  "serviceModel": "Gaziantep'teki bir ihracatçıyla çalışırken ilk adım, satış ve dış ticaret ekibinizle yapılan bir video toplantı oluyor. Hangi pazarlara, hangi dilde ve hangi ürün gruplarıyla seslenmek istediğinizi bu görüşmede netleştiriyoruz. Ürün verileri ortak bir tabloda toplanıyor, tasarım ekranları bağlantı ile paylaşılıyor ve yorumlarınız doğrudan bu ekranlar üzerinden alınıyor. Çok sayıda ürün grubunun ve ekibin dahil olduğu projelerde, iş akışlarını birlikte çıkarmak için yerinde bir çalışma günü planlanabilir. Yayından sonra koleksiyon, fiyat ve dil içeriklerini yönetim panelinden kendiniz güncelliyorsunuz. Yeni bir pazara açılmak istediğinizde ilgili dil sayfalarını mevcut yapıya eklemek de mümkün; site bu büyümeye baştan hazır kuruluyor.",
+  "faqs": [
+    {
+      "q": "Yüzlerce halı desenini sitede nasıl düzenli gösterebiliriz?",
+      "a": "Desenler koleksiyon, renk, ebat ve hav yüksekliği gibi filtrelerle listelenebiliyor. Toplu yükleme ekranı sayesinde yeni sezon koleksiyonunu tek tek girmek yerine tablo üzerinden aktarabiliyorsunuz."
+    },
+    {
+      "q": "Arapça sayfalar sağdan sola düzgün görünecek mi?",
+      "a": "Evet. Arapça sayfalar sağdan sola yazım düzenine göre tasarlanıyor; menü, form ve ürün kartları bu yöne uyarlanıyor. Çeviri metinleri ise sizden veya çevirmeninizden alınıyor."
+    },
+    {
+      "q": "Antep fıstığı satan bir firma için e-ticaret mi, teklif formu mu uygundur?",
+      "a": "Bu, satış modelinize bağlı. Perakende satış yapıyorsanız sepet ve ödeme altyapısı kurulabilir; toptan ve ihracat ağırlıklı çalışıyorsanız miktar ve ambalaj seçimli teklif formu daha uygun olur."
+    },
+    {
+      "q": "Basılı katalog ile web sitesini aynı anda güncel tutmak mümkün mü?",
+      "a": "Katalog tasarımı ile site aynı ürün verisinden beslenecek şekilde planlanabiliyor. Böylece fuar öncesinde güncel bir PDF katalog hazırlamak çok daha hızlı oluyor."
+    },
+    {
+      "q": "Gaziantep mutfağını tanıtan bir restoran için nasıl bir site önerirsiniz?",
+      "a": "Menüyü, rezervasyon veya sipariş yönlendirmesini ve konum bilgisini öne çıkaran mobil uyumlu bir site öneriyoruz. Şehre gelen yabancı ziyaretçiler için İngilizce menü sayfası da eklenebiliyor."
+    }
+  ],
+  "relatedServices": [
+    "ankara-katalog-tasarimi",
+    "ankara-web-tasarim",
+    "ankara-ozel-yazilim"
+  ],
+  "sources": [
+    {
+      "title": "Gaziantep Organize Sanayi Bölgesi",
+      "url": "https://www.gaosb.org"
+    },
+    {
+      "title": "Gaziantep'ten 143 ülkeye halı ihracatı - DHA",
+      "url": "https://www.dha.com.tr/foto-galeri/gaziantepten-143-ulkeye-hali-ihracati-2778513"
+    },
+    {
+      "title": "Gaziantep - Vikipedi",
+      "url": "https://tr.wikipedia.org/wiki/Gaziantep"
+    }
+  ]
+}

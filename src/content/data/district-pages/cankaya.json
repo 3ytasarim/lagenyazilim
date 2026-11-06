@@ -1,0 +1,39 @@
+{
+  "slug": "cankaya",
+  "name": "Çankaya",
+  "h1": "Çankaya'da Web Tasarım ve Yazılım: Harbiye'deki Ofisimizden Hizmet",
+  "seoTitle": "Çankaya Web Tasarım ve Yazılım Ajansı | Lagen Yazılım",
+  "seoDescription": "Çankaya Harbiye'deki ofisimizde web tasarım, SEO ve özel yazılım projelerini yüz yüze planlıyoruz. Teknoloji firmaları ve kurumsal ofisler için.",
+  "intro": "Lagen Yazılım'ın ofisi Çankaya'nın Harbiye Mahallesi'nde bulunuyor. İlçedeki bir şirket, projesini bizimle Harbiye'de, kendi ofisinde ya da çevrim içi bir görüşmeyle başlatabilir. Web tasarım, SEO, sosyal medya yönetimi, özel yazılım ve katalog tasarımı aynı ekip tarafından, tek bir plan içinde yürütülür. Teslim ettiğimiz her site bir yönetim paneliyle gelir; metinleri, görselleri ve duyuruları siz güncellersiniz.",
+  "localNeeds": "Çankaya'da teknoloji geliştiren şirketler, danışmanlık büroları, hukuk ve mühendislik ofisleri yan yana çalışır. Bu firmaların dijital ihtiyacı çoğu zaman gösterişten çok güvendir: kim olduklarını, hangi işi yaptıklarını ve nasıl iletişime geçileceğini net anlatan bir kurumsal site. Yabancı ortaklarla çalışan ekipler için İngilizce sayfalar ve sade bir ürün anlatımı öne çıkar. Teklif, başvuru ya da proje süreçlerini tablolarla yürüten işletmelerde bunu bir panelde toplamak zaman kazandırır. Hizmet aranan sorgularda görünür olmak için teknik SEO ve düzenli içerik de bu listeye girer. Uzmanlık alanını makale ve vaka anlatımlarıyla gösteren bir blog, hem aramalarda hem de yapay zekâ destekli asistanların yanıtlarında kaynak olarak öne çıkmaya yardımcı olur.",
+  "localSectors": "Çankaya, 124 mahallesiyle Ankara'nın idari ve ticari merkezlerinden biridir; Kızılay Meydanı ve çevresi kentin en bilinen iş alanları arasında yer alır. Türkiye Büyük Millet Meclisi yerleşkesi ilçededir. Orta Doğu Teknik Üniversitesi, Bilkent Üniversitesi ve Hacettepe Üniversitesi de Çankaya ile birlikte anılır. ODTÜ Teknokent'in adresi Üniversiteler Mahallesi'ndedir, Hacettepe Teknokent de Çankaya'da kayıtlıdır. Sanayi ve Teknoloji Bakanlığı'nın 2025 sosyoekonomik gelişmişlik araştırmasında Çankaya, Türkiye'nin en gelişmiş ilçesi olarak sıralanmıştır.",
+  "serviceModel": "Ofisimiz ilçede olduğu için ilk görüşmeyi Harbiye'de yüz yüze yapmak çoğu müşteri için en pratik yol oluyor. Ekibiniz kalabalıksa ya da birden fazla birimin görüşü gerekiyorsa toplantıyı sizin binanızda da düzenleyebiliriz. Kapsam netleşince site haritası, tasarım taslağı ve içerik planı adım adım onayınıza sunulur. Ofis, laboratuvar ya da ekip fotoğraflarınızı kendi arşivinizden veya çalıştığınız fotoğrafçıdan alıp panelden sayfalara eklersiniz. Yayından sonra panelin kullanımını ekibinize gösteriyoruz. İlk aylarda arama verilerine birlikte bakıp hangi sayfaların geliştirileceğine karar veriyoruz.",
+  "faqs": [
+    {
+      "q": "Harbiye'deki ofisinize gelip projeyi konuşabilir miyiz?",
+      "a": "Evet. Ofisimiz Çankaya'nın Harbiye Mahallesi'nde. Randevu alarak gelebilir, isterseniz görüşmeyi kendi iş yerinizde ya da çevrim içi de yapabiliriz."
+    },
+    {
+      "q": "Teknokentte çalışan bir yazılım firmasıyız, İngilizce site hazırlıyor musunuz?",
+      "a": "Hazırlıyoruz. Türkçe ve İngilizce sayfaları aynı yönetim panelinden düzenleyebileceğiniz şekilde kuruyoruz. Ürün ve hizmet anlatımını yabancı ziyaretçinin hızla anlayacağı sadelikte kurgulamaya özen gösteriyoruz."
+    },
+    {
+      "q": "Danışmanlık ofisimiz için başvuru ve teklif takibini web sitesine bağlayabilir misiniz?",
+      "a": "Özel yazılım hizmetimizle form başvurularını, teklif aşamalarını ve müşteri notlarını tek bir panelde toplayabiliriz. Kapsamı ilk görüşmede iş akışınıza bakarak birlikte belirliyoruz."
+    },
+    {
+      "q": "SEO çalışmasında belirli bir sıralama sözü veriyor musunuz?",
+      "a": "Hayır. Arama sonuçları birçok etkene bağlı olduğu için sıralama garantisi vermiyoruz. Teknik altyapıyı, sayfa içeriklerini ve ölçümlemeyi düzgün kurup gelişimi raporlarla takip ediyoruz."
+    },
+    {
+      "q": "Mevcut sitemizi tamamen yenilemeden yalnızca bazı bölümleri güncelleyebilir misiniz?",
+      "a": "Önce mevcut sitenin hız, içerik ve güvenlik durumunu inceliyoruz. Altyapı sağlamsa belirli sayfaları yeniden tasarlayabiliriz; eskimişse yenilemenin neden daha mantıklı olduğunu gerekçeleriyle anlatıyoruz. Kararı her iki seçeneğin kapsamını görerek siz verirsiniz."
+    }
+  ],
+  "relatedServices": ["ankara-web-tasarim", "ankara-ozel-yazilim", "ankara-seo-hizmeti"],
+  "sources": [
+    { "title": "Çankaya, Ankara – Vikipedi", "url": "https://tr.wikipedia.org/wiki/%C3%87ankaya,_Ankara" },
+    { "title": "ODTÜ Teknokent – SAHA Expo katılımcı kaydı (adres: Üniversiteler Mah., Çankaya)", "url": "https://mail.sahaexpo.com/exhibitor/odtu-teknokent" },
+    { "title": "Hacettepe Üniversitesi Teknoloji Geliştirme Bölgesi – IASP üye rehberi", "url": "https://www.iasp.ws/our-members/directory/@6144/hacettepe-universitesi-teknoloji-gelistirme-bolgesi-yonetici-a.s." }
+  ]
+}

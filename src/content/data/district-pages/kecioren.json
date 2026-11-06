@@ -1,0 +1,37 @@
+{
+  "slug": "kecioren",
+  "name": "Keçiören",
+  "h1": "Keçiören'de Mahalle Esnafı ve Hizmet İşletmeleri İçin Web ve Sosyal Medya",
+  "seoTitle": "Keçiören Web Tasarım ve Sosyal Medya | Lagen Yazılım",
+  "seoDescription": "Keçiören'deki klinik, kurs, kafe ve mağazalar için mobil uyumlu web sitesi, yerel arama optimizasyonu ve sosyal medya yönetimi. Hemen görüşelim.",
+  "intro": "Keçiören, nüfusu bakımından Ankara'nın ikinci büyük ilçesi. Bu kalabalık, mahallede hizmet veren her işletme için geniş bir potansiyel müşteri kitlesi demek. Ancak aynı sokakta benzer işi yapan çok sayıda rakip de var. Lagen Yazılım, Keçiörenli işletmelerin bu rekabette telefon ekranında öne çıkması için web sitesi, yerel SEO ve sosyal medya çalışmalarını bir arada yürütüyor.",
+  "localNeeds": "Kalabalık yerleşim bölgelerinde müşteri kararı genellikle hızlı verilir: birkaç yorum okunur, fotoğraflara bakılır, sonra aranır. Bu yüzden diş kliniği, eğitim kursu, güzellik salonu, kafe veya ev hizmeti sunan bir firma için güncel fotoğraflar, net fiyat yerine net hizmet açıklaması ve kolay randevu bağlantısı önemlidir. Etlik, Bağlarbaşı ya da Aktepe gibi mahalle adlarıyla yapılan aramalarda görünmek için sayfa içeriklerini bu adlara göre kurgulamak işe yarar. Instagram ve benzeri hesaplarda düzenli paylaşım, ilçede tanınırlığı sürdürmenin en ekonomik yollarından biridir. Kampanya ve duyuruları sitede kendiniz yayınlayabilmeniz de zaman kazandırır. Ayrıca site, mobil veriyle gezen bir kullanıcıda bile birkaç saniyede açılmalı; aksi hâlde ziyaretçi sayfayı kapatıp bir sonraki sonuca geçer.",
+  "localSectors": "Keçiören, 2023 nüfus verilerine göre Ankara'nın ikinci, Türkiye'nin dördüncü en kalabalık ilçesidir; 2025 nüfusu 931.722 olarak kayıtlıdır. İlçe 51 mahalleden oluşur ve Etlik, Bağlarbaşı, Aktepe, Ayvalı, Kalaba ve Şenlik bunlar arasındadır. Daha önce Altındağ'a bağlı bir mahalleyken 1983'te ilçe olmuştur. Çubuk Çayı ilçeyi iki bölüme ayırır. Atatürk'ün Kurtuluş Savaşı sırasında karargâh olarak kullandığı eski Ziraat Mektebi binası bugün Meteoroloji İşleri Genel Müdürlüğü olarak kullanılmaktadır.",
+  "serviceModel": "Keçiören'deki küçük ve orta ölçekli işletmelerle çalışırken süreci olabildiğince kısa tutuyoruz. İlk konuşmayı dükkânınızda, çevrim içi ya da Harbiye'deki ofisimizde yapabiliriz. Bu görüşmede hedef müşterinizi ve en çok hangi hizmetinizin arandığını konuşuyoruz. Sonra tek sayfalık bir plan çıkarıp siteyi, Google İşletme Profili düzenlemesini ve ilk ayın paylaşım takvimini hazırlıyoruz. Mekân ve ekip fotoğraflarını siz panelden yüklersiniz; biz de bunları sitede ve sosyal medya gönderi tasarımlarında değerlendiririz.",
+  "faqs": [
+    {
+      "q": "Etlik'teki kliniğimiz için online randevu talebi alabilir miyiz?",
+      "a": "Evet. Sitenize randevu talep formu ya da WhatsApp bağlantısı ekliyoruz. Gelen talepler yönetim panelinde listelenir ve e-posta ile size bildirilir."
+    },
+    {
+      "q": "Sosyal medya paylaşımlarını sizin yapmanız mümkün mü, yoksa sadece tasarım mı veriyorsunuz?",
+      "a": "İki seçenek de var. İsterseniz içerik planı, tasarım ve paylaşımı biz üstleniriz; isterseniz yalnızca şablon ve gönderi tasarımlarını hazırlar, paylaşımı size bırakırız."
+    },
+    {
+      "q": "Mahallemizde bilinen bir işletmeyiz, yine de web sitesine ihtiyacımız var mı?",
+      "a": "Mevcut müşterileriniz sizi tanıyor olabilir, ancak yeni gelenler önce internette arar. Basit ama güncel bir site ve doğru işletme profili, bu kişilerin sizi bulmasını kolaylaştırır."
+    },
+    {
+      "q": "Kurs merkezimizin dönem duyurularını kendimiz güncelleyebilir miyiz?",
+      "a": "Evet. Siteyi yönetim paneliyle teslim ediyoruz; duyuru, program ve galeri içeriklerini kod bilgisi olmadan ekleyip kaldırabilirsiniz."
+    },
+    {
+      "q": "Birden fazla şubemiz var, her biri için ayrı sayfa açmak gerekir mi?",
+      "a": "Genellikle evet. Her şube için adresi, çalışma saatleri, fotoğrafları ve harita konumu olan ayrı bir sayfa, o bölgede arama yapan kişiye doğru bilgiyi verir. Şubelerin işletme profilleri de bu sayfalara bağlanır."
+    }
+  ],
+  "relatedServices": ["ankara-sosyal-medya-yonetimi", "ankara-seo-hizmeti", "ankara-web-tasarim"],
+  "sources": [
+    { "title": "Keçiören – Vikipedi", "url": "https://tr.wikipedia.org/wiki/Ke%C3%A7i%C3%B6ren" }
+  ]
+}

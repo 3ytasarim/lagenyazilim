@@ -1,0 +1,53 @@
+{
+  "slug": "kayseri",
+  "name": "Kayseri",
+  "h1": "Kayseri Mobilya ve Sanayi Markalarına Web Tasarım ve Bayi Yazılımı",
+  "seoTitle": "Kayseri Web Tasarım ve Özel Yazılım | Lagen Yazılım",
+  "seoDescription": "Kayseri'deki mobilya, yatak ve sanayi firmalarına ürün kataloğu, bayi portalı ve kurumsal web sitesi. Ankara'dan uzaktan çalışıyoruz; projenizi konuşalım.",
+  "intro": "Kayseri, küçük atölyelerden ulusal markalara dönüşen işletmeleriyle Anadolu'nun ticaret geleneği en güçlü kentlerinden biri. Bu girişimci yapı bugün özellikle mobilya üretiminde kendini gösteriyor; şehir uzun süredir ülkenin önemli mobilya merkezleri arasında sayılıyor. Kayseri OSB'de ise ambalajdan elektriğe, makineden tekstile kadar çok farklı sektörde fabrika bulunuyor. Lagen Yazılım, Ankara'daki ofisinden Kayseri'deki üreticilerle uzaktan çalışıyor ve bayi ağı, katalog ve marka ihtiyaçlarına uygun web siteleri ile özel yazılımlar geliştiriyor.",
+  "localNeeds": "Kayseri'deki bir mobilya ya da yatak markası için en büyük dijital sorun genellikle ürün çeşitliliğinin bayilere ve son kullanıcıya düzgün aktarılmasıdır. Koltuk takımlarının kumaş seçenekleri, yatakların sertlik dereceleri ve ölçüleri ürün sayfasında karşılaştırılabilir biçimde sunulmalı. Yurt içinde yüzlerce bayiyle çalışan bir üretici için kampanya görsellerinin, fiyat listelerinin ve sipariş durumunun paylaşıldığı bir bayi portalı ciddi zaman kazandırır. Yurt dışı fuarlarda temas kurduğu alıcılara İngilizce, Rusça veya Arapça katalog göndermek isteyen firmalar çok dilli altyapıya ihtiyaç duyar. Perakende satış yapanlar ise mağaza bulucu ve yerel arama görünürlüğüyle müşteriyi en yakın bayiye yönlendirebilir.",
+  "localSectors": "Kayseri OSB'nin kendi sitesinde listelenen sektörler arasında mobilya ve ağaç ürünleri, metal ürünleri, makine, otomotiv yan sanayi, elektrik-elektronik, ev gereçleri, gıda, kimya ve tekstil yer alıyor. Mobilya, ilin ihracatına en çok katkı yapan kollardan biri olarak öne çıkıyor ve yatak üretimi de bu kümenin parçası. Kentin sanayi geçmişi Cumhuriyet'in ilk yıllarında kurulan bez ve uçak fabrikalarına kadar uzanıyor. Kayseri Serbest Bölgesi de dış ticarete yönelik firmalar için ayrı bir üretim ve depolama alanı sunuyor. Erciyes Dağı'ndaki kayak merkezi ise kış turizmini canlandırarak otel ve turizm işletmeleri için dijital tanıtım ihtiyacı doğuruyor. Bu çeşitlilik, aynı şehirde birbirinden çok farklı müşteri kitlelerine hitap eden firmaların yan yana çalıştığı anlamına geliyor.",
+  "serviceModel": "Kayseri'deki firmalarla süreç genellikle satış müdürü, bayi sorumlusu ve karar vericinin katıldığı bir video toplantıyla açılıyor. Bu toplantıda bayi yapınızı, ürün ağacınızı ve mevcut sipariş akışınızı ekran paylaşarak birlikte inceliyoruz. Kapsam netleştiğinde modüller ve takvim yazılı olarak paylaşılıyor, tasarımlar ise bağlantı üzerinden yorumlarınıza açılıyor. Bayi portalı gibi süreç odaklı projelerde, kullanıcıları dinlemek için fabrikanızda yüz yüze bir keşif çalıştayı planlanabilir. Teslim edilen sistemi yönetim paneli üzerinden kendi ekibiniz kullanıyor; yeni bir ihtiyaç doğduğunda modül eklenebiliyor.",
+  "faqs": [
+    {
+      "q": "Bayilerimiz sipariş durumunu portal üzerinden takip edebilir mi?",
+      "a": "Evet. Özel yazılım ile her bayinin kendi siparişlerini, durumlarını ve faturalarını gördüğü bir portal kurulabiliyor. Mevcut ERP sisteminizle entegrasyon ihtiyacı varsa keşif aşamasında ayrıca değerlendiriliyor."
+    },
+    {
+      "q": "Mobilya ürünlerinde kumaş ve renk seçeneklerini nasıl gösteririz?",
+      "a": "Her ürüne bağlı seçenek grupları tanımlanıyor; ziyaretçi bir kumaşı seçtiğinde ilgili görsel ve bilgi gösteriliyor. Elinizdeki ürün görselleri yönetim panelinden seçeneklere bağlanıyor."
+    },
+    {
+      "q": "Erciyes'teki bir otel için sezonluk kampanya sayfası açabilir miyiz?",
+      "a": "Evet. Kampanya veya sezon sayfaları yönetim panelinden oluşturulup yayın tarihleriyle planlanabiliyor. Sayfalar çok dilli hazırlanarak yabancı misafirlere de seslenebiliyor."
+    },
+    {
+      "q": "Sosyal medya hesaplarımızı da siz yönetebilir misiniz?",
+      "a": "Sosyal medya yönetimi hizmetimiz kapsamında içerik planı, paylaşım takvimi ve raporlama sunuyoruz. Paylaşımlarda markanızın mevcut ürün görselleri ve tasarım şablonları kullanılıyor."
+    },
+    {
+      "q": "Kayseri dışındaki bayilerimizi sitede haritada gösterebilir miyiz?",
+      "a": "Evet. İl ve ilçeye göre filtrelenen bir bayi bulucu eklenebiliyor. Bayi adres ve iletişim bilgilerini yönetim panelinden kendiniz ekleyip güncelleyebiliyorsunuz."
+    }
+  ],
+  "relatedServices": [
+    "ankara-ozel-yazilim",
+    "ankara-web-tasarim",
+    "ankara-sosyal-medya-yonetimi",
+    "ankara-katalog-tasarimi"
+  ],
+  "sources": [
+    {
+      "title": "Kayseri Organize Sanayi Bölgesi",
+      "url": "https://www.kayseriosb.org"
+    },
+    {
+      "title": "Mobilya kenti üç aşamalı büyüme rotası belirledi - Ekonomi Gazetesi",
+      "url": "https://www.ekonomigazetesi.com/sehirler/mobilya-kenti-uc-asamali-buyume-rotasi-belirledi-45986"
+    },
+    {
+      "title": "Kayseri - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Kayseri"
+    }
+  ]
+}

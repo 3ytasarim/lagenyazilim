@@ -1,0 +1,2 @@
+ALTER TABLE "region_pages" ADD COLUMN "related_service_ids" uuid[] DEFAULT '{}' NOT NULL;--> statement-breakpoint
+ALTER TABLE "region_pages" ADD COLUMN "quality_report" jsonb DEFAULT '[]'::jsonb NOT NULL;

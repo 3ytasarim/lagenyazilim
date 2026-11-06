@@ -1,0 +1,52 @@
+{
+  "slug": "evren",
+  "name": "Evren",
+  "h1": "Evren'deki Balıkçılık, Hububat ve Gölkıyısı İşletmeleri İçin Web Desteği",
+  "seoTitle": "Evren Web Sitesi ve Ürün Tanıtımı | Lagen Yazılım",
+  "seoDescription": "Evren'deki balık işleme, hububat ve tarım işletmeleri için ihracata uygun web sitesi, İngilizce sayfalar ve ürün kataloğu. İlk görüşme online yapılır.",
+  "intro": "Evren, Hirfanlı Baraj Gölü kıyısında yer alan ve Ankara'nın en doğusunda bulunan bir ilçe. Eski yerleşim baraj suları altında kaldığı için ilçe merkezi 1957'de bugünkü yerine taşınmış. Bugün gölde avlanan gümüş balığı ve geniş tarlalarda yetişen hububat, ilçe ekonomisinin iki önemli ayağı. Lagen Yazılım, Evren'deki üretici ve işletmelerin bu ürünleri dijitalde doğru anlatmasına destek oluyor.",
+  "localNeeds": "Yerel basına göre Hirfanlı'da avlanan balığın büyük kısmı yurt dışına gönderiliyor; bu da yabancı alıcıya hitap eden İngilizce bir tanıtım sayfasını anlamlı kılıyor. İşleme tesisi olan firmalar için kapasite, sezon takvimi ve hijyen belgelerini içeren sade bir B2B katalog güven sağlar. Hububat ve bakliyat üreticileri ise ürün çeşitlerini ve iletişim bilgisini listeleyen küçük bir siteyle tüccarlara ulaşabilir. Göl kıyısında konaklama ya da yeme içme işletmesi olanlar için Google işletme profili ve göl manzaralı fotoğraflar da işe yarar. Tarımsal ürünlerde sezon başı ve sonu bilgisinin güncel tutulması, alıcının doğru zamanda iletişime geçmesine yardım eder.",
+  "localSectors": "Karar gazetesinin haberine göre Hirfanlı Baraj Gölü'nde halk arasında kum balığı olarak bilinen gümüş balığı avlanıyor; av sezonu 45 gün sürüyor ve ürünün büyük bölümü ihraç ediliyor. Ankara İl Tarım ve Orman Müdürlüğü saha raporlarına dayanan yerel bir habere göre ilçede ekmeklik ve makarnalık buğday ile arpa üretimde ilk sırada. Susuz alanlarda yeşil ve kırmızı mercimek, nohut ve kışlık soğan yetiştiriliyor; son yıllarda mısır ve ayçiçeği ekimi de artmış. Göl kıyısındaki kazılarda fosil kalıntıları bulunduğu da kaynaklarda yer alıyor. Ekonominin göl ve tarla üzerine kurulu bu yapısı, ilçedeki işletmelerin ürünlerini ilçe sınırlarının ötesine anlatmasını gerekli kılıyor. Vikipedi'ye göre ilçenin kuzeyinden ve doğusundan Kızılırmak geçiyor.",
+  "serviceModel": "Evren'deki işletmelerle tanışma ve ihtiyaç analizi toplantısını online yapıyoruz. İçerik ve sayfa yapısı netleştikten sonra, sitenin av sezonu ya da hasat öncesinde yayında olması için takvimi geriye doğru planlıyoruz. İhracata dönük sayfalar için çeviri metinleri sizden ya da çevirmeninizden alıyoruz. Teslimden sonra ürün, belge, fotoğraf ve sezon bilgilerini yönetim panelinden kendiniz güncelliyorsunuz. İlçe merkeze uzak olduğu için toplantıların büyük kısmını görüntülü görüşmeyle yürütmek iki taraf için de zaman kazandırıyor. Gerekirse ürün etiketleri ve tanıtım broşürü için baskıya hazır dosyalar da aynı süreçte hazırlanıyor.",
+  "faqs": [
+    {
+      "q": "Yabancı alıcılara yönelik İngilizce bir sayfa ne içermeli?",
+      "a": "Ürün tanımı, ambalaj ve sevkiyat seçenekleri, sezon takvimi, belgeler ve iletişim bilgisi temel başlıklardır. Bu başlıklar sade bir katalog düzeninde sunulur."
+    },
+    {
+      "q": "Merkeze uzak bir ilçedeyiz, süreç uzaktan yürür mü?",
+      "a": "Evet. Toplantılar görüntülü yapılıyor, metin ve görselleri ortak bir klasör üzerinden bize iletiyorsunuz. Ekran onayları da çevrim içi bağlantı paylaşılarak alınıyor."
+    },
+    {
+      "q": "Küçük bir üreticiyiz, tek sayfalık bir site yeterli olur mu?",
+      "a": "Başlangıç için çoğu zaman yeterlidir. Yönetim paneli sayesinde ürün ve sayfa ekleyerek siteyi zamanla büyütebilirsiniz."
+    },
+    {
+      "q": "Sezon dışında sitemizde ne paylaşmalıyız?",
+      "a": "Bir sonraki av ya da hasat dönemi için ön bilgi, depolama ve sevkiyat seçenekleri ile işletmenizi tanıtan fotoğraflar sitenin güncel kalmasını sağlar. Bu bilgileri yönetim panelinden istediğiniz zaman değiştirebilirsiniz."
+    }
+  ],
+  "relatedServices": [
+    "ankara-web-tasarim",
+    "ankara-katalog-tasarimi",
+    "ankara-seo-hizmeti"
+  ],
+  "sources": [
+    {
+      "title": "Evren, Ankara - Vikipedi",
+      "url": "https://tr.wikipedia.org/wiki/Evren,_Ankara"
+    },
+    {
+      "title": "Ankara'da avlanıyor, yurt dışına gönderiliyor - Karar",
+      "url": "https://www.karar.com/ekonomi-haberleri/ankarada-avlaniyor-yurt-disina-gonderiliyor-gecen-yil-300-tona-2046795"
+    },
+    {
+      "title": "Evren tarım raporu: İlçede en çok hangi ürünler yetişiyor? - Yeni Ankara",
+      "url": "https://www.yeniankara.com.tr/evren/evren-tarim-raporu-ilcede-en-cok-hangi-urunler-yetisiyor-174562"
+    },
+    {
+      "title": "Ankara'nın en batısı ve en doğusunda hangi mahalleler var? - Yeni Ankara",
+      "url": "https://www.yeniankara.com.tr/ankara/ankaranin-en-batisi-ve-en-dogusunda-hangi-mahalleler-var-176944"
+    }
+  ]
+}

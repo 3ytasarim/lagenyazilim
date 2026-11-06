@@ -1,0 +1,48 @@
+{
+  "slug": "bursa",
+  "name": "Bursa",
+  "h1": "Bursa'daki Üretici ve Tedarikçiler İçin Web Tasarım ve Teknik Katalog",
+  "seoTitle": "Bursa Web Tasarım ve Özel Yazılım | Lagen Yazılım",
+  "seoDescription": "Bursa'daki otomotiv yan sanayi, tekstil ve makine firmalarına çok dilli kurumsal site, teknik katalog ve özel yazılım. Uzaktan süreç, panel dahil. Teklif alın.",
+  "intro": "Türkiye'nin ilk organize sanayi bölgesinin kurulduğu şehir olan Bursa'da işlerin büyük kısmı fabrikadan fabrikaya yürür. Otomotiv ana ve yan sanayi, tekstil, makine imalatı ve gıda ilin sanayisinde ve ihracatında ilk sıralarda yer alır. Böyle bir ortamda web sitesi çoğu zaman perakende satış aracı değil, satın alma departmanlarının tedarikçi araştırırken baktığı bir referans belgedir. Lagen Yazılım, Ankara'daki ofisinden Bursalı üreticilerle uzaktan çalışarak bu referansı güçlü, güncel ve anlaşılır hale getirir.",
+  "localNeeds": "Bir satın almacı yeni bir tedarikçiyi değerlendirirken üretim kabiliyetini, makine parkurunu, kalite belgelerini ve ürün ölçülerini hızlıca görmek ister. Bu nedenle Bursa'daki firmalar için en değerli içerik genellikle filtrelenebilir ürün sayfaları, teknik çizim ya da veri sayfası indirme bağlantıları ve sade bir teklif isteme formudur. Yabancı müşterilerle çalışan firmalarda İngilizce ve gerektiğinde Almanca gibi ek dillerle kurgulanmış bir yapı beklenir. Bazı işletmelerde ise ihtiyaç siteyi aşar: bayi siparişlerinin, numune taleplerinin ya da teklif süreçlerinin takip edileceği özel bir yazılım iş yükünü belirgin biçimde azaltabilir.",
+  "localSectors": "Bursa Organize Sanayi Bölgesi ile Demirtaş OSB, şehrin üretim gücünün simgeleri arasındadır; sanayi zamanla İzmir ve Ankara yolları boyunca da genişlemiştir. Otomotivde hem ana üreticiler hem de onlara parça veren geniş bir yan sanayi ağı bulunur. Tekstil ve hazır giyim, havlu gibi ev tekstili ürünleriyle birlikte ihracatın diğer önemli kalemidir. Bunların yanında Uludağ, Türkiye'nin ilk kayak merkezi olarak kış turizmini, kaplıcalar ise termal turizmi taşır. Bursa Uludağ Üniversitesi ve Bursa Teknik Üniversitesi de sanayiyle iş birliği yapan mühendislik kadrolarının yetiştiği kurumlardır.",
+  "serviceModel": "Bursalı bir üreticiyle çalışırken ilk adım, satış ekibinin müşteriden en sık aldığı soruları dinlemektir; bu görüşme video toplantıyla yapılır. Ürün grupları, teknik veriler ve belgeler ortak bir klasöre aktarılır, biz de bunları düzenli bir ürün mimarisine dönüştürürüz. Tasarım, metin ve katalog sayfaları paylaşımlı dokümanlarda incelenir, onaylar çevrim içi alınır ve vardiya düzeninde çalışan ekiplerin toplantı yükü en aza indirilir. Ürün yelpazesi çok genişse ya da özel yazılım için iş akışının yerinde gözlenmesi gerekiyorsa tesis ziyareti planlanabilir. Sonuçta ürün ekleme ve güncelleme işlerini kendi ekibinizin yapacağı bir yönetim paneli teslim edilir.",
+  "faqs": [
+    {
+      "q": "Yüzlerce ürün kodumuz var; bunları siteye tek tek mi gireceğiz?",
+      "a": "Gerek yok. Elinizdeki Excel ya da ERP çıktısından toplu aktarım yapılabilir. Sonrasında yeni ürünleri yönetim panelinden tek tek veya yine toplu olarak ekleyebilirsiniz."
+    },
+    {
+      "q": "Teknik çizimlerimizi herkese açık paylaşmak istemiyoruz, çözüm var mı?",
+      "a": "Belirli dokümanları sadece form doldurarak ya da yetkilendirilmiş bayi girişiyle erişilebilir yapabiliriz. Hangi bilgilerin açık, hangilerinin kısıtlı olacağına birlikte karar veririz."
+    },
+    {
+      "q": "Bayi siparişlerimizi e-posta ve telefonla alıyoruz, bunu dijitalleştirebilir miyiz?",
+      "a": "Bu tam olarak özel yazılımın değer kattığı bir alan. Bayilerin sipariş verip durum takibi yapabildiği bir portal, mevcut süreçleriniz incelendikten sonra kapsamlandırılır."
+    },
+    {
+      "q": "Basılı katalog da hazırlıyor musunuz?",
+      "a": "Evet, katalog tasarımı hizmetimiz kapsamında baskıya uygun dosyalar hazırlanır. Aynı içerik sitedeki ürün sayfalarıyla uyumlu tutulursa güncelleme yükü de azalır."
+    },
+    {
+      "q": "Uludağ veya termal bölgede bir konaklama tesisiyiz; sanayi odaklı mı çalışıyorsunuz?",
+      "a": "Hayır, sanayi Bursa'da öne çıksa da turizm işletmeleriyle de çalışırız. Kış ve termal sezonuna göre güncellenebilen sayfalar, mobilde hızlı açılan oda ve hizmet tanıtımları, doğrudan talep butonları ve güncel bir Google İşletme Profili bu tür tesisler için önceliklidir."
+    }
+  ],
+  "relatedServices": [
+    "ankara-web-tasarim",
+    "ankara-katalog-tasarimi",
+    "ankara-ozel-yazilim"
+  ],
+  "sources": [
+    {
+      "title": "Bursa – Vikipedi",
+      "url": "https://tr.wikipedia.org/wiki/Bursa"
+    },
+    {
+      "title": "Uludağ İhracatçı Birlikleri – Bursa İli Raporu 2021",
+      "url": "https://uib.org.tr/tr/library-download/bursa-ili-raporu-2021"
+    }
+  ]
+}

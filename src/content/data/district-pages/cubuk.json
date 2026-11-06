@@ -1,0 +1,56 @@
+{
+  "slug": "cubuk",
+  "name": "Çubuk",
+  "h1": "Çubuk Turşusu Üreticileri İçin E-Ticarete Hazır Site ve Ürün Kataloğu",
+  "seoTitle": "Çubuk Web Tasarım, Katalog ve SEO | Lagen Yazılım",
+  "seoDescription": "Çubuk'taki turşu üreticileri, kooperatifler ve tarım işletmeleri için e-ticarete hazır web sitesi, basılı ve dijital ürün kataloğu ile SEO.",
+  "intro": "Çubuk turşusu, Çubuk Belediyesi adına tescilli bir coğrafi işaret ve ilçenin adını Türkiye'nin dört bir yanına taşıyor. Yerel haberlere göre ilçede onlarca çeşit turşu üretiliyor ve ürünler yurt dışına da gönderiliyor. Her eylül düzenlenen uluslararası turşu ve kültür festivali ise üreticiler, kooperatifler ve esnaf için bir vitrin işlevi görüyor. Lagen Yazılım, bu vitrini yılın tamamına yayacak web sitesi ve katalog çalışmaları yapıyor. Üretici, kooperatif ya da küçük aile işletmesi olsun, ürünlerini düzenli ve güvenilir şekilde göstermek isteyen herkes için uygun bir yapı kurulabilir.",
+  "localNeeds": "Turşu üreticisinin en büyük ihtiyacı, kavanoz çeşitlerini, gramajları ve içerikleri düzenli gösteren bir ürün kataloğudur. Toptan alıcı, market zinciri ya da ihracat temsilcisi bu bilgileri hızlıca bulabilmelidir. Perakende satış düşünen işletmeler için sepet ve ödeme adımı eklenebilecek, e-ticarete hazır bir altyapı mantıklı bir başlangıçtır. Üreticinin kendi kaydettiği hasat ve kavanozlama kareleri, panelden eklendiğinde hem siteye hem sosyal medyaya samimi bir içerik sağlar. Ayrıca festival günlerinde standı ziyaret eden müşterilerin sonradan sipariş verebileceği bir adres, satışın festivalden sonra da sürmesini sağlar. Ürün içeriği, saklama koşulları ve son tüketim bilgisi gibi detaylar her ürün kartında aynı düzende yer almalıdır.",
+  "localSectors": "Vikipedi'ye göre Çubuk ekonomisinin temeli tarım ve hayvancılık; Çubuk Ovası ve Çubuk Çayı'nın suladığı topraklar tarımın merkezinde yer alıyor. Turşuculuk son yirmi yılda ilçenin öne çıkan sektörlerinden biri hâline geldi. Organize hayvancılık tesisleri üzerinde yürütülen çalışmalar da kaynaklarda anılıyor. Karagöl, Kavşakkaya Barajı, Aydos ve Meşeli yaylaları ise ilçenin bilinen piknik ve dinlenme alanları arasında. Tarım ve gıda işleme bu nedenle ilçede birbirine sıkı bağlı iki alan olarak görülüyor.",
+  "serviceModel": "Çubuk'taki bir üreticiyle çalışmaya, ürün listesini ve satış kanallarını konuştuğumuz bir toplantıyla başlıyoruz; bu toplantı ofisimizde, iş yerinizde ya da online olabilir. Ürün kartlarının alanları ve katalog düzeni onaylandıktan sonra, gramaj, içerik ve görsellerinizi bir tablo üzerinden topluyoruz. Site, ürün ekleme ve fiyat güncelleme işlemlerini kendiniz yapacağınız bir yönetim paneliyle teslim ediliyor. Arama motoru tarafında ise ürün sayfalarının teknik yapısı ve içerikleri aramalara uygun şekilde düzenleniyor. Bu düzenlemeler sıralama garantisi değil, aramalarda doğru anlaşılmanın zeminidir.",
+  "faqs": [
+    {
+      "q": "Sitemizde coğrafi işaret logosunu kullanabilir miyiz?",
+      "a": "Kullanım hakkı tescil sahibinin belirlediği kurallara bağlıdır. Bu yetkiyi Çubuk Belediyesi üzerinden netleştirdiğinizde logo ve açıklama ürün sayfalarına eklenebilir."
+    },
+    {
+      "q": "Hemen online satış yapmak istemiyoruz, sonradan eklenebilir mi?",
+      "a": "Evet. Site katalog olarak açılıp ürün yapısı e-ticarete uygun kurulabiliyor. Hazır olduğunuzda sepet ve ödeme adımları eklenerek satışa geçiliyor."
+    },
+    {
+      "q": "Festival için basılı katalog da hazırlıyor musunuz?",
+      "a": "Evet, katalog tasarımı hizmetimiz kapsamında basıma uygun dosya hazırlanıyor. Aynı içerik web sitesindeki ürün sayfalarıyla uyumlu tutuluyor."
+    },
+    {
+      "q": "Kooperatif olarak birden fazla üreticiyi tek sitede gösterebilir miyiz?",
+      "a": "Evet. Üretici profilleri ve her üreticiye bağlı ürünler ayrı ayrı listelenebiliyor; içerik yetkileri de panelde kişilere göre ayarlanabiliyor."
+    },
+    {
+      "q": "Market zincirleri için ayrı bir toptan fiyat listesi sunabilir miyiz?",
+      "a": "Evet. Herkese açık sitede perakende bilgiler kalırken, toptan fiyatlar şifreli bir alanda ya da talep üzerine gönderilen PDF listede tutulabiliyor. Hangi yolun uygun olduğu alıcı sayınıza göre belirleniyor."
+    }
+  ],
+  "relatedServices": [
+    "ankara-web-tasarim",
+    "ankara-katalog-tasarimi",
+    "ankara-seo-hizmeti"
+  ],
+  "sources": [
+    {
+      "title": "Çubuk, Ankara - Vikipedi",
+      "url": "https://tr.wikipedia.org/wiki/%C3%87ubuk,_Ankara"
+    },
+    {
+      "title": "Çubuk Turşusu coğrafi işaret tescil belgesi - TÜRKPATENT",
+      "url": "https://ci.turkpatent.gov.tr/Files/GeographicalSigns/db2aaf75-1377-44a6-864e-e89bc6fb618e.pdf"
+    },
+    {
+      "title": "Çubuk'ta 45 çeşit turşu üretiliyor, ürünler 15 ülkeye ihraç ediliyor - Milliyet Uzmanpara",
+      "url": "https://uzmanpara.milliyet.com.tr/uzmanpara/cubukta-45-cesit-tursu-uretiliyor-urunler-15-ulkeye-ihrac-ediliyor-7646618"
+    },
+    {
+      "title": "Çubuk Turşu Festivali stand başvuruları başladı - Yeni Ankara",
+      "url": "https://www.yeniankara.com.tr/cubuk/cubuk-tursu-festivali-stand-basvurulari-basladi-tarihler-belli-oldu-175064"
+    }
+  ]
+}

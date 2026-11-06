@@ -1,0 +1,37 @@
+{
+  "slug": "etimesgut",
+  "name": "Etimesgut",
+  "h1": "Etimesgut'taki Servis, Nakliye ve Mağazalar İçin Yerel Dijital Görünürlük",
+  "seoTitle": "Etimesgut Web Sitesi ve Yerel SEO | Lagen Yazılım",
+  "seoDescription": "Etimesgut'taki oto servis, nakliye ve perakende işletmeleri için web sitesi, yerel SEO ve sosyal medya yönetimi. Yerinizde veya online görüşme.",
+  "intro": "Etimesgut'ta müşteri çoğu zaman telefonundan \"yakınımdaki servis\" ya da \"nakliye firması\" diye arayarak gelir. Bu aramada görünmeyen işletme, işi yan dükkâna kaptırabilir. Lagen Yazılım olarak sanayi sitelerindeki ustalara, nakliyecilere ve alışveriş merkezlerindeki mağazalara hızlı açılan web siteleri kuruyor, yerel SEO ve sosyal medya ile bunları destekliyoruz. Kurduğumuz siteleri yönetim paneliyle teslim ediyoruz, böylece kampanya ya da hizmet bilgisini kendiniz değiştirebilirsiniz.",
+  "localNeeds": "Bir oto servisi için en değerli dijital varlık, doğru adres ve çalışma saatleri olan bir Google İşletme Profili ile ona bağlı sade bir hizmet sayfasıdır. Nakliye ve taşımacılık firmaları ise teklif isteğini hızla alacak kısa bir form ve WhatsApp bağlantısından fayda görür. AVM'lerde ya da cadde üzerinde mağazası olan işletmeler için düzenli sosyal medya paylaşımı ve güncel kampanya sayfası yeni müşteri getirir. Konut bölgelerinde hizmet veren işletmelerde mahalle adlarıyla aranan sorgulara yönelik içerik de etkilidir. Tüm bunların ortak noktası, mobilde hızlı açılan ve tek dokunuşla aranabilen bir sitedir.",
+  "localSectors": "Etimesgut'un ticari yapısında küçük sanayi ve hizmet alanları öne çıkar. İlçede Şaşmaz oto sanayi sitesi, Yeşilçam küçük sanayi sitesi ve bir nakliyeciler sitesi bulunur. Ankara Şeker Fabrikası kampüsü de ilçe sınırları içindedir. Eryaman, planlı toplu konutların bulunduğu büyük bir yerleşim bölgesidir ve ilçede Eryaman Port, Metromall ve Gimsa Park gibi çok sayıda alışveriş merkezi bulunur. Ayrıca askeri havaalanı, Türkkuşu tesisleri ve kara havacılık tesisleri Etimesgut'tadır.",
+  "serviceModel": "Projeye işletmenizi tanıyarak başlıyoruz: servis atölyenize, deponuza ya da mağazanıza gelebilir veya görüşmeyi çevrim içi yapabiliriz. Çankaya Harbiye'deki ofisimizde buluşmak isteyenler için o seçenek de açık. İlk adımda Google İşletme Profili'nizi, mevcut sosyal medya hesaplarınızı ve rakiplerin arama sonuçlarını birlikte inceliyoruz. Ardından site, profil düzenlemesi ve paylaşım takvimini tek plan hâlinde sunuyoruz. Atölye, araç filosu ya da vitrin fotoğraflarını panelden kendiniz yükleyebilirsiniz; hangi karelerin işletme profilinde daha çok işe yarayacağını ise birlikte konuşuyoruz.",
+  "faqs": [
+    {
+      "q": "Şaşmaz'daki oto servisimiz için Google haritalarda görünürlüğü artırabilir misiniz?",
+      "a": "Google İşletme Profili'nizi eksiksiz hâle getiriyor, hizmetlerinizi anlatan sayfaları sitenizde oluşturuyor ve ikisini birbirine bağlıyoruz. Belirli bir sıralama sözü vermiyoruz ancak yapılan her adımı raporluyoruz."
+    },
+    {
+      "q": "Nakliye firmamız için online fiyat teklifi formu ekleyebilir misiniz?",
+      "a": "Evet. Çıkış ve varış adresi, eşya türü ve tarih gibi alanları içeren bir teklif formu kuruyoruz. Gelen talepler e-postanıza ve yönetim paneline düşer."
+    },
+    {
+      "q": "AVM'deki mağazamızın sosyal medya hesaplarını yönetiyor musunuz?",
+      "a": "Sosyal medya yönetimi hizmetimizle aylık içerik planı hazırlıyor, görselleri tasarlıyor ve paylaşımları takip ediyoruz. Kampanya dönemlerinde plana ek içerikler ekliyoruz."
+    },
+    {
+      "q": "Eryaman'da hizmet veren bir işletmeyiz; sadece çevre mahallelerden müşteri almak istiyoruz. Bu mümkün mü?",
+      "a": "Evet. Sayfalarda hizmet verdiğiniz bölgeleri açıkça belirtiyor, işletme profilinde hizmet alanınızı tanımlıyoruz. Reklam kullanırsanız hedeflemeyi de bu bölgelerle sınırlamak mümkün. Böylece uzaktan gelen ve dönüşmeyecek talepler azalır."
+    },
+    {
+      "q": "Müşteri yorumlarına nasıl yanıt vermeliyiz?",
+      "a": "Her yoruma kısa ve kişisel bir yanıt vermenizi öneriyoruz. Olumsuz yorumlarda sorunu kabul edip çözüm yolunu yazmak, okuyan diğer müşteriler üzerinde iyi bir etki bırakır. Bunun için size basit yanıt şablonları da hazırlıyoruz."
+    }
+  ],
+  "relatedServices": ["ankara-seo-hizmeti", "ankara-sosyal-medya-yonetimi", "ankara-web-tasarim"],
+  "sources": [
+    { "title": "Etimesgut – Vikipedi", "url": "https://tr.wikipedia.org/wiki/Etimesgut" }
+  ]
+}
